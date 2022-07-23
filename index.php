@@ -24,16 +24,30 @@
         <hr>
 
         <!-- webtoons grid -->
-        <div id="webtoon-container" class="row row-cols-2  row-cols-md-4 row-cols-xl-4">
-            <?php
-            // $sql = "SELECT * FROM `webtoons`";
-            $sql = "SELECT * FROM `webtoons` ORDER BY `updated_on` DESC LIMIT 20";
-            $result = mysqli_query($conn, $sql);
 
-            // 
-            include 'webtoon_grid.php';
-
-            ?>
+        <div id="webtoon-container">
+            <div id="post-container">
+                <div id="cover-container">
+                    <a href="">
+                        <img class="cover-img" src="123.jpg" alt="WebtoonWorld">
+                    </a>
+                </div>
+                <div class="item-summary">
+                    <div class="post-tile">
+                        <h3><a href="">Title</a></h3>
+                    </div>
+                    <div class="list-chapter">
+                        <div class="chapter-item">
+                            <span class="chapter-btn"><a href="">Chapter 99</a></span>
+                            <span class="post-on">Aug 9,2020</span>
+                        </div>
+                        <div class="chapter-item">
+                            <span class="chapter-btn"><a href="">Chapter 98</a></span>
+                            <span class="post-on">Aug 9,2020</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
 
