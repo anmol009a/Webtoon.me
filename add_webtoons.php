@@ -1,44 +1,68 @@
 <?php
 include "partials/_dbconnect.php";
 
+
+include "functions/download_file.php";
+
 $file_name = 'reaperscans.com';
-// ---------------------------------------------------------------------
-$fptr = fopen($file_name, "r");  // opening file in read mode
-$content = fread($fptr, filesize($file_name));   // reading contents of the file
-fclose($fptr);  // closing file
-
-$regex = '/title="([\w\W]{3,50})">[\s]<img width="[\d]*" height="[\d]*" data-src="(https:\/\/reaperscans\.com\/wp-content\/uploads\/[\w\W]{10,40}\.[\w]{3,4})[\w\W]{10,800}<h3 class="h5">[\s]*<a href="(https:\/\/reaperscans\.com\/series\/[\w-]{3,50}\/)/';
-
-// title and webtoon link
-// <h3 class="h5">[\s]*<a href="(https:\/\/reaperscans\.com\/series\/[\w-]{3,50}\/)">
-
-// webtoon cover and title
-// /title="([\w\W]{3,50})">[\s]<img width="[\d]*" height="[\d]*" data-src="(https:\/\/reaperscans\.com\/wp-content\/uploads\/[\w\W]{10,40}\.[\w]{3,4})"/
-
-// title, cover, link
-// /title="([\w\W]{3,50})">[\s]<img width="[\d]*" height="[\d]*" data-src="(https:\/\/reaperscans\.com\/wp-content\/uploads\/[\w\W]{10,40}\.[\w]{3,4})[\w\W]{10,800}<h3 class="h5">[\s]*<a href="(https:\/\/reaperscans\.com\/series\/[\w-]{3,50}\/)/gm
+include "functions/open_file.php";
 
 
-if (preg_match_all($regex, $content, $matches)) {
+include "regex.php";
+
+if (preg_match_all($regex1, $content, $matches)) {
 
     // ===================================================
     for ($i = 0; $i < count($matches[0]); $i++) {
         $webtoon_title = $matches[1][$i];
-        $webtoon_cover = $matches[2][$i];
-        $webtoon_link = $matches[3][$i];
+        $img_url = $matches[2][$i];
+        $img_ext = $matches[3][$i];
+        $webtoon_link = $matches[4][$i];
 
-        $sql = "INSERT INTO `webtoons` (`w_title`, `w_link`, `w_cover`) VALUES ('$webtoon_title', '$webtoon_link', '$webtoon_cover')";
-        $result = mysqli_query($conn, $sql);
+        // fetching webtoon records if exits
+        $sql3 = "SELECT `w_id`, `w_title`,`w_cover` FROM `webtoons`where `webtoons`.`w_title`='$webtoon_title'";
+        $result3 = mysqli_query($conn, $sql3);
+        $row3 = mysqli_fetch_assoc($result3);
+        $w_title = $row3['w_title'];
+        $w_id = $row3['w_id'];
+        $w_cover = $row3['w_cover'];
 
-        if ($result) {
-            echo "Updated: " . $webtoon_title;
-            echo "<br>";
-        } else {
-            echo "Failed: " . $webtoon_title . " || " . mysqli_error($conn);
-            echo "<br>";
+
+        include "functions/save_img.php";
+
+
+        // inserting webtoon details into db
+        
+        if ($w_title !== $webtoon_title) {
+
+            $sql = "INSERT INTO `webtoons` (`w_title`, `w_link`, `w_cover`) VALUES ('$webtoon_title', '$webtoon_link', '$img_path')";
+            $result = mysqli_query($conn, $sql);
+
+            if ($result) {
+                echo "Inserted: " . $webtoon_title;
+                echo "<br>";
+            } else {
+                echo "Failed to download webtoon : $webtoon_title || " . mysqli_error($conn);
+                echo "<br>";
+            }
+        } elseif ($img_path !== $w_cover) {
+            $sql = "UPDATE `webtoons` SET `w_cover` = '$img_path' WHERE `webtoons`.`w_id` = $w_id;";
+            $result = mysqli_query($conn, $sql);
+
+            if ($result) {
+                echo "Updated: " . $webtoon_title;
+                echo "<br>";
+            } else {
+                echo "Failed to download webtoon : $webtoon_title || " . mysqli_error($conn);
+                echo "<br>";
+            }
         }
+        // echo $webtoon_title;
+        echo "<br>";
     }
 } else {
-    echo "none";
+    echo "No Match Found";
     echo "<br>";
 }
+echo "END";
+echo "<br>";

@@ -2,99 +2,66 @@
 <html lang="en">
 
 <head>
-    <?php include 'partials/_header.php'; ?>
+    <?php
+    include "partials/_header.php";
+    ?>    
 </head>
 
-<body id="body-theme" class="bg-dark text-light">
-
+<body>
     <!-- Navbar -->
-    <?php include 'partials/_navbar.php'; ?>
-
-
-    <div id="box" class="container my-3">
-        <!-- Welcome Message -->
-        <h2>Welcome to WebtoonWorld</h2>
-        <hr>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi natus quaerat sed iusto laborum placeat
-            numquam velit deserunt provident porro pariatur blanditiis accusamus eveniet officiis a, quia soluta officia
-            suscipit nam nulla? Aliquid debitis, architecto odit minima tenetur accusamus pariatur?</p>
-
-        <!--  -->
-        <h2 class="d-inline">Updated Webtoons</h2>
-        <hr>
-
-        <!-- webtoons grid -->
-
-        <div id="webtoon-container">
-            <div id="post-container">
-                <div id="cover-container">
-                    <a href="">
-                        <img class="cover-img" src="123.jpg" alt="WebtoonWorld">
-                    </a>
-                </div>
-                <div class="item-summary">
-                    <div class="post-tile">
-                        <h3><a href="">Title</a></h3>
-                    </div>
-                    <div class="list-chapter">
-                        <div class="chapter-item">
-                            <span class="chapter-btn"><a href="">Chapter 99</a></span>
-                            <span class="post-on">Aug 9,2020</span>
-                        </div>
-                        <div class="chapter-item">
-                            <span class="chapter-btn"><a href="">Chapter 98</a></span>
-                            <span class="post-on">Aug 9,2020</span>
-                        </div>
-                    </div>
-                </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">WebtoonWorld</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Dropdown
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled">Disabled</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
             </div>
-
         </div>
+    </nav>
 
-
-
+    <!-- Latest Comics -->
+    <div class="container pt-2">
+        <h2 class="text-center">Latest Comics</h2>
+        <hr>
+        <!--  -->
+        <div class="post-listing row row-cols-6">
+            <!--  -->
+            <?php
+            include "webtoon_grid.php";
+            ?>
+        </div>
     </div>
 
-
-    <div class="d-grid gap-2">
-        <button id="loadMoreBtn" class="btn btn-success" type="button">Load More</button>
-    </div>
-
-
-    <!-- footer -->
-    <?php include 'partials/_footer.php'; ?>
-
-    <script>
-        {
-            async function getWebtoons(webtoonType) {
-                // console.log('Inside getWebtoons function');
-                const response = await fetch(webtoonType);
-                // console.log('before response');
-                const webtoons = await response.text();
-                // document.getElementById("webtoon-container").innerHTML = webtoons;
-                return webtoons;
-            }
-
-            // ---------------------------------
-            // first time webtoon loader
-            // a = getWebtoons(`webtoon_grid.php`);
-            // a.then(webtoons => document.getElementById("webtoon-container").innerHTML += webtoons)
-
-            // load more btn handler
-            let webtoon_offset = 20;
-            let loadMoreBtn = document.getElementById('loadMoreBtn');
-            loadMoreBtn.addEventListener('click', loadMoreBtnHandler);
-
-            function loadMoreBtnHandler() {
-                console.log('You have clicked the loadMoreBtn');
-                a = getWebtoons(`webtoon_grid.php?webtoon_offset=${webtoon_offset}`);
-                a.then(webtoons => document.getElementById("webtoon-container").innerHTML += webtoons)
-                webtoon_offset += 20;
-
-            }
-        }
-    </script>
-
+    <?php include "partials/_footer.php"; ?>
 </body>
 
 </html>
