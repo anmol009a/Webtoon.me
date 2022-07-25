@@ -4,7 +4,6 @@ include "partials/_dbconnect.php";
 $noresults = true;
 
 $searchString = $_GET['s'];
-// echo $searchString;
 
 $website_url = 'https://www.webtoon.xyz/read/';
 
