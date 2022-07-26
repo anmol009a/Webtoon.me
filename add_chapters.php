@@ -1,13 +1,17 @@
 <?php
 // connect to db
 include "partials/_dbconnect.php";
+include "functions.php";
 
-// download webtoon file
-include "functions/download_file.php";
+// download webtoons file
+$url = 'https://reaperscans.com/latest-comic/';
+$file_name = basename($url);    // Use basename() function to return the base name of file
+download_file($url,$file_name);
 
-// get webtoon file content
+
+// get webtoons file content
 $file_name = 'reaperscans.com';
-include "functions/open_file.php";
+$content = open_file($file_name);
 
 // get regular expressions
 include "regex.php";
@@ -28,6 +32,8 @@ if (preg_match_all($regex3, $content, $matches)) {
         $result = mysqli_query($conn, $sql);
         $row = mysqli_fetch_assoc($result);
         $webtoon_id = $row['w_id'];
+        echo $sql;
+        echo "<br>";
 
 
         // fetch last c_no of webtoon
@@ -35,6 +41,7 @@ if (preg_match_all($regex3, $content, $matches)) {
         $result = mysqli_query($conn, $sql);
         $row = mysqli_fetch_assoc($result);
         $c_no = $row['c_no'];
+        
 
         if ($c_no < $chapter_no) {
             // insert chapters into db

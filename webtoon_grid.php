@@ -2,7 +2,7 @@
 include "partials/_dbconnect.php";
 
 // $sql = "SELECT * FROM `webtoons`";
-$sql = "SELECT * from `webtoons` ORDER BY `updated_on` DESC LIMIT 20";
+$sql = "SELECT * from `webtoons` ORDER BY `last_mod` DESC LIMIT 20";
 $result = mysqli_query($conn, $sql);
 
 

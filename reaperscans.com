@@ -12,7 +12,7 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Reaper Scans &raquo; Feed" href="https://reaperscans.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Reaper Scans &raquo; Comments Feed" href="https://reaperscans.com/comments/feed/" />
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/reaperscans.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.4"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
@@ -133,43 +133,43 @@ body.manga-page .profile-manga .tab-summary .post-rating .post-total-rating i.io
 </style>
 <link rel='stylesheet' id='mycred-front-css' href='https://reaperscans.com/wp-content/plugins/mycred/assets/css/mycred-front.css?ver=2.1.1' type='text/css' media='all' />
 <link rel="stylesheet" type="text/css" href="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=8ff2e0c4" media="all">
-<style data-related="n2-ss-20">div#n2-ss-20 .n2-ss-slider-1{position:relative;display:grid;}div#n2-ss-20 .n2-ss-slider-2{display:grid;grid-template-areas:'full';position:relative;overflow:hidden;border:0px solid RGBA(62,62,62,1);box-sizing:border-box;border-radius:0px;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:fixed;z-index:1;}div#n2-ss-20 .n2-ss-slider-2 > *{grid-area:full;}div#n2-ss-20 .n2-ss-slider-2 > .n2-ss-preserve-size{max-width:885px;}div#n2-ss-20 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:20;}div#n2-ss-20 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-20 .n2-ss-showcase-slides{place-self:center;position:relative;display:grid;grid-template-areas:'slide';width:100%;max-width:885px;perspective-origin:50% 50%;perspective:2000px;opacity:0.001;transform:translateX(-100000px);}div#n2-ss-20 .n2-ss-showcase-slides > *{grid-area:slide;}div#n2-ss-20 .n2-ss-showcase-slides--ready{animation-name:showcase-fade-in;animation-duration:1s;opacity:1;transform:none;}div#n2-ss-20 .n2-ss-slide{display:block;width:100%;border-radius:0px;border:0px solid RGBA(62,62,62,1);box-sizing:border-box;backface-visibility:hidden;}div#n2-ss-20.n2-ss-showcase-vertical .n2-ss-slide{clear:left;}div#n2-ss-20 .n2-ss-slide-inner{position:relative;width:100%;height:100%;z-index:20;}div#n2-ss-20 .n2-ss-showcase-overlay{width:100%;height:100%;cursor:pointer;position:absolute;top:0;left:0;z-index:2000000;display:block;}div#n2-ss-20 .n2-ss-slide-active .n2-ss-showcase-overlay{display:none;}div#n2-ss-20 .smart-slider-animate-in .n2-ss-showcase-overlay,div#n2-ss-20 .smart-slider-animate-out .n2-ss-showcase-overlay{display:block;}div#n2-ss-20 .n2-ss-slide-active{z-index:3;display:block;}div#n2-ss-20 .n2-ss-slide{perspective:2000px;}@keyframes showcase-fade-in{from{opacity:0;}to{opacity:1;}}div#n2-ss-20 .n2-ss-control-bullet{visibility:hidden;text-align:center;justify-content:center;z-index:14;}div#n2-ss-20 .n2-ss-control-bullet--calculate-size{left:0 !important;}div#n2-ss-20 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize{width:100%;}div#n2-ss-20 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize{height:100%;flex-flow:column;}div#n2-ss-20 .nextend-bullet-bar{display:inline-flex;vertical-align:top;visibility:visible;align-items:center;flex-wrap:wrap;}div#n2-ss-20 .n2-bar-justify-content-left{justify-content:flex-start;}div#n2-ss-20 .n2-bar-justify-content-center{justify-content:center;}div#n2-ss-20 .n2-bar-justify-content-right{justify-content:flex-end;}div#n2-ss-20 .n2-ss-control-bullet-vertical > .nextend-bullet-bar{flex-flow:column;}div#n2-ss-20 .n2-ss-control-bullet-fullsize > .nextend-bullet-bar{display:flex;}div#n2-ss-20 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{flex:1 1 auto;}div#n2-ss-20 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{height:100%;}div#n2-ss-20 .nextend-bullet-bar .n2-bullet{cursor:pointer;transition:background-color 0.4s;}div#n2-ss-20 .nextend-bullet-bar .n2-bullet.n2-active{cursor:default;}div#n2-ss-20 div.n2-ss-bullet-thumbnail-container{position:absolute;z-index:10000000;}div#n2-ss-20 .n2-ss-bullet-thumbnail-container .n2-ss-bullet-thumbnail{background-size:cover;background-repeat:no-repeat;background-position:center;}div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider20/cover-1-1-scaled.jpeg);}.n2webp div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider/cache/a6819b297d786dcee5128e7c0abdc084/cover-1-1-scaled.webp)}@media (max-width: 1200px) {.n2webp div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider/cache/94f0e33016352db0943960350e968a4c/cover-1-1-scaled.webp)}}@media (max-width: 500px) {.n2webp div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider/cache/87f8e76f60bea399c0089538ab5686c8/cover-1-1-scaled.webp)}}div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot{background: RGBA(214,214,214,0.39);opacity:1;padding:5px 5px 5px 5px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:50px;margin:4px;}div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot.n2-active, div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot:HOVER, div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot:FOCUS{background: #ffffff;width:20px; transition: all 2s;}div#n2-ss-20 .n-uc-GhoVhuKV0fap{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-8NQKHP4ek7cR{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-ixqyO5mHvxzu{padding:0px 0px 0px 0px}div#n2-ss-20 .n-uc-9DkKmzvP7vxp{padding:0px 0px 0px 0px}div#n2-ss-20 .n-uc-6lIBXYrmYxGH{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-9CEzga3judm5{padding:0px 0px 0px 0px}div#n2-ss-20 .n-uc-m3dDirZlPFfI{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-5wOCasdcl9uM{padding:0px 0px 0px 0px}div#n2-ss-20 .n2-ss-slider-3{padding:30px 20px 30px 20px}@media (min-width: 1200px){div#n2-ss-20 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-20 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-20 [data-hide-mobileportrait="1"]{display: none !important;}}</style>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/dom-ready.min.js?ver=71883072590656bf22c74c7b887df3dd' id='wp-dom-ready-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de' id='wp-hooks-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79' id='wp-i18n-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='wp-i18n-js-after'>
+<style data-related="n2-ss-20">div#n2-ss-20 .n2-ss-slider-1{position:relative;display:grid;}div#n2-ss-20 .n2-ss-slider-2{display:grid;grid-template-areas:'full';position:relative;overflow:hidden;border:0px solid RGBA(62,62,62,1);box-sizing:border-box;border-radius:0px;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:fixed;z-index:1;}div#n2-ss-20 .n2-ss-slider-2 > *{grid-area:full;}div#n2-ss-20 .n2-ss-slider-2 > .n2-ss-preserve-size{max-width:885px;}div#n2-ss-20 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:20;}div#n2-ss-20 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-20 .n2-ss-showcase-slides{place-self:center;position:relative;display:grid;grid-template-areas:'slide';width:100%;max-width:885px;perspective-origin:50% 50%;perspective:2000px;opacity:0.001;transform:translateX(-100000px);}div#n2-ss-20 .n2-ss-showcase-slides > *{grid-area:slide;}div#n2-ss-20 .n2-ss-showcase-slides--ready{animation-name:showcase-fade-in;animation-duration:1s;opacity:1;transform:none;}div#n2-ss-20 .n2-ss-slide{display:block;width:100%;border-radius:0px;border:0px solid RGBA(62,62,62,1);box-sizing:border-box;backface-visibility:hidden;}div#n2-ss-20.n2-ss-showcase-vertical .n2-ss-slide{clear:left;}div#n2-ss-20 .n2-ss-slide-inner{position:relative;width:100%;height:100%;z-index:20;}div#n2-ss-20 .n2-ss-showcase-overlay{width:100%;height:100%;cursor:pointer;position:absolute;top:0;left:0;z-index:2000000;display:block;}div#n2-ss-20 .n2-ss-slide-active .n2-ss-showcase-overlay{display:none;}div#n2-ss-20 .smart-slider-animate-in .n2-ss-showcase-overlay,div#n2-ss-20 .smart-slider-animate-out .n2-ss-showcase-overlay{display:block;}div#n2-ss-20 .n2-ss-slide-active{z-index:3;display:block;}div#n2-ss-20 .n2-ss-slide{perspective:2000px;}@keyframes showcase-fade-in{from{opacity:0;}to{opacity:1;}}div#n2-ss-20 .n2-ss-control-bullet{visibility:hidden;text-align:center;justify-content:center;z-index:14;}div#n2-ss-20 .n2-ss-control-bullet--calculate-size{left:0 !important;}div#n2-ss-20 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize{width:100%;}div#n2-ss-20 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize{height:100%;flex-flow:column;}div#n2-ss-20 .nextend-bullet-bar{display:inline-flex;vertical-align:top;visibility:visible;align-items:center;flex-wrap:wrap;}div#n2-ss-20 .n2-bar-justify-content-left{justify-content:flex-start;}div#n2-ss-20 .n2-bar-justify-content-center{justify-content:center;}div#n2-ss-20 .n2-bar-justify-content-right{justify-content:flex-end;}div#n2-ss-20 .n2-ss-control-bullet-vertical > .nextend-bullet-bar{flex-flow:column;}div#n2-ss-20 .n2-ss-control-bullet-fullsize > .nextend-bullet-bar{display:flex;}div#n2-ss-20 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{flex:1 1 auto;}div#n2-ss-20 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{height:100%;}div#n2-ss-20 .nextend-bullet-bar .n2-bullet{cursor:pointer;transition:background-color 0.4s;}div#n2-ss-20 .nextend-bullet-bar .n2-bullet.n2-active{cursor:default;}div#n2-ss-20 div.n2-ss-bullet-thumbnail-container{position:absolute;z-index:10000000;}div#n2-ss-20 .n2-ss-bullet-thumbnail-container .n2-ss-bullet-thumbnail{background-size:cover;background-repeat:no-repeat;background-position:center;}div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider20/cover-1-1-scaled.jpeg);}.n2webp div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider/cache/a6819b297d786dcee5128e7c0abdc084/cover-1-1-scaled.webp)}@media (max-width: 1200px) {.n2webp div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider/cache/94f0e33016352db0943960350e968a4c/cover-1-1-scaled.webp)}}@media (max-width: 500px) {.n2webp div#n2-ss-20 .n2-ss-slider-2{background-image: URL(//reaperscans.com/wp-content/uploads/slider/cache/87f8e76f60bea399c0089538ab5686c8/cover-1-1-scaled.webp)}}div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot{background: RGBA(214,214,214,0.39);opacity:1;padding:5px 5px 5px 5px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:50px;margin:4px;}div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot.n2-active, div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot:HOVER, div#n2-ss-20 .n2-style-37e4ab11c76e46cff97c6f558169b078-dot:FOCUS{background: #ffffff;width:20px; transition: all 2s;}div#n2-ss-20 .n-uc-ixNbKeXQxKZf{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-lodZMFOdj6pr{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-JygO5vmKwgBC{padding:0px 0px 0px 0px}div#n2-ss-20 .n-uc-X057UeTftzdr{padding:0px 0px 0px 0px}div#n2-ss-20 .n-uc-m655wzfrKA54{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-N8jv0RTPfyQC{padding:0px 0px 0px 0px}div#n2-ss-20 .n-uc-Q9Sv9VaPdrrH{padding:10px 10px 10px 10px}div#n2-ss-20 .n-uc-1YAfCNfa2zEU{padding:0px 0px 0px 0px}div#n2-ss-20 .n2-ss-slider-3{padding:30px 20px 30px 20px}@media (min-width: 1200px){div#n2-ss-20 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-20 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-20 [data-hide-mobileportrait="1"]{display: none !important;}}</style>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/dom-ready.min.js?ver=71883072590656bf22c74c7b887df3dd' id='wp-dom-ready-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de' id='wp-hooks-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79' id='wp-i18n-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='wp-i18n-js-after'>
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='wp-a11y-js-translations'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='wp-a11y-js-translations'>
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/a11y.min.js?ver=0ac8327cc1c40dcfdf29716affd7ac63' id='wp-a11y-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='jquery-ui-autocomplete-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/dist/a11y.min.js?ver=0ac8327cc1c40dcfdf29716affd7ac63' id='wp-a11y-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='jquery-ui-autocomplete-js-extra'>
 /* <![CDATA[ */
 var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='wp-manga-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='wp-manga-js-extra'>
 /* <![CDATA[ */
 var manga = {"ajax_url":"https:\/\/reaperscans.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/reaperscans.com","base_url":"https:\/\/reaperscans.com\/latest-comic\/","manga_paged_var":"manga-paged","enable_manga_view":"1"};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3' id='wp-manga-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/wp-manga-chapter-coin/assets/js/frontend.js?ver=1.0' id='chapter-coin-js-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3' id='wp-manga-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/wp-manga-chapter-coin/assets/js/frontend.js?ver=1.0' id='chapter-coin-js-js'></script>
 
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://www.googletagmanager.com/gtag/js?id=UA-189039815-1' id='google_gtagjs-js' async></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='google_gtagjs-js-after'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://www.googletagmanager.com/gtag/js?id=UA-189039815-1' id='google_gtagjs-js' async></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='google_gtagjs-js-after'>
 window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
 gtag('set', 'linker', {"domains":["reaperscans.com"]} );
 gtag("js", new Date());
@@ -2754,8 +2754,84 @@ span.manga-title-badges.custom.release.dropped {
 }
 
 
+.alert-gsc p {
+    margin-bottom: 13px!important;
+}
+.alert-gsc {
+    color: #f3f3f3;
+    text-shadow: -1px 0px 10px #0080ffcf, -1px 0px 10px #0080ff;
+    text-align: center !important;
+    box-sizing: content-box;
+    font-family: 'Altissimo'!important;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+    border-color: #feffd682;
+    border: solid #0080ffe3;
+    box-shadow: 0 0 20px 3px #0080ff70;
+    background-color: #0f60df;
+    border-radius: 5px;
+    padding: 21px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+	  line-height:1.3;
+}
 
-		</style>
+
+
+@media (max-width: 768px){
+.alert-gsc {
+    color: #f3f3f3;
+    text-shadow: -1px 0px 10px #0080ffcf, -1px 0px 10px #0080ff;
+    text-align: center !important;
+    box-sizing: content-box;
+    font-family: 'Altissimo'!important;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+    border-color: #feffd682;
+    border: solid #0080ffe3;
+    box-shadow: 0 0 20px 3px #0080ff70;
+    background-color: #0f60df;
+    border-radius: 5px;
+    padding: 21px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+	line-height:1.3;
+	}}
+
+
+
+
+
+
+
+@media (min-width: 992px){
+	.alert-gsc {
+    color: #f3f3f3f7;
+    text-shadow: -1px 0px 10px #0080ffcf, -1px 0px 10px #0080ff;
+    text-align: center !important;
+    box-sizing: content-box;
+    font-family: 'Altissimo'!important;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+    border-color: #feffd682;
+    border: solid #0080ffe3;
+    box-shadow: 0 0 20px 3px #0080ff70;
+    background-color: #0f60df;
+    border-radius: 5px;
+    padding: 21px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+		line-height:1.3;
+		
+}
+	
+}		</style>
 <meta property="og:image" content="https://reaperscans.com/wp-content/uploads/2021/07/logo-reaper-2.png" />
 <meta property="og:site_name" content="Reaper Scans" />
 <meta property="fb:app_id" content="" />
@@ -2767,16 +2843,16 @@ span.manga-title-badges.custom.release.dropped {
 <meta name="twitter:description" content="Comics and Novels" />
 <meta name="twitter:image" content="https://reaperscans.com/wp-content/uploads/2021/07/logo-reaper-2.png" />
 <meta name="description" content="Comics and Novels" /><meta name="generator" content="Powered by Madara - A powerful multi-purpose theme by Madara" />
-<script data-ad-client="ca-pub-2958935075592804" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2958935075592804" crossorigin="anonymous" type="a52dcf43c61141bb5871766b-text/javascript"></script>
+<script data-ad-client="ca-pub-2958935075592804" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2958935075592804" crossorigin="anonymous" type="993f45f556e11b3530e5f2a0-text/javascript"></script>
 <script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement("script"); s.src = "//delivery.adrecover.com/42610/adRecover.js"; s.type = "text/javascript"; s.async = true; (d.getElementsByTagName("head")[0] || d.getElementsByTagName("body")[0]).appendChild(s); })(window, document);</script>
-<script src="https://papayads.net/clnt/reaperscans/v11/adtags.js" type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript">(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(a){a.indexOf("Safari")>0&&-1===a.indexOf("Chrome")&&document.documentElement.style.setProperty("--ss-safari-fix-225962","1px")}(navigator.userAgent);!function(e,i,o,r){(i=e.match(/(Chrome|Firefox|Safari)\/(\d+)\./))&&("Chrome"==i[1]?r=+i[2]>=32:"Firefox"==i[1]?r=+i[2]>=65:"Safari"==i[1]&&(o=e.match(/Version\/(\d+)/)||e.match(/(\d+)[0-9_]+like Mac/))&&(r=+o[1]>=14),r&&document.documentElement.classList.add("n2webp"))}(navigator.userAgent);</script><script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=8ff2e0c4" defer async type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=8ff2e0c4" defer async type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3Pro/Slider/SliderType/Showcase/Assets/dist/ss-showcase.min.js?ver=8ff2e0c4" defer async type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3Pro/Application/Frontend/Assets/dist/particle.min.js?ver=8ff2e0c4" defer async type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=8ff2e0c4" defer async type="a52dcf43c61141bb5871766b-text/javascript"></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript">_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","ss-showcase","SmartSliderWidgetBulletTransition"],function(){new _N2.SmartSliderShowcase('n2-ss-20',{"admin":false,"callbacks":"","background.video.mobile":1,"randomize":{"randomize":0,"randomizeFirst":0},"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"sliderWidth":885,"sliderHeight":338,"slideWidth":885,"slideHeight":338},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":885,"height":338,"max":3000,"min":885},"tabletPortrait":{"width":701,"height":267,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":122,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":0,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":2000,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider","scrollmove":"both"},"postBackgroundAnimations":0,"particlejs":{"particles":{"number":{"value":200,"density":{"enable":true,"value_area":800}},"color":{"value":"#ffffff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img\/github.svg","width":100,"height":100}},"opacity":{"value":1,"random":true,"anim":{"enable":true,"speed":1,"opacity_min":0,"sync":false}},"size":{"value":3,"random":true,"anim":{"enable":false,"speed":4,"size_min":0.3,"sync":false}},"line_linked":{"enable":false,"distance":150,"color":"#ffffff","opacity":0.4,"width":1},"move":{"enable":true,"speed":1,"direction":"none","random":true,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":600}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":1,"mode":"bubble"},"onclick":{"enable":1,"mode":"repulse"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":1}},"bubble":{"distance":250,"size":0,"duration":2,"opacity":0,"speed":3},"repulse":{"distance":400,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true,"mobile":0},"carousel":1,"carouselSideSlides":1,"showcase":{"duration":600,"ease":"easeInOutQuad","direction":"horizontal","distance":10,"animate":{"opacity":null,"scale":{"before":0.9,"active":1,"after":0.9},"x":null,"y":null,"z":null,"rotationX":null,"rotationY":null,"rotationZ":null},"overlay":"1"},"initCallbacks":function(){new _N2.SmartSliderWidgetBulletTransition(this,{"area":10,"dotClasses":"n2-style-37e4ab11c76e46cff97c6f558169b078-dot ","mode":"","action":"click"})}})})});</script></head>
+<script src="https://papayads.net/clnt/reaperscans/v11/adtags.js" type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript">(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(a){a.indexOf("Safari")>0&&-1===a.indexOf("Chrome")&&document.documentElement.style.setProperty("--ss-safari-fix-225962","1px")}(navigator.userAgent);!function(e,i,o,r){(i=e.match(/(Chrome|Firefox|Safari)\/(\d+)\./))&&("Chrome"==i[1]?r=+i[2]>=32:"Firefox"==i[1]?r=+i[2]>=65:"Safari"==i[1]&&(o=e.match(/Version\/(\d+)/)||e.match(/(\d+)[0-9_]+like Mac/))&&(r=+o[1]>=14),r&&document.documentElement.classList.add("n2webp"))}(navigator.userAgent);</script><script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=8ff2e0c4" defer async type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=8ff2e0c4" defer async type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3Pro/Slider/SliderType/Showcase/Assets/dist/ss-showcase.min.js?ver=8ff2e0c4" defer async type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3Pro/Application/Frontend/Assets/dist/particle.min.js?ver=8ff2e0c4" defer async type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script src="https://reaperscans.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=8ff2e0c4" defer async type="993f45f556e11b3530e5f2a0-text/javascript"></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript">_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","ss-showcase","SmartSliderWidgetBulletTransition"],function(){new _N2.SmartSliderShowcase('n2-ss-20',{"admin":false,"callbacks":"","background.video.mobile":1,"randomize":{"randomize":0,"randomizeFirst":0},"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"sliderWidth":885,"sliderHeight":338,"slideWidth":885,"slideHeight":338},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":885,"height":338,"max":3000,"min":885},"tabletPortrait":{"width":701,"height":267,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":122,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":0,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":2000,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider","scrollmove":"both"},"postBackgroundAnimations":0,"particlejs":{"particles":{"number":{"value":200,"density":{"enable":true,"value_area":800}},"color":{"value":"#ffffff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img\/github.svg","width":100,"height":100}},"opacity":{"value":1,"random":true,"anim":{"enable":true,"speed":1,"opacity_min":0,"sync":false}},"size":{"value":3,"random":true,"anim":{"enable":false,"speed":4,"size_min":0.3,"sync":false}},"line_linked":{"enable":false,"distance":150,"color":"#ffffff","opacity":0.4,"width":1},"move":{"enable":true,"speed":1,"direction":"none","random":true,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":600}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":1,"mode":"bubble"},"onclick":{"enable":1,"mode":"repulse"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":1}},"bubble":{"distance":250,"size":0,"duration":2,"opacity":0,"speed":3},"repulse":{"distance":400,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true,"mobile":0},"carousel":1,"carouselSideSlides":1,"showcase":{"duration":600,"ease":"easeInOutQuad","direction":"horizontal","distance":10,"animate":{"opacity":null,"scale":{"before":0.9,"active":1,"after":0.9},"x":null,"y":null,"z":null,"rotationX":null,"rotationY":null,"rotationZ":null},"overlay":"1"},"initCallbacks":function(){new _N2.SmartSliderWidgetBulletTransition(this,{"area":10,"dotClasses":"n2-style-37e4ab11c76e46cff97c6f558169b078-dot ","mode":"","action":"click"})}})})});</script></head>
 <body data-rsssl=1 class="page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php page page-id-1397 wp-embed-responsive header-style-2 text-ui-light">
 <div class="wrap">
 <div class="body-wrap">
@@ -2835,7 +2911,7 @@ span.manga-title-badges.custom.release.dropped {
 <div class="search-navigation search-sidebar">
 <div id="manga-search-2" class="widget col-12 col-md-12   default  no-icon heading-style-1 manga-widget widget-manga-search"><div class="widget__inner manga-widget widget-manga-search__inner c-widget-wrap"><div class="widget-content">
 <div class="search-navigation__wrap">
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
 	jQuery(document).ready(function ($) {
 		if ($('.c-header__top .manga-search-form').length !== 0 && $('.c-header__top .manga-search-form.search-form').length !== 0) {
 
@@ -3006,14 +3082,14 @@ span.manga-title-badges.custom.release.dropped {
 </header>
 <div class="c-sidebar c-top-sidebar" style=" padding:0000px 0000px 0000px 000px ; ">
 <div class="container c-container">
- <div class="row c-row">
+<div class="row c-row">
 <div id="custom_html-16" class="widget_text widget col-12 col-md-12   default  no-icon heading-style-1 widget_custom_html"><div class="widget_text widget__inner widget_custom_html__inner c-widget-wrap"><div class="widget_text widget-content"><div class="textwidget custom-html-widget"><div class="flex justify-content-center" style="display:flex;">
 <div class="chapter-warning alert alert-warning" style="text-align:center; margin-top:15px; width:75%; line-height:1.5;"><p style="margin-bottom: 5px;">We're currently investigating and troubleshooting server issues. We apologize about the inconvenience. We are working our hardest to resolve it as soon as possible.</p></div></div></div></div></div></div><div id="custom_html-5" class="widget_text widget col-12 col-md-12   default  no-icon heading-style-1 widget_custom_html"><div class="widget_text widget__inner widget_custom_html__inner c-widget-wrap"><div class="widget_text widget-content"><div class="textwidget custom-html-widget"><div><ss3-force-full-width data-overflow-x="body" data-horizontal-selector=""><div class="n2-section-smartslider fitvidsignore  n2_clear" data-ssid="20" tabindex="0" role="region" aria-label="Slider"><div id="n2-ss-20-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-20" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition   n2-ss-showcase-horizontal"><div class="n2-ss-slider-wrapper-inside"> <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow">
 <div class="n2-ss-slider-2 n2-ow" style="">
 <div class="n2-ss-slider-3 n2-ow">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 885 338" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter" style="max-width:885px"></svg> <div class="n2-ss-showcase-slides n2-ow">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 885 338" class="n2-ow n2-ss-preserve-size n2-ss-slide-limiter"></svg>
-<div data-slide-duration="0" data-id="97" data-slide-public-id="1" data-title="QS_Banner" data-haslink="1" class="n2-ss-slide  n2-ss-slide-97 n2-ow"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/image_2022-04-10_173554.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/quest-supremacy/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">QS_Banner</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-GhoVhuKV0fap" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="96" data-slide-public-id="2" data-haslink="1" class="n2-ss-slide  n2-ss-slide-96 n2-ow"><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/HLbanner4.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=Hyper+Luck&amp;post_type=wp-manga" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note"></div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-8NQKHP4ek7cR" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-first="1" data-slide-duration="0" data-id="86" data-slide-public-id="3" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-86 n2-ow"><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title="" style="--ss-o-pos-x:49%;--ss-o-pos-y:58%"><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/IOAMIbanner8.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=i+obtained+a+mythic+item&amp;post_type=wp-manga" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-ixqyO5mHvxzu" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="91" data-slide-public-id="4" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-91 n2-ow"><div class="n2-ss-slide-background" data-public-id="4" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/SYSbanner5.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=swordmaster%27s+youngest+son&amp;post_type=wp-manga" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-9DkKmzvP7vxp" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="88" data-slide-public-id="5" data-title="S-CLASSES" data-haslink="1" class="n2-ss-slide  n2-ss-slide-88 n2-ow"><div class="n2-ss-slide-background" data-public-id="5" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/slider20/twatfbanner22.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/the-world-after-the-fall/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">S-CLASSES</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-6lIBXYrmYxGH" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="92" data-slide-public-id="6" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-92 n2-ow"><div class="n2-ss-slide-background" data-public-id="6" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/slider20/rotdchbanner9-1-1.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/the-return-of-the-disaster-class-hero/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-9CEzga3judm5" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="89" data-slide-public-id="7" data-haslink="1" class="n2-ss-slide  n2-ss-slide-89 n2-ow"><div class="n2-ss-slide-background" data-public-id="7" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/BQbanner9.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=barbarian+quest&amp;post_type=wp-manga&amp;op&amp;author&amp;artist&amp;release&amp;adult&amp;m_orderby=alphabet" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note"></div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-m3dDirZlPFfI" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="94" data-slide-public-id="8" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-94 n2-ow"><div class="n2-ss-slide-background" data-public-id="8" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/rotbcbanner9.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/return-of-the-broken-constellation/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-a52dcf43c61141bb5871766b-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-5wOCasdcl9uM" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div></div>
+<div data-slide-duration="0" data-id="97" data-slide-public-id="1" data-title="QS_Banner" data-haslink="1" class="n2-ss-slide  n2-ss-slide-97 n2-ow"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/image_2022-04-10_173554.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/quest-supremacy/" tabindex="0" role="button" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">QS_Banner</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-ixNbKeXQxKZf" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="96" data-slide-public-id="2" data-haslink="1" class="n2-ss-slide  n2-ss-slide-96 n2-ow"><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/HLbanner4.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=Hyper+Luck&amp;post_type=wp-manga" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note"></div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-lodZMFOdj6pr" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-first="1" data-slide-duration="0" data-id="86" data-slide-public-id="3" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-86 n2-ow"><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title="" style="--ss-o-pos-x:49%;--ss-o-pos-y:58%"><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/IOAMIbanner8.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=i+obtained+a+mythic+item&amp;post_type=wp-manga" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-JygO5vmKwgBC" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="91" data-slide-public-id="4" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-91 n2-ow"><div class="n2-ss-slide-background" data-public-id="4" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/SYSbanner5.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=swordmaster%27s+youngest+son&amp;post_type=wp-manga" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-X057UeTftzdr" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="88" data-slide-public-id="5" data-title="S-CLASSES" data-haslink="1" class="n2-ss-slide  n2-ss-slide-88 n2-ow"><div class="n2-ss-slide-background" data-public-id="5" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/slider20/twatfbanner22.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/the-world-after-the-fall/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">S-CLASSES</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-m655wzfrKA54" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="92" data-slide-public-id="6" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-92 n2-ow"><div class="n2-ss-slide-background" data-public-id="6" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/slider20/rotdchbanner9-1-1.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/the-return-of-the-disaster-class-hero/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-N8jv0RTPfyQC" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="89" data-slide-public-id="7" data-haslink="1" class="n2-ss-slide  n2-ss-slide-89 n2-ow"><div class="n2-ss-slide-background" data-public-id="7" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/BQbanner9.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/?s=barbarian+quest&amp;post_type=wp-manga&amp;op&amp;author&amp;artist&amp;release&amp;adult&amp;m_orderby=alphabet" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note"></div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-Q9Sv9VaPdrrH" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div><div data-slide-duration="0" data-id="94" data-slide-public-id="8" data-title="Slide 1" data-haslink="1" class="n2-ss-slide  n2-ss-slide-94 n2-ow"><div class="n2-ss-slide-background" data-public-id="8" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""><picture><img src="//reaperscans.com/wp-content/uploads/2021/07/rotbcbanner9.png" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div></div><div class="n2-ss-slide-inner" onclick="if (!window.__cfRLUnblockHandlers) return false; " data-href="https://reaperscans.com/series/return-of-the-broken-constellation/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-cf-modified-993f45f556e11b3530e5f2a0-=""><div tabindex="-1" class="n2-ss-slide--focus" role="note">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-1YAfCNfa2zEU" data-sstype="slide" data-pm="default"></div></div></div><div class="n2-ss-showcase-overlay n2-ow"></div></div></div>
 </div>
 </div>
 </div>
@@ -3030,23 +3106,23 @@ span.manga-title-badges.custom.release.dropped {
 <div class="ad c-ads custom-code body-top-ads">
 <div id="1_PapayAds_ReaperScans_TOP_Banner" align="center">
 <div id='div-gpt-ad-1620828822025-0'>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1620828822025-0'); });
   </script>
 </div>
 </div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9625582592338282" type="a52dcf43c61141bb5871766b-text/javascript"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9625582592338282" type="993f45f556e11b3530e5f2a0-text/javascript"></script>
 
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9625582592338282" data-ad-slot="8649296033" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
 <div class="c-sidebar">
 <div class="body-top-sidebar">
-<div class="row c-row">
+ <div class="row c-row">
 <div id="custom_html-14" class="widget_text widget col-12 col-md-12   default  no-icon heading-style-1 widget_custom_html"><div class="widget_text widget__inner widget_custom_html__inner c-widget-wrap"><div class="widget_text widget-content"><div class="textwidget custom-html-widget"><div id="1_PapayAds_ReaperScans_TOP_Banner" align="center">
 <div id='div-gpt-ad-1620828822025-0'>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1620828822025-0'); });
   </script>
 </div>
@@ -3067,6 +3143,847 @@ LATEST UPDATES - ONLY COMICS
 <div class="row row-eq-height">
 <div class="col-4 col-md-2 badge-pos-2">
 <div class="page-item-detail manga">
+<div id="manga-item-12894" class="item-thumb  c-image-hover" data-post-id="12894">
+<a href="https://reaperscans.com/series/the-great-mage-that-returned-after-4000-years/" title="The Great Mage Returns After 4000 Years">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/10/4k_s2cover-175x238.jpeg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/4k_s2cover-175x238.jpeg 175w, https://reaperscans.com/wp-content/uploads/2021/10/4k_s2cover-110x150.jpeg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="4k_s2cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/the-great-mage-that-returned-after-4000-years/">The Great Mage Returns After 4000 Years</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-great-mage-that-returned-after-4000-years/chapter-134/" class="btn-link"> Chapter 134 </a>
+</span>
+<span class="post-on font-meta">
+1 hour ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-great-mage-that-returned-after-4000-years/chapter-133/" class="btn-link"> Chapter 133 </a>
+</span>
+<span class="post-on font-meta">
+Jul 15, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-61618" class="item-thumb  c-image-hover" data-post-id="61618">
+<a href="https://reaperscans.com/series/transcension-academy/" title="Transcension Academy">
+<img width="600" height="860" data-src="https://reaperscans.com/wp-content/uploads/2022/07/TrACover1.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/07/TrACover1.jpg 600w, https://reaperscans.com/wp-content/uploads/2022/07/TrACover1-193x278.jpg 193w" data-sizes="(max-width: 600px) 100vw, 600px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:860px;" alt="TrACover1" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/transcension-academy/">Transcension Academy</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/transcension-academy/chapter-16/" class="btn-link"> Chapter 16 </a>
+</span>
+<span class="post-on font-meta">
+2 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/transcension-academy/chapter-15/" class="btn-link"> Chapter 15 </a>
+</span>
+<span class="post-on font-meta">
+Jul 13, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-18938" class="item-thumb  c-image-hover" data-post-id="18938">
+<a href="https://reaperscans.com/series/return-of-the-broken-constellation/" title="Return of the Broken Constellation">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/11/rotbc15-175x238.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/11/rotbc15-175x238.png 175w, https://reaperscans.com/wp-content/uploads/2021/11/rotbc15-110x150.png 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="rotbc15" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/return-of-the-broken-constellation/">Return of the Broken Constellation</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+ <span class="chapter font-meta">
+<a href="https://reaperscans.com/series/return-of-the-broken-constellation/chapter-39/" class="btn-link"> Chapter 39 </a>
+</span>
+<span class="post-on font-meta">
+3 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/return-of-the-broken-constellation/chapter-38/" class="btn-link"> Chapter 38 </a>
+</span>
+<span class="post-on font-meta">
+Jul 18, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-28128" class="item-thumb  c-image-hover" data-post-id="28128">
+<a href="https://reaperscans.com/series/the-world-after-the-fall/" title="The World After the Fall">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2022/02/Manhwa_Cover_2-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/02/Manhwa_Cover_2-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2022/02/Manhwa_Cover_2-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="Manhwa_Cover_2" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/the-world-after-the-fall/">The World After the Fall</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-world-after-the-fall/chapter-32/" class="btn-link"> Chapter 32 </a>
+</span>
+<span class="post-on font-meta">
+4 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-world-after-the-fall/chapter-31/" class="btn-link"> Chapter 31 </a>
+</span>
+<span class="post-on font-meta">
+Jul 18, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-15391" class="item-thumb  c-image-hover" data-post-id="15391">
+<a href="https://reaperscans.com/series/how-to-live-as-a-villain/" title="How to Live as a Villain">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/11/¾C´cAI_i¾AE°¡´A_¹y-e1637677842899-1-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/11/¾C´cAI_i¾AE°¡´A_¹y-e1637677842899-1-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/11/¾C´cAI_i¾AE°¡´A_¹y-e1637677842899-1-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="¾C´cAI_i¾AE°¡´A_¹y-e1637677842899" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/how-to-live-as-a-villain/">How to Live as a Villain</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.4</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/how-to-live-as-a-villain/chapter-51/" class="btn-link"> Chapter 51 </a>
+</span>
+<span class="post-on font-meta">
+4 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/how-to-live-as-a-villain/chapter-50/" class="btn-link"> Chapter 50 </a>
+</span>
+<span class="post-on font-meta">
+Jul 17, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-15141" class="item-thumb  c-image-hover" data-post-id="15141">
+<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/" title="The S-Classes That I Raised">
+<img width="900" height="1274" data-src="https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1.jpg 900w, https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1-768x1087.jpg 768w, https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1-75x106.jpg 75w" data-sizes="(max-width: 900px) 100vw, 900px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1274px;" alt="tsctirNa2" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/">The S-Classes That I Raised</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/chapter-45/" class="btn-link"> Chapter 45 </a>
+</span>
+<span class="post-on font-meta">
+4 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/chapter-44/" class="btn-link"> Chapter 44 </a>
+</span>
+<span class="post-on font-meta">
+Jul 18, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-listing-item">
+<div class="row row-eq-height">
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-49997" class="item-thumb  c-image-hover" data-post-id="49997">
+<a href="https://reaperscans.com/series/the-novels-extra/" title="The Novel&#8217;s Extra (Remake)">
+<img width="720" height="970" data-src="https://reaperscans.com/wp-content/uploads/2022/05/cover-1.jpg" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:970px;" alt="cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/the-novels-extra/">The Novel&#8217;s Extra (Remake)</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.9</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-novels-extra/chapter-24/" class="btn-link"> Chapter 24 </a>
+</span>
+<span class="post-on font-meta">
+5 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-novels-extra/chapter-23/" class="btn-link"> Chapter 23 </a>
+</span>
+<span class="post-on font-meta">
+Jul 18, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-23505" class="item-thumb  c-image-hover" data-post-id="23505">
+<a href="https://reaperscans.com/series/knight-of-the-frozen-flower/" title="Knight of the Frozen Flower">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/01/frozen_flower_clrd.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/01/frozen_flower_clrd.png 720w, https://reaperscans.com/wp-content/uploads/2022/01/frozen_flower_clrd-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="frozen_flower_clrd" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/knight-of-the-frozen-flower/">Knight of the Frozen Flower</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.2</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/knight-of-the-frozen-flower/chapter-39/" class="btn-link"> Chapter 39 </a>
+</span>
+<span class="post-on font-meta">
+7 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/knight-of-the-frozen-flower/chapter-38/" class="btn-link"> Chapter 38 </a>
+</span>
+<span class="post-on font-meta">
+Jul 11, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-37499" class="item-thumb  c-image-hover" data-post-id="37499">
+<a href="https://reaperscans.com/series/barbarian-quest-manhwa/" title="Barbarian Quest &#8211; Manhwa">
+<img width="717" height="1012" data-src="https://reaperscans.com/wp-content/uploads/2022/03/image_2022-04-19_231112663.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/03/image_2022-04-19_231112663.png 717w, https://reaperscans.com/wp-content/uploads/2022/03/image_2022-04-19_231112663-75x106.png 75w" data-sizes="(max-width: 717px) 100vw, 717px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1012px;" alt="image_2022-04-19_231112663" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/barbarian-quest-manhwa/">Barbarian Quest &#8211; Manhwa</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/barbarian-quest-manhwa/chapter-35/" class="btn-link"> Chapter 35 </a>
+</span>
+<span class="post-on font-meta">
+16 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/barbarian-quest-manhwa/chapter-34/" class="btn-link"> Chapter 34 </a>
+</span>
+<span class="post-on font-meta">
+Jul 16, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-44309" class="item-thumb  c-image-hover" data-post-id="44309">
+<a href="https://reaperscans.com/series/hyper-luck-manhwa/" title="Hyper Luck &#8211; Manhwa">
+<img width="729" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/04/HL.png" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="HL" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/hyper-luck-manhwa/">Hyper Luck &#8211; Manhwa</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.1</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/hyper-luck-manhwa/chapter-28/" class="btn-link"> Chapter 28 </a>
+</span>
+<span class="post-on font-meta">
+20 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/hyper-luck-manhwa/chapter-27/" class="btn-link"> Chapter 27 </a>
+</span>
+<span class="post-on font-meta">
+Jul 17, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-87" class="item-thumb  c-image-hover" data-post-id="87">
+<a href="https://reaperscans.com/series/nano-machine/" title="Nano Machine">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/07/³a³e¸¶½A_½A¸®Ai_C¥Ao1000x1500_JPG-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/³a³e¸¶½A_½A¸®Ai_C¥Ao1000x1500_JPG-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/07/³a³e¸¶½A_½A¸®Ai_C¥Ao1000x1500_JPG-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="³ª³ë¸¶½Å_½Ã¸®Áî_Ç¥Áö(1000&#215;1500)_JPG" /><span class="manga-title-badges custom manhwa">manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/nano-machine/">Nano Machine</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.9</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/nano-machine/chapter-114/" class="btn-link"> Chapter 114 </a>
+</span>
+<span class="post-on font-meta">
+22 hours ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/nano-machine/chapter-113/" class="btn-link"> Chapter 113 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-12" class="item-thumb  c-image-hover" data-post-id="12">
+<a href="https://reaperscans.com/series/overgeared/" title="Overgeared">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/07/overgeared-cover-175x238.jpeg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/overgeared-cover-175x238.jpeg 175w, https://reaperscans.com/wp-content/uploads/2021/07/overgeared-cover-110x150.jpeg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="overgeared cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/overgeared/">Overgeared</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.7</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/overgeared/chapter-136/" class="btn-link"> Chapter 136 </a>
+</span>
+<span class="post-on font-meta">
+1 day ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/overgeared/chapter-135/" class="btn-link"> Chapter 135 </a>
+</span>
+<span class="post-on font-meta">
+Jul 10, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-listing-item">
+<div class="row row-eq-height">
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-46829" class="item-thumb  c-image-hover" data-post-id="46829">
+<a href="https://reaperscans.com/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life/" title="I have an SSS-rank Trait, but I want a Normal Life">
+<img width="720" height="1030" data-src="https://reaperscans.com/wp-content/uploads/2022/05/ihasssrtbiwanlC2.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/05/ihasssrtbiwanlC2.png 720w, https://reaperscans.com/wp-content/uploads/2022/05/ihasssrtbiwanlC2-75x106.png 75w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1030px;" alt="ihasssrtbiwanlC2" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life/">I have an SSS-rank Trait, but I want a Normal Life</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.1</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life/chapter-25/" class="btn-link"> Chapter 25 </a>
+</span>
+<span class="post-on font-meta">
+1 day ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/i-have-an-sss-rank-trait-but-i-want-a-normal-life/chapter-24/" class="btn-link"> Chapter 24 </a>
+</span>
+<span class="post-on font-meta">
+Jul 02, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-54903" class="item-thumb  c-image-hover" data-post-id="54903">
+<a href="https://reaperscans.com/series/i-obtained-a-mythic-item-manhwa/" title="I Obtained a Mythic Item &#8211; Manhwa">
+<img width="690" height="1000" data-src="https://reaperscans.com/wp-content/uploads/2022/06/image_2022-06-12_225823696.png" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1000px;" alt="image_2022-06-12_225823696" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/i-obtained-a-mythic-item-manhwa/">I Obtained a Mythic Item &#8211; Manhwa</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/i-obtained-a-mythic-item-manhwa/chapter-13/" class="btn-link"> Chapter 13 </a>
+</span>
+<span class="post-on font-meta">
+1 day ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/i-obtained-a-mythic-item-manhwa/chapter-12/" class="btn-link"> Chapter 12 </a>
+</span>
+<span class="post-on font-meta">
+Jul 17, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-13009" class="item-thumb  c-image-hover" data-post-id="13009">
+<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/" title="The Tutorial is Too Hard">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2021/10/TTITH-Copy.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/TTITH-Copy.png 720w, https://reaperscans.com/wp-content/uploads/2021/10/TTITH-Copy-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="TTITH &#8211; Copy" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/">The Tutorial is Too Hard</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/chapter-71/" class="btn-link"> Chapter 71 </a>
+</span>
+<span class="post-on font-meta">
+1 day ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/chapter-70/" class="btn-link"> Chapter 70 </a>
+</span>
+<span class="post-on font-meta">
+Jul 18, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-21576" class="item-thumb  c-image-hover" data-post-id="21576">
+<a href="https://reaperscans.com/series/estio/" title="Estio">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/12/resource-1-2-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/12/resource-1-2-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/12/resource-1-2-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="resource-1" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/estio/">Estio</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/estio/chapter-48/" class="btn-link"> Chapter 48 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/estio/chapter-47/" class="btn-link"> Chapter 47 </a>
+</span>
+<span class="post-on font-meta">
+Jul 20, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-40983" class="item-thumb  c-image-hover" data-post-id="40983">
+<a href="https://reaperscans.com/series/one-of-a-kind-irregular/" title="One-of-a-Kind Irregular">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/04/image_2022-04-11_214207.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/04/image_2022-04-11_214207.png 720w, https://reaperscans.com/wp-content/uploads/2022/04/image_2022-04-11_214207-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="image_2022-04-11_214207" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/one-of-a-kind-irregular/">One-of-a-Kind Irregular</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/one-of-a-kind-irregular/chapter-32/" class="btn-link"> Chapter 32 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/one-of-a-kind-irregular/chapter-31/" class="btn-link"> Chapter 31 </a>
+</span>
+<span class="post-on font-meta">
+Jul 05, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-51479" class="item-thumb  c-image-hover" data-post-id="51479">
+<a href="https://reaperscans.com/series/academys-undercover-professor-manhwa/" title="Academy&#8217;s Undercover Professor &#8211; Manhwa">
+<img width="885" height="1256" data-src="https://reaperscans.com/wp-content/uploads/2022/05/aupM3.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/05/aupM3.png 885w, https://reaperscans.com/wp-content/uploads/2022/05/aupM3-768x1090.png 768w, https://reaperscans.com/wp-content/uploads/2022/05/aupM3-75x106.png 75w" data-sizes="(max-width: 885px) 100vw, 885px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1256px;" alt="aupM3" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/academys-undercover-professor-manhwa/">Academy&#8217;s Undercover Professor &#8211; Manhwa</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/academys-undercover-professor-manhwa/chapter-15-chase/" class="btn-link"> Chapter 15 - Chase </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/academys-undercover-professor-manhwa/chapter-14/" class="btn-link"> Chapter 14 </a>
+</span>
+<span class="post-on font-meta">
+Jul 16, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-listing-item">
+<div class="row row-eq-height">
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-42488" class="item-thumb  c-image-hover" data-post-id="42488">
+<a href="https://reaperscans.com/series/is-this-hunter-for-real/" title="Is this Hunter for Real?">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/04/ithfr.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/04/ithfr.png 720w, https://reaperscans.com/wp-content/uploads/2022/04/ithfr-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="ithfr" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/is-this-hunter-for-real/">Is this Hunter for Real?</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.4</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/is-this-hunter-for-real/chapter-33/" class="btn-link"> Chapter 33 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/is-this-hunter-for-real/chapter-32/" class="btn-link"> Chapter 32 </a>
+</span>
+<span class="post-on font-meta">
+Jul 16, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-44343" class="item-thumb  c-image-hover" data-post-id="44343">
+<a href="https://reaperscans.com/series/im-the-max-level-newbie/" title="I&#8217;m the Max-Level Newbie">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/04/cover_1_wm.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/04/cover_1_wm.png 720w, https://reaperscans.com/wp-content/uploads/2022/04/cover_1_wm-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="cover_1_wm" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/im-the-max-level-newbie/">I&#8217;m the Max-Level Newbie</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/im-the-max-level-newbie/chapter-57/" class="btn-link"> Chapter 57 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/im-the-max-level-newbie/chapter-56/" class="btn-link"> Chapter 56 </a>
+</span>
+<span class="post-on font-meta">
+Jul 16, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-32500" class="item-thumb  c-image-hover" data-post-id="32500">
+<a href="https://reaperscans.com/series/the-hero-returns/" title="The Hero Returns">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2022/03/theheroreturnscover-175x238.jpeg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/03/theheroreturnscover-175x238.jpeg 175w, https://reaperscans.com/wp-content/uploads/2022/03/theheroreturnscover-110x150.jpeg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="theheroreturnscover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/the-hero-returns/">The Hero Returns</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.7</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-hero-returns/chapter-36/" class="btn-link"> Chapter 36 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/the-hero-returns/chapter-35/" class="btn-link"> Chapter 35 </a>
+</span>
+<span class="post-on font-meta">
+Jul 09, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-44494" class="item-thumb  c-image-hover" data-post-id="44494">
+<a href="https://reaperscans.com/series/swordmasters-youngest-son-manhwa/" title="Swordmaster&#8217;s Youngest Son &#8211; Manhwa">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/04/smys.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/04/smys.png 720w, https://reaperscans.com/wp-content/uploads/2022/04/smys-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="smys" /> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/swordmasters-youngest-son-manhwa/">Swordmaster&#8217;s Youngest Son &#8211; Manhwa</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/swordmasters-youngest-son-manhwa/chapter-30/" class="btn-link"> Chapter 30 </a>
+</span>
+<span class="post-on font-meta">
+2 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/swordmasters-youngest-son-manhwa/chapter-29/" class="btn-link"> Chapter 29 </a>
+</span>
+<span class="post-on font-meta">
+Jul 16, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-26093" class="item-thumb  c-image-hover" data-post-id="26093">
+<a href="https://reaperscans.com/series/archmage-streamer/" title="Archmage Streamer">
+<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2022/01/COVER-4-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/01/COVER-4-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2022/01/COVER-4-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="COVER" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/archmage-streamer/">Archmage Streamer</a>
+ </h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/archmage-streamer/chapter-44-5/" class="btn-link"> Chapter 44.5 </a>
+</span>
+<span class="post-on font-meta">
+3 days ago </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/archmage-streamer/chapter-44/" class="btn-link"> Chapter 44 </a>
+</span>
+<span class="post-on font-meta">
+Jul 17, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-35966" class="item-thumb  c-image-hover" data-post-id="35966">
+<a href="https://reaperscans.com/series/perfect-surgeon/" title="Perfect Surgeon">
+<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/03/ps.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/03/ps.png 720w, https://reaperscans.com/wp-content/uploads/2022/03/ps-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="ps" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/perfect-surgeon/">Perfect Surgeon</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/perfect-surgeon/chapter-37/" class="btn-link"> Chapter 37 </a>
+</span>
+<span class="post-on font-meta">
+Jul 22, 2022 </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/perfect-surgeon/chapter-36/" class="btn-link"> Chapter 36 </a>
+</span>
+<span class="post-on font-meta">
+Jul 16, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-listing-item">
+<div class="row row-eq-height">
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
+<div id="manga-item-63816" class="item-thumb  c-image-hover" data-post-id="63816">
+<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/" title="A Gate Opened on my First Day as a Politician">
+<img width="720" height="1030" data-src="https://reaperscans.com/wp-content/uploads/2022/07/image_2022-07-20_202910433.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/07/image_2022-07-20_202910433.png 720w, https://reaperscans.com/wp-content/uploads/2022/07/image_2022-07-20_202910433-75x106.png 75w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1030px;" alt="image_2022-07-20_202910433" /> </a>
+</div>
+<div class="item-summary">
+<div class="post-title font-title">
+<h3 class="h5">
+<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/">A Gate Opened on my First Day as a Politician</a>
+</h3>
+</div>
+<div class="meta-item rating">
+<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div> </div>
+<div class="list-chapter">
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/chapter-21/" class="btn-link"> Chapter 21 </a>
+</span>
+<span class="post-on font-meta">
+Jul 21, 2022 </span>
+</div>
+<div class="chapter-item  has-thumb free-chap">
+<span class="chapter font-meta">
+<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/chapter-20/" class="btn-link"> Chapter 20 </a>
+</span>
+<span class="post-on font-meta">
+Jul 21, 2022 </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 col-md-2 badge-pos-2">
+<div class="page-item-detail manga">
 <div id="manga-item-12898" class="item-thumb  c-image-hover" data-post-id="12898">
 <a href="https://reaperscans.com/series/volcanic-age/" title="Volcanic Age">
 <img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2021/10/image_2022-05-21_014357555.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/image_2022-05-21_014357555.png 720w, https://reaperscans.com/wp-content/uploads/2021/10/image_2022-05-21_014357555-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="image_2022-05-21_014357555" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
@@ -3085,14 +4002,14 @@ LATEST UPDATES - ONLY COMICS
 <a href="https://reaperscans.com/series/volcanic-age/chapter-210/" class="btn-link"> Chapter 210 </a>
 </span>
 <span class="post-on font-meta">
-1 hour ago </span>
+Jul 22, 2022 </span>
 </div>
 <div class="chapter-item  has-thumb free-chap">
 <span class="chapter font-meta">
 <a href="https://reaperscans.com/series/volcanic-age/chapter-209/" class="btn-link"> Chapter 209 </a>
 </span>
 <span class="post-on font-meta">
-1 day ago </span>
+Jul 21, 2022 </span>
 </div>
 </div>
 </div>
@@ -3118,7 +4035,7 @@ LATEST UPDATES - ONLY COMICS
 <a href="https://reaperscans.com/series/ending-maker/chapter-27/" class="btn-link"> Chapter 27 </a>
 </span>
 <span class="post-on font-meta">
-2 hours ago </span>
+Jul 22, 2022 </span>
 </div>
 <div class="chapter-item  has-thumb free-chap">
 <span class="chapter font-meta">
@@ -3151,14 +4068,14 @@ Jul 15, 2022 </span>
 <a href="https://reaperscans.com/series/demonic-emperor/chapter-300/" class="btn-link"> Chapter 300 </a>
 </span>
 <span class="post-on font-meta">
-17 hours ago </span>
+Jul 21, 2022 </span>
 </div>
 <div class="chapter-item  free-chap">
 <span class="chapter font-meta">
 <a href="https://reaperscans.com/series/demonic-emperor/chapter-299/" class="btn-link"> Chapter 299 </a>
 </span>
 <span class="post-on font-meta">
-17 hours ago </span>
+Jul 21, 2022 </span>
 </div>
 </div>
 </div>
@@ -3184,7 +4101,7 @@ Jul 15, 2022 </span>
 <a href="https://reaperscans.com/series/the-healing-priest-of-the-sun/chapter-43/" class="btn-link"> Chapter 43 </a>
 </span>
 <span class="post-on font-meta">
-21 hours ago </span>
+Jul 21, 2022 </span>
 </div>
 <div class="chapter-item  has-thumb free-chap">
 <span class="chapter font-meta">
@@ -3197,6 +4114,7 @@ Jul 09, 2022 </span>
 </div>
 </div>
 </div>
+
 <div class="col-4 col-md-2 badge-pos-2">
 <div class="page-item-detail manga">
 <div id="manga-item-44090" class="item-thumb  c-image-hover" data-post-id="44090">
@@ -3217,7 +4135,7 @@ Jul 09, 2022 </span>
 <a href="https://reaperscans.com/series/kill-the-dragon/chapter-18/" class="btn-link"> Chapter 18 </a>
 </span>
 <span class="post-on font-meta">
-22 hours ago </span>
+Jul 21, 2022 </span>
 </div>
 <div class="chapter-item  has-thumb free-chap">
 <span class="chapter font-meta">
@@ -3230,855 +4148,13 @@ Jul 15, 2022 </span>
 </div>
 </div>
 </div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-53167" class="item-thumb  c-image-hover" data-post-id="53167">
-<a href="https://reaperscans.com/series/superhuman-battlefield/" title="Superhuman Battlefield">
-<img width="765" height="1106" data-src="https://reaperscans.com/wp-content/uploads/2022/06/superhumanbattlefield.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/06/superhumanbattlefield.png 765w, https://reaperscans.com/wp-content/uploads/2022/06/superhumanbattlefield-193x278.png 193w" data-sizes="(max-width: 765px) 100vw, 765px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1106px;" alt="superhumanbattlefield" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
 </div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/superhuman-battlefield/">Superhuman Battlefield</a>
-</h3>
 </div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/superhuman-battlefield/chapter-12/" class="btn-link"> Chapter 12 </a>
-</span>
-<span class="post-on font-meta">
-23 hours ago </span>
 </div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/superhuman-battlefield/chapter-11/" class="btn-link"> Chapter 11 </a>
-</span>
-<span class="post-on font-meta">
-1 day ago </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-listing-item">
-<div class="row row-eq-height">
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-2756" class="item-thumb  c-image-hover" data-post-id="2756">
-<a href="https://reaperscans.com/series/dungeon-house/" title="Dungeon House">
-<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2021/07/dhcover.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/dhcover.png 720w, https://reaperscans.com/wp-content/uploads/2021/07/dhcover-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="dhcover" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
- <a href="https://reaperscans.com/series/dungeon-house/">Dungeon House</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/dungeon-house/chapter-57/" class="btn-link"> Chapter 57 </a>
-</span>
-<span class="post-on font-meta">
-24 hours ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/dungeon-house/chapter-56/" class="btn-link"> Chapter 56 </a>
-</span>
-<span class="post-on font-meta">
-Jul 16, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-63816" class="item-thumb  c-image-hover" data-post-id="63816">
-<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/" title="A Gate Opened on my First Day as a Politician">
-<img width="720" height="1030" data-src="https://reaperscans.com/wp-content/uploads/2022/07/image_2022-07-20_202910433.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/07/image_2022-07-20_202910433.png 720w, https://reaperscans.com/wp-content/uploads/2022/07/image_2022-07-20_202910433-75x106.png 75w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1030px;" alt="image_2022-07-20_202910433" /> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/">A Gate Opened on my First Day as a Politician</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/chapter-21/" class="btn-link"> Chapter 21 </a>
-</span>
-<span class="post-on font-meta">
-24 hours ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/a-gate-opened-on-my-first-day-as-a-politician/chapter-20/" class="btn-link"> Chapter 20 </a>
-</span>
-<span class="post-on font-meta">
-1 day ago </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-12902" class="item-thumb  c-image-hover" data-post-id="12902">
-<a href="https://reaperscans.com/series/this-is-the-law/" title="This Is The Law">
-<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2021/10/image_2022-05-22_204631638.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/image_2022-05-22_204631638.png 720w, https://reaperscans.com/wp-content/uploads/2021/10/image_2022-05-22_204631638-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="image_2022-05-22_204631638" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/this-is-the-law/">This Is The Law</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.6</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/this-is-the-law/chapter-55/" class="btn-link"> Chapter 55 </a>
-</span>
-<span class="post-on font-meta">
-1 day ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/this-is-the-law/chapter-54/" class="btn-link"> Chapter 54 </a>
-</span>
-<span class="post-on font-meta">
-Jul 14, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-41134" class="item-thumb  c-image-hover" data-post-id="41134">
-<a href="https://reaperscans.com/series/terrarium-adventure/" title="Terrarium Adventure">
-<img width="720" height="1019" data-src="https://reaperscans.com/wp-content/uploads/2022/04/TA-1.png" data-srcset="https://reaperscans.com/wp-content/uploads/2022/04/TA-1.png 720w, https://reaperscans.com/wp-content/uploads/2022/04/TA-1-75x106.png 75w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1019px;" alt="TA" /><a href="Manhwa" target="_self"></a> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/terrarium-adventure/">Terrarium Adventure</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.4</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/terrarium-adventure/chapter-28/" class="btn-link"> Chapter 28 </a>
-</span>
-<span class="post-on font-meta">
-1 day ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/terrarium-adventure/chapter-27/" class="btn-link"> Chapter 27 </a>
-</span>
-<span class="post-on font-meta">
-Jul 19, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-14069" class="item-thumb  c-image-hover" data-post-id="14069">
-<a href="https://reaperscans.com/series/the-return-of-the-disaster-class-hero/" title="The Return of The Disaster-Class Hero">
-<img width="720" height="1030" data-src="https://reaperscans.com/wp-content/uploads/2021/10/rdch-new-cover-FINAL.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/rdch-new-cover-FINAL.jpg 720w, https://reaperscans.com/wp-content/uploads/2021/10/rdch-new-cover-FINAL-75x106.jpg 75w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1030px;" alt="rdch new cover FINAL" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/the-return-of-the-disaster-class-hero/">The Return of The Disaster-Class Hero</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.7</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-return-of-the-disaster-class-hero/chapter-44/" class="btn-link"> Chapter 44 </a>
-</span>
-<span class="post-on font-meta">
-2 days ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-return-of-the-disaster-class-hero/chapter-43/" class="btn-link"> Chapter 43 </a>
-</span>
-<span class="post-on font-meta">
-Jul 13, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-31902" class="item-thumb  c-image-hover" data-post-id="31902">
-<a href="https://reaperscans.com/series/my-civil-servant-life-reborn-in-the-strange-world/" title="My Civil Servant Life Reborn in the Strange World">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2022/02/civillife-copia-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/02/civillife-copia-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2022/02/civillife-copia-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="civillife copia" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/my-civil-servant-life-reborn-in-the-strange-world/">My Civil Servant Life Reborn in the Strange World</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">3.8</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/my-civil-servant-life-reborn-in-the-strange-world/chapter-40/" class="btn-link"> Chapter 40 </a>
-</span>
-<span class="post-on font-meta">
-2 days ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/my-civil-servant-life-reborn-in-the-strange-world/chapter-39/" class="btn-link"> Chapter 39 </a>
-</span>
-<span class="post-on font-meta">
-2 days ago </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-listing-item">
-<div class="row row-eq-height">
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-21576" class="item-thumb  c-image-hover" data-post-id="21576">
-<a href="https://reaperscans.com/series/estio/" title="Estio">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/12/resource-1-2-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/12/resource-1-2-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/12/resource-1-2-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="resource-1" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/estio/">Estio</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/estio/chapter-47/" class="btn-link"> Chapter 47 </a>
-</span>
-<span class="post-on font-meta">
-2 days ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/estio/chapter-46/" class="btn-link"> Chapter 46 </a>
-</span>
-<span class="post-on font-meta">
-Jul 11, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-12900" class="item-thumb  c-image-hover" data-post-id="12900">
-<a href="https://reaperscans.com/series/seoul-station-druid/" title="Seoul Station Druid">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/10/druid-cover2-1-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/druid-cover2-1-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/10/druid-cover2-1-220x300.jpg 220w, https://reaperscans.com/wp-content/uploads/2021/10/druid-cover2-1-110x150.jpg 110w, https://reaperscans.com/wp-content/uploads/2021/10/druid-cover2-1.jpg 290w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="druid-cover2" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/seoul-station-druid/">Seoul Station Druid</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/seoul-station-druid/chapter-63/" class="btn-link"> Chapter 63 </a>
-</span>
-<span class="post-on font-meta">
-3 days ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/seoul-station-druid/chapter-62/" class="btn-link"> Chapter 62 </a>
-</span>
-<span class="post-on font-meta">
-Jul 16, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-21320" class="item-thumb  c-image-hover" data-post-id="21320">
-<a href="https://reaperscans.com/series/virtual-rpg/" title="Virtual RPG">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/12/cover-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/12/cover-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/12/cover-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="VRPG cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/virtual-rpg/">Virtual RPG</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/virtual-rpg/chapter-30/" class="btn-link"> Chapter 30 </a>
-</span>
-<span class="post-on font-meta">
-3 days ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/virtual-rpg/chapter-29/" class="btn-link"> Chapter 29 </a>
-</span>
-<span class="post-on font-meta">
-Jul 16, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-20567" class="item-thumb  c-image-hover" data-post-id="20567">
-<a href="https://reaperscans.com/series/duke-pendragon/" title="Duke Pendragon">
-<img width="828" height="1170" data-src="https://reaperscans.com/wp-content/uploads/2021/12/image_2022-07-12_204900234.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/12/image_2022-07-12_204900234.png 828w, https://reaperscans.com/wp-content/uploads/2021/12/image_2022-07-12_204900234-768x1085.png 768w, https://reaperscans.com/wp-content/uploads/2021/12/image_2022-07-12_204900234-75x106.png 75w" data-sizes="(max-width: 828px) 100vw, 828px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1170px;" alt="image_2022-07-12_204900234" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/duke-pendragon/">Duke Pendragon</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.7</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/duke-pendragon/chapter-45/" class="btn-link"> Chapter 45 </a>
-</span>
-<span class="post-on font-meta">
-3 days ago </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/duke-pendragon/chapter-44/" class="btn-link"> Chapter 44 </a>
-</span>
-<span class="post-on font-meta">
-Jul 12, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-2408" class="item-thumb  c-image-hover" data-post-id="2408">
-<a href="https://reaperscans.com/series/leveling-with-the-gods-manhwa/" title="Leveling With The Gods">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/07/cover-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/cover-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2021/07/cover-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/leveling-with-the-gods-manhwa/">Leveling With The Gods</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.9</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/leveling-with-the-gods-manhwa/chapter-58/" class="btn-link"> Chapter 58 </a>
-</span>
-<span class="post-on font-meta">
-Jul 19, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/leveling-with-the-gods-manhwa/chapter-57/" class="btn-link"> Chapter 57 </a>
-</span>
-<span class="post-on font-meta">
-Jul 05, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-23458" class="item-thumb  c-image-hover" data-post-id="23458">
-<a href="https://reaperscans.com/series/level-1-player/" title="Level 1 Player">
-<img width="1185" height="1617" data-src="https://reaperscans.com/wp-content/uploads/2022/01/lvl1-copia.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/01/lvl1-copia.jpg 1185w, https://reaperscans.com/wp-content/uploads/2022/01/lvl1-copia-768x1048.jpg 768w, https://reaperscans.com/wp-content/uploads/2022/01/lvl1-copia-110x150.jpg 110w, https://reaperscans.com/wp-content/uploads/2022/01/lvl1-copia-1126x1536.jpg 1126w" data-sizes="(max-width: 1185px) 100vw, 1185px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1617px;" alt="lvl1 copia" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/level-1-player/">Level 1 Player</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/level-1-player/chapter-43-5/" class="btn-link"> Chapter 43.5 </a>
-</span>
-
-<span class="post-on font-meta">
-Jul 19, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/level-1-player/chapter-43/" class="btn-link"> Chapter 43 </a>
-</span>
-<span class="post-on font-meta">
-Jul 12, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-listing-item">
-<div class="row row-eq-height">
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-51541" class="item-thumb  c-image-hover" data-post-id="51541">
-<a href="https://reaperscans.com/series/level-up-doctor/" title="Level-Up Doctor">
-<img width="1896" height="2560" data-src="https://reaperscans.com/wp-content/uploads/2022/05/FUTgJ5WacAAU_M3-copia-scaled.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/05/FUTgJ5WacAAU_M3-copia-scaled.jpg 1896w, https://reaperscans.com/wp-content/uploads/2022/05/FUTgJ5WacAAU_M3-copia-768x1037.jpg 768w, https://reaperscans.com/wp-content/uploads/2022/05/FUTgJ5WacAAU_M3-copia-110x150.jpg 110w, https://reaperscans.com/wp-content/uploads/2022/05/FUTgJ5WacAAU_M3-copia-1138x1536.jpg 1138w, https://reaperscans.com/wp-content/uploads/2022/05/FUTgJ5WacAAU_M3-copia-1517x2048.jpg 1517w" data-sizes="(max-width: 1896px) 100vw, 1896px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:2560px;" alt="FUTgJ5WacAAU_M3 copia" /> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/level-up-doctor/">Level-Up Doctor</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.6</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/level-up-doctor/chapter-24/" class="btn-link"> Chapter 24 </a>
-</span>
-<span class="post-on font-meta">
-Jul 19, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/level-up-doctor/chapter-23/" class="btn-link"> Chapter 23 </a>
-</span>
-<span class="post-on font-meta">
-Jul 07, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-92" class="item-thumb  c-image-hover" data-post-id="92">
-<a href="https://reaperscans.com/series/the-rebirth-of-an-8th-circled-wizard/" title="The Rebirth of an 8th-Circled Wizard">
-<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2021/07/8wiz-copia.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/8wiz-copia.jpg 720w, https://reaperscans.com/wp-content/uploads/2021/07/8wiz-copia-110x150.jpg 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="8wiz copia" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/the-rebirth-of-an-8th-circled-wizard/">The Rebirth of an 8th-Circled Wizard</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">3.8</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-rebirth-of-an-8th-circled-wizard/chapter-94/" class="btn-link"> Chapter 94 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-rebirth-of-an-8th-circled-wizard/chapter-93/" class="btn-link"> Chapter 93 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-13009" class="item-thumb  c-image-hover" data-post-id="13009">
-<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/" title="The Tutorial is Too Hard">
-<img width="720" height="972" data-src="https://reaperscans.com/wp-content/uploads/2021/10/TTITH-Copy.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/TTITH-Copy.png 720w, https://reaperscans.com/wp-content/uploads/2021/10/TTITH-Copy-110x150.png 110w" data-sizes="(max-width: 720px) 100vw, 720px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="TTITH &#8211; Copy" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/">The Tutorial is Too Hard</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/chapter-70/" class="btn-link"> Chapter 70 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-tutorial-is-too-hard-manhwa/chapter-69/" class="btn-link"> Chapter 69 </a>
-</span>
-<span class="post-on font-meta">
-Jul 11, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-18938" class="item-thumb  c-image-hover" data-post-id="18938">
-<a href="https://reaperscans.com/series/return-of-the-broken-constellation/" title="Return of the Broken Constellation">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/11/rotbc15-175x238.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/11/rotbc15-175x238.png 175w, https://reaperscans.com/wp-content/uploads/2021/11/rotbc15-110x150.png 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="rotbc15" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/return-of-the-broken-constellation/">Return of the Broken Constellation</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/return-of-the-broken-constellation/chapter-38/" class="btn-link"> Chapter 38 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/return-of-the-broken-constellation/chapter-37/" class="btn-link"> Chapter 37 </a>
-</span>
-<span class="post-on font-meta">
-Jul 11, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-28128" class="item-thumb  c-image-hover" data-post-id="28128">
-<a href="https://reaperscans.com/series/the-world-after-the-fall/" title="The World After the Fall">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2022/02/Manhwa_Cover_2-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/02/Manhwa_Cover_2-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2022/02/Manhwa_Cover_2-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="Manhwa_Cover_2" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/the-world-after-the-fall/">The World After the Fall</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-world-after-the-fall/chapter-31/" class="btn-link"> Chapter 31 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-world-after-the-fall/chapter-30/" class="btn-link"> Chapter 30 </a>
-</span>
-<span class="post-on font-meta">
-Jul 11, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-15141" class="item-thumb  c-image-hover" data-post-id="15141">
-<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/" title="The S-Classes That I Raised">
-<img width="900" height="1274" data-src="https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1.jpg 900w, https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1-768x1087.jpg 768w, https://reaperscans.com/wp-content/uploads/2021/11/tsctirNa2-1-75x106.jpg 75w" data-sizes="(max-width: 900px) 100vw, 900px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:1274px;" alt="tsctirNa2" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/">The S-Classes That I Raised</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.8</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/chapter-44/" class="btn-link"> Chapter 44 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-s-classes-that-i-raised/chapter-43/" class="btn-link"> Chapter 43 </a>
-</span>
-<span class="post-on font-meta">
-Jul 11, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-listing-item">
-<div class="row row-eq-height">
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-49997" class="item-thumb  c-image-hover" data-post-id="49997">
-<a href="https://reaperscans.com/series/the-novels-extra/" title="The Novel&#8217;s Extra (Remake)">
-<img width="720" height="970" data-src="https://reaperscans.com/wp-content/uploads/2022/05/cover-1.jpg" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:970px;" alt="cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/the-novels-extra/">The Novel&#8217;s Extra (Remake)</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><span class="score font-meta total_votes">4.9</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-novels-extra/chapter-23/" class="btn-link"> Chapter 23 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/the-novels-extra/chapter-22/" class="btn-link"> Chapter 22 </a>
-</span>
-<span class="post-on font-meta">
-Jul 11, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-11871" class="item-thumb  c-image-hover" data-post-id="11871">
-<a href="https://reaperscans.com/series/return-of-the-legendary-spear-knight/" title="Return of the Legendary Spear Knight">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/10/SPEAR-KNIGHT-cover-175x238.jpeg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/10/SPEAR-KNIGHT-cover-175x238.jpeg 175w, https://reaperscans.com/wp-content/uploads/2021/10/SPEAR-KNIGHT-cover-110x150.jpeg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="SPEAR KNIGHT cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/return-of-the-legendary-spear-knight/">Return of the Legendary Spear Knight</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.7</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/return-of-the-legendary-spear-knight/chapter-53/" class="btn-link"> Chapter 53 </a>
-</span>
-<span class="post-on font-meta">
-Jul 18, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/return-of-the-legendary-spear-knight/chapter-52/" class="btn-link"> Chapter 52 </a>
-</span>
-<span class="post-on font-meta">
-Jul 12, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-44309" class="item-thumb  c-image-hover" data-post-id="44309">
-<a href="https://reaperscans.com/series/hyper-luck-manhwa/" title="Hyper Luck &#8211; Manhwa">
-<img width="729" height="972" data-src="https://reaperscans.com/wp-content/uploads/2022/04/HL.png" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:972px;" alt="HL" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/hyper-luck-manhwa/">Hyper Luck &#8211; Manhwa</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-outline ratings_stars"></i><span class="score font-meta total_votes">4.1</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/hyper-luck-manhwa/chapter-27/" class="btn-link"> Chapter 27 </a>
-</span>
-<span class="post-on font-meta">
-Jul 17, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/hyper-luck-manhwa/chapter-26/" class="btn-link"> Chapter 26 </a>
-</span>
-<span class="post-on font-meta">
-Jul 08, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-64" class="item-thumb  c-image-hover" data-post-id="64">
-<a href="https://reaperscans.com/series/god-of-blackfield/" title="God of Blackfield">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/07/GOB-1-cover-175x238.jpeg" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/GOB-1-cover-175x238.jpeg 175w, https://reaperscans.com/wp-content/uploads/2021/07/GOB-1-cover-110x150.jpeg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="GOB-1 cover" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/god-of-blackfield/">God of Blackfield</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.5</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/god-of-blackfield/s2-chapter-53/" class="btn-link"> S2 Chapter 53 </a>
-</span>
-<span class="post-on font-meta">
-Jul 17, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/god-of-blackfield/s2-chapter-52/" class="btn-link"> S2 Chapter 52 </a>
-</span>
-<span class="post-on font-meta">
-Jul 15, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-26093" class="item-thumb  c-image-hover" data-post-id="26093">
-<a href="https://reaperscans.com/series/archmage-streamer/" title="Archmage Streamer">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2022/01/COVER-4-175x238.jpg" data-srcset="https://reaperscans.com/wp-content/uploads/2022/01/COVER-4-175x238.jpg 175w, https://reaperscans.com/wp-content/uploads/2022/01/COVER-4-110x150.jpg 110w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="COVER" /><span class="manga-title-badges custom manhwa">Manhwa</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/archmage-streamer/">Archmage Streamer</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.3</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/archmage-streamer/chapter-44/" class="btn-link"> Chapter 44 </a>
-</span>
-<span class="post-on font-meta">
-Jul 17, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/archmage-streamer/chapter-43/" class="btn-link"> Chapter 43 </a>
-</span>
-<span class="post-on font-meta">
-Jul 12, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-4 col-md-2 badge-pos-2">
-<div class="page-item-detail manga">
-<div id="manga-item-2411" class="item-thumb  c-image-hover" data-post-id="2411">
-<a href="https://reaperscans.com/series/rankers-return/" title="Ranker&#8217;s Return (Remake)">
-<img width="175" height="238" data-src="https://reaperscans.com/wp-content/uploads/2021/07/rr-175x238.png" data-srcset="https://reaperscans.com/wp-content/uploads/2021/07/rr-175x238.png 175w, https://reaperscans.com/wp-content/uploads/2021/07/rr-110x150.png 110w, https://reaperscans.com/wp-content/uploads/2021/07/rr.png 719w" data-sizes="(max-width: 175px) 100vw, 175px" class="img-responsive lazyload effect-fade" src="https://reaperscans.com/wp-content/themes/madara/images/dflazy.jpg" style="padding-top:238px;" alt="rr" /><span class="manga-title-badges custom manhwa">MANHWA</span> </a>
-</div>
-<div class="item-summary">
-<div class="post-title font-title">
-<h3 class="h5">
-<a href="https://reaperscans.com/series/rankers-return/">Ranker&#8217;s Return (Remake)</a>
-</h3>
-</div>
-<div class="meta-item rating">
-<div class="post-total-rating "><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star ratings_stars rating_current"></i><i class="ion-ios-star-half ratings_stars rating_current_half"></i><span class="score font-meta total_votes">4.7</span></div> </div>
-<div class="list-chapter">
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/rankers-return/chapter-65/" class="btn-link"> Chapter 65 </a>
-</span>
-<span class="post-on font-meta">
-Jul 17, 2022 </span>
-</div>
-<div class="chapter-item  has-thumb free-chap">
-<span class="chapter font-meta">
-<a href="https://reaperscans.com/series/rankers-return/chapter-64/" class="btn-link"> Chapter 64 </a>
-</span>
-<span class="post-on font-meta">
-Jul 05, 2022 </span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
 											var manga_args = {"orderby":"meta_value_num","paged":1,"timerange":"","posts_per_page":30,"tax_query":{"relation":"OR"},"meta_query":{"relation":"OR","0":{"relation":"AND","0":{"key":"_wp_manga_chapter_type","value":"manga"}}},"post_type":"wp-manga","post_status":"publish","meta_key":"_latest_update","order":"DESC","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"nopaging":false,"comments_per_page":"50","no_found_rows":false};
                                         </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
 					var __madara_query_vars = {"orderby":"meta_value_num","paged":1,"timerange":"","posts_per_page":"30","tax_query":{"relation":"OR"},"meta_query":{"relation":"OR","0":{"relation":"AND","0":{"key":"_wp_manga_chapter_type","value":"manga"}}},"post_type":"wp-manga","post_status":"publish","meta_key":"_latest_update","order":"desc","sidebar":"full","manga_archives_item_layout":"big_thumbnail"};
                 </script>
 <nav class="navigation-ajax">
@@ -4094,15 +4170,15 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 </div>
 <div class="ad c-ads custom-code body-bottom-ads"><div id="3_PapayAds_ReaperScans_BOTTOM_Banner" align="center">
 <div id='div-gpt-ad-1620829101341-0'>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1620829101341-0'); });
   </script>
 </div>
 </div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9625582592338282" type="a52dcf43c61141bb5871766b-text/javascript"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9625582592338282" type="993f45f556e11b3530e5f2a0-text/javascript"></script>
 
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9625582592338282" data-ad-slot="8649296033" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
 </div>
@@ -4117,20 +4193,20 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 <div id="custom_html-11" class="widget_text widget col-12 col-md-12   default  no-icon heading-style-1 widget_custom_html"><div class="widget_text widget__inner widget_custom_html__inner c-widget-wrap"><div class="widget_text widget-content"><div class="textwidget custom-html-widget">
 <div id="3_PapayAds_ReaperScans_BOTTOM_Banner" align="center">
 <div id='div-gpt-ad-1620829101341-0'>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1620829101341-0'); });
   </script>
 </div>
 </div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="a52dcf43c61141bb5871766b-text/javascript"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="993f45f556e11b3530e5f2a0-text/javascript"></script>
 
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9625582592338282" data-ad-slot="7859586528" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script async type="a52dcf43c61141bb5871766b-text/javascript">
+<script async type="993f45f556e11b3530e5f2a0-text/javascript">
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <div id="2_PapayAds_ReaperScans_Sticky_Footer" align="center" class="leaderboard-sticky">
 <div id='div-gpt-ad-1620828877349-0'>
-<script type="a52dcf43c61141bb5871766b-text/javascript">
+<script type="993f45f556e11b3530e5f2a0-text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1620828877349-0'); });
   </script>
 </div>
@@ -4152,7 +4228,7 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 <div class="col-md-12">
 <div class="copyright">
 <p>Dino, The DICKHEAD. 2019-2022. All rights reserved.</p> </div>
-</div>
+ </div>
 </div>
 </div>
 </div>
@@ -4177,7 +4253,7 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/wp-embed.min.js?ver=5.8.4' id='wp-embed-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/wp-embed.min.js?ver=5.8.4' id='wp-embed-js'></script>
 <meta name="generator" content="Site Kit by Google 1.72.0" /><link rel="icon" href="https://reaperscans.com/wp-content/uploads/2021/07/cropped-ms-icon-310x310-1-32x32.png" sizes="32x32" />
 <link rel="icon" href="https://reaperscans.com/wp-content/uploads/2021/07/cropped-ms-icon-310x310-1-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://reaperscans.com/wp-content/uploads/2021/07/cropped-ms-icon-310x310-1-180x180.png" />
@@ -4225,7 +4301,7 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 <div id="sign-up" class="login">
 <h3>
 <a href="https://reaperscans.com/" title="Reaper Scans" tabindex="-1">Sign Up</a>
- </h3>
+</h3>
 <p class="message register">Register For This Site.</p>
 <form name="registerform" id="registerform" novalidate="novalidate">
 <p>
@@ -4284,7 +4360,7 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 </label>
 </p>
 <p class="submit">
-<input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="Get New Password">
+ <input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="Get New Password">
 <input type="hidden" name="testcookie" value="1">
 </p>
 </form>
@@ -4306,7 +4382,7 @@ LOAD MORE <i class="icon ion-md-arrow-dropdown"></i>
 <span aria-hidden="true">&times;</span></button>
 </div>
 <div class="modal-body">
-<input type="hidden" name="wp-manga-coin-nonce" value="4219c61020" />
+<input type="hidden" name="wp-manga-coin-nonce" value="cc8897412e" />
 <input type="hidden" name="wp-manga-chapter" value="" />
 <h3>
 Premium Chapter </h3>
@@ -4325,7 +4401,7 @@ Premium Chapter </h3>
 <span aria-hidden="true">&times;</span></button>
 </div>
 <div class="modal-body">
-<input type="hidden" name="wp-manga-report-nonce" value="429684ebec" />
+<input type="hidden" name="wp-manga-report-nonce" value="9b8c33e7db" />
 <input type="hidden" name="wp-manga-chapter" value="" />
 <h3>
 Report Chapter </h3>
@@ -4357,46 +4433,46 @@ Report Chapter </h3>
 <i class="icon ion-md-arrow-up"></i>
 </div>
 <link rel='stylesheet' id='wordfence-ls-login-css' href='https://reaperscans.com/wp-content/plugins/wordfence/modules/login-security/css/login.1623076348.css?ver=1.0.6' type='text/css' media='all' />
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='manga_disqus_embed-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='manga_disqus_embed-js-extra'>
 /* <![CDATA[ */
 var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.12"},"disqusIdentifier":"1397 https:\/\/reaperscans.com\/?page_id=1397","disqusShortname":"reaperscans","disqusTitle":"Homepage Comics","disqusUrl":"https:\/\/reaperscans.com\/latest-comic\/","postId":"1397"};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=5.8.4' id='manga_disqus_embed-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='wp_manga_chapter_report_js-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=5.8.4' id='manga_disqus_embed-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='wp_manga_chapter_report_js-js-extra'>
 /* <![CDATA[ */
 var wp_chapter_report = {"are_you_sure":"Are you sure want to report this chapter?","thank_you":"You report has been sent. Thank you!"};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/wp-manga-chapter-report/assets/js/main.js?ver=1.1' id='wp_manga_chapter_report_js-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/wp-manga-chapter-thumbnail/assets/js/frontend.js?ver=5.8.4' id='wp-manga-chapter-thumbnail-frontend-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/core.js?ver=5.8.4' id='madara-core-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/lazysizes/lazysizes.min.js?ver=5.3.2' id='lazysizes-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/bootstrap.min.js?ver=4.6.0' id='bootstrap-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/shuffle.min.js?ver=5.3.0' id='shuffle-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/aos.js?ver=5.8.4' id='aos-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='madara-js-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/wp-manga-chapter-report/assets/js/main.js?ver=1.1' id='wp_manga_chapter_report_js-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/wp-manga-chapter-thumbnail/assets/js/frontend.js?ver=5.8.4' id='wp-manga-chapter-thumbnail-frontend-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/core.js?ver=5.8.4' id='madara-core-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/lazysizes/lazysizes.min.js?ver=5.3.2' id='lazysizes-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/bootstrap.min.js?ver=4.6.0' id='bootstrap-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/shuffle.min.js?ver=5.3.0' id='shuffle-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/aos.js?ver=5.8.4' id='aos-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='madara-js-js-extra'>
 /* <![CDATA[ */
 var madara = {"ajaxurl":"https:\/\/reaperscans.com\/wp-admin\/admin-ajax.php","query_vars":{"page":0,"pagename":"latest-comic","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"latest-comic","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":18,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC","sidebar":"full"},"current_url":"https:\/\/reaperscans.com\/latest-comic"};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/template.js?ver=1.6.6' id='madara-js-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/ajax.js?ver=5.8.4' id='madara-ajax-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='wp-manga-login-ajax-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/template.js?ver=1.6.6' id='madara-js-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/ajax.js?ver=5.8.4' id='madara-ajax-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='wp-manga-login-ajax-js-extra'>
 /* <![CDATA[ */
 var wpMangaLogin = {"admin_ajax":"https:\/\/reaperscans.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/reaperscans.com","messages":{"please_enter_username":"Please enter username","please_enter_password":"Please enter password","invalid_username_or_password":"Invalid username or password","server_error":"Server Error!","username_or_email_cannot_be_empty":"Username or Email cannot be empty","please_fill_all_fields":"Please fill in all password fields.","password_cannot_less_than_12":"Password cannot has less than 12 characters","password_doesnot_match":"Password doesn&#039;t match. Please  try again.","username_cannot_empty":"Username cannot be empty","email_cannot_empty":"Email cannot be empty","password_cannot_empty":"Password cannot be empty"}};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-core/assets/js/login.js?ver=5.8.4' id='wp-manga-login-ajax-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-core/assets/slick/slick.min.js?ver=5.8.4' id='wp-manga-slick-js-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/slick/slick.min.js?ver=1.9.0' id='slick-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-shortcodes/shortcodes/js/ct-shortcodes.js?ver=1.5.2.1' id='ct-shortcode-js-js'></script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" id='wordfence-ls-login-js-extra'>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-core/assets/js/login.js?ver=5.8.4' id='wp-manga-login-ajax-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-core/assets/slick/slick.min.js?ver=5.8.4' id='wp-manga-slick-js-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/themes/madara/js/slick/slick.min.js?ver=1.9.0' id='slick-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/madara-shortcodes/shortcodes/js/ct-shortcodes.js?ver=1.5.2.1' id='ct-shortcode-js-js'></script>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" id='wordfence-ls-login-js-extra'>
 /* <![CDATA[ */
-var WFLSVars = {"ajaxurl":"https:\/\/reaperscans.com\/wp-admin\/admin-ajax.php","nonce":"8aa10dcc1e","recaptchasitekey":"6Lc24UIcAAAAAHIKfJ2Es2Wa3OpgLN47xRyWsd1X","useCAPTCHA":"","allowremember":"","verification":""};
+var WFLSVars = {"ajaxurl":"https:\/\/reaperscans.com\/wp-admin\/admin-ajax.php","nonce":"a152308a20","recaptchasitekey":"6Lc24UIcAAAAAHIKfJ2Es2Wa3OpgLN47xRyWsd1X","useCAPTCHA":"","allowremember":"","verification":""};
 /* ]]> */
 </script>
-<script type="a52dcf43c61141bb5871766b-text/javascript" src='https://reaperscans.com/wp-content/plugins/wordfence/modules/login-security/js/login.1623076348.js?ver=1.0.6' id='wordfence-ls-login-js'></script>
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="a52dcf43c61141bb5871766b-|49" defer=""></script></body></html>
+<script type="993f45f556e11b3530e5f2a0-text/javascript" src='https://reaperscans.com/wp-content/plugins/wordfence/modules/login-security/js/login.1623076348.js?ver=1.0.6' id='wordfence-ls-login-js'></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="993f45f556e11b3530e5f2a0-|49" defer=""></script></body></html>
 
