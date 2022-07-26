@@ -19,10 +19,11 @@ include "regex.php";    // get regular expressions
 if (preg_match_all($regex1, $content, $matches)) {
 
     // ----------------------- sql prepare and bind ---------------------------
-    // fetching webtoon records if exits
+    // fetching webtoon record if exits
     $stmt = $conn->prepare("SELECT w_id, w_title, w_cover FROM webtoons WHERE webtoons.w_title = ?");
     $stmt->bind_param("s", $webtoon_title);
 
+    // fetch w_id
     $stmt4 = $conn->prepare("SELECT `w_id` FROM `webtoons` WHERE w_id = ?");
     $stmt4->bind_param("s", $webtoon_title);
 
@@ -36,7 +37,7 @@ if (preg_match_all($regex1, $content, $matches)) {
 
     // update w_cover path
     $stmt3 = $conn->prepare("UPDATE `webtoons` SET `w_cover` = ? WHERE `webtoons`.`w_id` = ?");
-    $stmt3->bind_param("si", $img_path, $w_id);
+    $stmt3->bind_param("si", $img_path, $webtoon_title);
 
     // ===================================================
     for ($i = 0; $i < count($matches[0]); $i++) {
@@ -48,16 +49,16 @@ if (preg_match_all($regex1, $content, $matches)) {
         // fetching webtoon records if exits
         $stmt->execute();
         $result = $stmt->get_result();
-        $row3 = $result->fetch_assoc();
-        if ($row3) {
-            $w_title = $row3['w_title'];
-            $w_id = $row3['w_id'];
-            $w_cover = $row3['w_cover'];
+        $row = $result->fetch_assoc();
+        if ($row) {
+            $w_title = $row['w_title'];
+            $webtoon_title = $row['w_id'];
+            $w_cover = $row['w_cover'];
 
-            $img_path = "img/" . $w_id . $img_ext; // path and img name where img will be stored
+            $img_path = "img/" . $webtoon_title . $img_ext; // path and img name where img will be stored
             if ($img_path !== $w_cover) {   // check if w_cover exits in db
 
-                save_img($img_url, $w_id, $img_path);
+                save_img($img_url, $webtoon_title, $img_path);
 
                 $stmt3->execute();  // update w_cover path    
                 $result = mysqli_query($conn, $sql);
@@ -85,14 +86,14 @@ if (preg_match_all($regex1, $content, $matches)) {
             $stmt4->execute();  // fetch w_id
             $result = $stmt->get_result();
             $row = $result->fetch_assoc();
-            $w_id = $row['w_id']; //  increment wid 
+            $webtoon_title = $row['w_id']; //  increment wid 
 
             $stmt2->execute(); // insert chapter into db
             $stmt2->execute(); // insert chapter into db
 
             $result2 = $stmt2->get_result();
             if ($result && $result2) {
-                echo "Inserted: " . $webtoon_title;
+                echo "Inserted webtoon: " . $webtoon_title;
                 echo "<br>";
             } else {
                 echo "Failed to download webtoon : $webtoon_title || " . mysqli_error($conn);
