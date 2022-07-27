@@ -1,5 +1,6 @@
 <?php
 include "partials/_dbconnect.php";
+include "functions.php";
 
 // $sql = "SELECT * FROM `webtoons`";
 $sql = "SELECT * from `webtoons` ORDER BY `last_mod` DESC LIMIT 30";
@@ -25,10 +26,11 @@ while ($row = mysqli_fetch_assoc($result)) {
         $chapter_link[$i] = $row2['c_link'];
 
         // ---------------------------------------------------------------------------------
-        $c_posted_on[$i] = new DateTime($row2['c_posted_on']);  // Last Updated || convert the string to a date variable
+        $c_posted_on[$i] = new DateTime($row2['c_posted_on']);  // convert the string to a date variable
         $current_date = new DATETIME(date("Y-m-d H:i:s"));  // Current Date
-        $interval[$i] = date_diff($current_date,$c_posted_on[$i]);    // Calculate the difference
-        $interval[$i] = $interval[$i]->format('%r%a days'); // this converts $interval[$i] of object(class) type into string;
+        
+        $interval[$i] = post_date_format($current_date,$c_posted_on[$i]);
+
     }
 
     // code to display webtoons
