@@ -2,9 +2,12 @@
 include "partials/_dbconnect.php";
 
 // $sql = "SELECT * FROM `webtoons`";
-$sql = "SELECT * from `webtoons` ORDER BY `last_mod` DESC LIMIT 20";
+$sql = "SELECT * from `webtoons` ORDER BY `last_mod` DESC LIMIT 30";
 $result = mysqli_query($conn, $sql);
 
+// fetching webtoon record if exits with w_id
+$stmt = $conn->prepare("SELECT * FROM `chapters` WHERE `w_id`= ? ORDER BY `c_no` DESC LIMIT 2");
+$stmt->bind_param("i", $webtoon_id);
 
 // loop to print webtoons
 while ($row = mysqli_fetch_assoc($result)) {
@@ -14,18 +17,17 @@ while ($row = mysqli_fetch_assoc($result)) {
     $webtoon_id = $row['w_id'];
 
     // fetching chapter details
-    $sql2 = "SELECT * FROM `chapters` WHERE `w_id`='$webtoon_id' ORDER BY `c_id` DESC LIMIT 2";
-    $result2 = mysqli_query($conn, $sql2);
+    $stmt->execute();
+    $result2 = $stmt->get_result();
     for ($i = 0; $i < 2; $i++) {
-        $row2 = mysqli_fetch_assoc($result2);
+        $row2 = $result2->fetch_assoc();
         $chapter_no[$i] = $row2['c_no'];
         $chapter_link[$i] = $row2['c_link'];
 
         // ---------------------------------------------------------------------------------
-        // DATE-TIME
         $c_posted_on[$i] = new DateTime($row2['c_posted_on']);  // Last Updated || convert the string to a date variable
         $current_date = new DATETIME(date("Y-m-d H:i:s"));  // Current Date
-        $interval[$i] = date_diff($c_posted_on[$i], $current_date);    // Calculate the difference
+        $interval[$i] = date_diff($current_date,$c_posted_on[$i]);    // Calculate the difference
         $interval[$i] = $interval[$i]->format('%r%a days'); // this converts $interval[$i] of object(class) type into string;
     }
 

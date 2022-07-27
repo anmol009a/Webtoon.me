@@ -9,7 +9,7 @@ download_file($url, $file_name);
 
 
 // get webtoons file content
-$file_name = 'reaperscans.com';
+// $file_name = 'reaperscans.com';
 $content = open_file($file_name);
 
 
@@ -19,13 +19,10 @@ include "regex.php";    // get regular expressions
 if (preg_match_all($regex1, $content, $matches)) {
 
     // ----------------------- sql prepare and bind ---------------------------
-    // fetching webtoon record if exits
+
+    // fetching webtoon record eith webtoon title
     $stmt = $conn->prepare("SELECT w_id, w_title, w_cover FROM webtoons WHERE webtoons.w_title = ?");
     $stmt->bind_param("s", $webtoon_title);
-
-    // fetch w_id
-    $stmt4 = $conn->prepare("SELECT `w_id` FROM `webtoons` WHERE w_id = ?");
-    $stmt4->bind_param("s", $webtoon_title);
 
     // insert webtoon into db
     $stmt1 = $conn->prepare("INSERT INTO webtoons (`w_title`, `w_link`, `w_cover`) VALUES (?,?,?)");
@@ -37,7 +34,8 @@ if (preg_match_all($regex1, $content, $matches)) {
 
     // update w_cover path
     $stmt3 = $conn->prepare("UPDATE `webtoons` SET `w_cover` = ? WHERE `webtoons`.`w_id` = ?");
-    $stmt3->bind_param("si", $img_path, $webtoon_title);
+    $stmt3->bind_param("si", $img_path, $webtoon_id);
+
 
     // ===================================================
     for ($i = 0; $i < count($matches[0]); $i++) {
@@ -51,23 +49,21 @@ if (preg_match_all($regex1, $content, $matches)) {
         $result = $stmt->get_result();
         $row = $result->fetch_assoc();
         if ($row) {
-            $w_title = $row['w_title'];
-            $webtoon_title = $row['w_id'];
+            $webtoon_title = $row['w_title'];
+            $webtoon_id = $row['w_id'];
             $w_cover = $row['w_cover'];
 
-            $img_path = "img/" . $webtoon_title . $img_ext; // path and img name where img will be stored
+            $img_path = "img/" . $webtoon_id . $img_ext; // path and img name where img will be stored
             if ($img_path !== $w_cover) {   // check if w_cover exits in db
 
-                save_img($img_url, $webtoon_title, $img_path);
-
                 $stmt3->execute();  // update w_cover path    
-                $result = mysqli_query($conn, $sql);
 
                 if ($result) {
-                    echo "Updated: " . $webtoon_title;
+                    save_img($img_url, $webtoon_title, $img_path);
+                    echo "Updated Img: " . $webtoon_title;
                     echo "<br>";
                 } else {
-                    echo "Failed to download webtoon : $webtoon_title || " . mysqli_error($conn);
+                    echo "Failed to download Img : $webtoon_title";
                     echo "<br>";
                 }
             } else {
@@ -75,28 +71,33 @@ if (preg_match_all($regex1, $content, $matches)) {
                 echo "<br>";
             }
         } else {
-
             // inserting webtoon details into db
             $img_path = "img/" . $webtoon_id . $img_ext; // path and img name where img will be stored
-            save_img($img_url, $webtoon_id, $img_path);
 
-            $stmt1->execute();  // insert webtoon into db
+            try {
+                $result1 = $stmt1->execute();  // insert webtoon into db 
 
+                // fetch current w_id
+                $sql = "SELECT w_id FROM webtoons ORDER BY w_id DESC LIMIT 1";
+                $result1 = mysqli_query($conn, $sql);
+                $row = mysqli_fetch_assoc($result);
+                $webtoon_id = $row['w_id'];
+                $webtoon_link = $webtoon_link . "0";
 
-            $stmt4->execute();  // fetch w_id
-            $result = $stmt->get_result();
-            $row = $result->fetch_assoc();
-            $webtoon_title = $row['w_id']; //  increment wid 
+                $stmt2->execute(); // insert chapter into db
+                $result2 = $stmt2->execute(); // insert chapter into db
 
-            $stmt2->execute(); // insert chapter into db
-            $stmt2->execute(); // insert chapter into db
-
-            $result2 = $stmt2->get_result();
-            if ($result && $result2) {
-                echo "Inserted webtoon: " . $webtoon_title;
-                echo "<br>";
-            } else {
-                echo "Failed to download webtoon : $webtoon_title || " . mysqli_error($conn);
+                if ($result1 && $result2) {
+                    echo "Inserted webtoon: " . $webtoon_title;
+                    echo "<br>";
+                    save_img($img_url, $webtoon_title, $img_path);
+                } else {
+                    echo "Failed to download webtoon : $webtoon_title || " . mysqli_error($conn);
+                    echo "<br>";
+                }
+            } catch (Exception $e) {
+                echo $e->getMessage();
+                echo "Failed to download webtoon : $webtoon_title || " . $e->getMessage();
                 echo "<br>";
             }
         }
