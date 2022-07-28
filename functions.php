@@ -2,7 +2,7 @@
 
 function post_date_format($baseObject, $targetObject)
 {
-    $interval = date_diff($baseObject, $targetObject);    // Calculate the difference
+    $interval = date_diff( $targetObject,$baseObject);    // Calculate the difference
 
     // interval format decider
     if ($interval->format('%d') > 8) {    // if days > 8, print date

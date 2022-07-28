@@ -48,17 +48,17 @@ while ($row = mysqli_fetch_assoc($result)) {
     </div>
     <div class="chapter-list">
         <div class="chapter-item mt-2">
-            <span class="chapter-btn">
+            <span>
                 <a href="' . $chapter_link[0] . '" target="_blank"><button type="button"
-                        class="btn btn-outline-dark">Chapter '
+                        class="btn btn-outline-dark chapter-btn">Chapter '
         . $chapter_no[0] . '</button></a>
             </span>
             <span class="post-on">' . $interval[0] . '</span>
         </div>
         <div class="chapter-item mt-2">
-            <span class="chapter-btn">
+            <span>
                 <a href="' . $chapter_link[1] . '" target="_blank">
-                    <button type="button" class="btn btn-outline-dark">Chapter ' . $chapter_no[1] . '</button>
+                    <button type="button" class="btn btn-outline-dark chapter-btn">Chapter ' . $chapter_no[1] . '</button>
                 </a>
             </span>
             <span class="post-on">' . $interval[1] . '</span>
