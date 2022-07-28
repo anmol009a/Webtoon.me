@@ -2,7 +2,7 @@
 
 function post_date_format($baseObject, $targetObject)
 {
-    $interval = date_diff( $targetObject,$baseObject);    // Calculate the difference
+    $interval = date_diff($baseObject, $targetObject);    // Calculate the difference
 
     // interval format decider
     if ($interval->format('%d') > 8) {    // if days > 8, print date
@@ -22,11 +22,9 @@ function post_date_format($baseObject, $targetObject)
 
 function save_img($img_url, $img_name, $img_path)
 {
-    $img = file_get_contents($img_url); // downloading img
-
-    if ($img) { //check if img link works
+    if (file_put_contents($img_path, file_get_contents($img_url))) { //check if img link works
         // Function to write image into file
-        file_put_contents($img_path, $img);    // storing img
+        // storing img
         echo "Img Saved! : $img_name";
         echo "<br>";
     } else {

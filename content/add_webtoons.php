@@ -1,7 +1,4 @@
 <?php
-include "partials/_dbconnect.php";
-include "functions.php";
-
 // download webtoons file
 $url = 'https://reaperscans.com/latest-comic/';
 $file_name = basename($url);    // Use basename() function to return the base name of file
@@ -11,9 +8,6 @@ download_file($url, $file_name);
 // get webtoons file content
 // $file_name = 'reaperscans.com';
 $content = open_file($file_name);
-
-
-include "regex.php";    // get regular expressions
 
 
 if (preg_match_all($regex1, $content, $matches)) {
@@ -35,7 +29,7 @@ if (preg_match_all($regex1, $content, $matches)) {
     // update w_cover path
     $stmt3 = $conn->prepare("UPDATE `webtoons` SET `w_cover` = ? WHERE `webtoons`.`w_id` = ?");
     $stmt3->bind_param("si", $img_path, $webtoon_id);
-   
+
 
     // ===================================================
     for ($i = 0; $i < count($matches[0]); $i++) {
@@ -71,17 +65,15 @@ if (preg_match_all($regex1, $content, $matches)) {
                 echo "<br>";
             }
         } else {
-            
             try {
-                
                 // fetch last w_id
                 $sql = "SELECT w_id FROM webtoons ORDER BY w_id DESC LIMIT 1";
                 $result = mysqli_query($conn, $sql);
                 $row = mysqli_fetch_assoc($result);
                 $webtoon_id = $row['w_id'] + 1;
-                
+
                 $img_path = "img/" . $webtoon_id . $img_ext; // path and img name where img will be stored
-                
+
                 // inserting webtoon details into db
                 $result1 = $stmt1->execute();  // insert webtoon into db 
                 $stmt2->execute(); // insert chapter into db
@@ -103,17 +95,13 @@ if (preg_match_all($regex1, $content, $matches)) {
             }
         }
     }
-
     $stmt->close();
     $stmt1->close();
     $stmt2->close();
     $stmt3->close();
-    mysqli_close($conn);
 } else {
     echo "No Match Found";
     echo "<br>";
 }
-
-
 echo "END";
 echo "<br>";

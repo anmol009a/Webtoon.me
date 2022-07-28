@@ -27,11 +27,10 @@ while ($row = mysqli_fetch_assoc($result)) {
         $chapter_link[$i] = $row2['c_link'];
 
         // ---------------------------------------------------------------------------------
-        $c_posted_on[$i] = new DateTime($row2['c_posted_on']);  // convert the string to a date variable
-        $current_date = new DATETIME(date("Y-m-d H:i:s"));  // Current Date
-        
-        $interval[$i] = post_date_format($current_date,$c_posted_on[$i]);
+        $c_posted_on[$i] = new DateTime($row2['c_posted_on'],new DateTimeZone('Asia/Kolkata'));  // convert the string to a date variable
+        $current_date = new DATETIME("now", new DateTimeZone('Asia/Kolkata'));  // Current Date
 
+        $interval[$i] = post_date_format($current_date, $c_posted_on[$i]);
     }
 
     // code to display webtoons
