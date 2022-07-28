@@ -2,13 +2,14 @@
 include "partials/_dbconnect.php";
 include "functions.php";
 
-// $sql = "SELECT * FROM `webtoons`";
-$sql = "SELECT * from `webtoons` ORDER BY `last_mod` DESC LIMIT 30";
-$result = mysqli_query($conn, $sql);
 
 // fetching webtoon record if exits with w_id
 $stmt = $conn->prepare("SELECT * FROM `chapters` WHERE `w_id`= ? ORDER BY `c_no` DESC LIMIT 2");
 $stmt->bind_param("i", $webtoon_id);
+
+// $sql = "SELECT * FROM `webtoons`";
+$sql = "SELECT * from `webtoons` ORDER BY `last_mod` DESC LIMIT 30";
+$result = mysqli_query($conn, $sql);
 
 // loop to print webtoons
 while ($row = mysqli_fetch_assoc($result)) {

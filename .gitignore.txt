@@ -1,4 +1,9 @@
 img/
 reaperscans.com
 latest-comic
+<<<<<<< Updated upstream
 demo/
+=======
+demo/
+www.reaperscans.com
+>>>>>>> Stashed changes
