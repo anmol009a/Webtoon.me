@@ -18,9 +18,9 @@ if (preg_match_all($regex3, $content, $matches)) {
     $stmt3 = $conn->prepare("UPDATE chapters SET c_no = ? WHERE w_id = ?");
     $stmt3->bind_param("di", $chapter_no, $webtoon_id);
 
-    // update w_last_mod
-    $stmt4 = $conn->prepare("UPDATE webtoons SET last_mod = CURRENT_TIMESTAMP WHERE w_id = ?");
-    $stmt4->bind_param("s", $webtoon_id);
+    // update w_link, w_last_mod
+    $stmt4 = $conn->prepare("UPDATE webtoons SET w_link = ?, last_mod = CURRENT_TIMESTAMP WHERE w_id = ?");
+    $stmt4->bind_param("si", $webtoon_link, $webtoon_id);
 
     // insert chapter into db
     $stmt2 = $conn->prepare("INSERT INTO `chapters` (`c_no`, `c_link`, `w_id`) VALUES (?, ?, ?)");
@@ -30,8 +30,9 @@ if (preg_match_all($regex3, $content, $matches)) {
     // ===================================================
     for ($i = count($matches[0]) - 1; $i > -1; $i--) {
         $chapter_link = $matches[1][$i];
-        $webtoon_title = $matches[2][$i];
-        $chapter_no = $matches[4][$i];
+        $webtoon_link = $matches[2][$i];
+        $webtoon_title = $matches[3][$i];
+        $chapter_no = $matches[5][$i];
 
         $webtoon_title = "%" . str_replace("-", "%", $webtoon_title) . "%"; //  making title searchable 
 
@@ -39,7 +40,6 @@ if (preg_match_all($regex3, $content, $matches)) {
         $stmt->execute();
         $result = $stmt->get_result();
         $row = $result->fetch_assoc();
-        // var_dump($row);
         $webtoon_id = $row['w_id'];
 
 

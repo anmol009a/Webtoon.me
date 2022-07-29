@@ -1,6 +1,4 @@
 <?php
-include "partials/_dbconnect.php";
-include "functions.php";
 
 // download webtoons file
 // $url = 'https://www.asurascans.com/';
@@ -11,9 +9,6 @@ include "functions.php";
 // get webtoons file content
 $file_name = 'www.asurascans.com';
 $content = open_file($file_name);
-
-
-include "regex.php";    // get regular expressions
 
 
 if (preg_match_all($regex5, $content, $matches)) {
@@ -110,7 +105,6 @@ if (preg_match_all($regex5, $content, $matches)) {
     $stmt1->close();
     $stmt2->close();
     $stmt3->close();
-    mysqli_close($conn);
 } else {
     echo "No Match Found";
     echo "<br>";

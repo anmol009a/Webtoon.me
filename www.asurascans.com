@@ -361,68 +361,34 @@ input[name="rcp_submit_registration"] {
 <div class="loop owl-carousel full">
 <div class="slide-item full">
 <div class="slide-bg">
-<img src=https://www.asurascans.com/wp-content/uploads/2021/01/TheTutorialisTooHardCover02.png /> </div>
+<img src=https://www.asurascans.com/wp-content/uploads/2021/11/fatedvillain-2.jpg /> </div>
 <div class="slide-shadow"></div>
 <div class="slide-content">
 <div class="poster" style="position:relative">
-<a href="https://www.asurascans.com/comics/1649969363-the-tutorial-is-too-hard/"><img src="https://www.asurascans.com/wp-content/uploads/2021/01/TheTutorialisTooHardCover02.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
+<a href="https://www.asurascans.com/comics/i-am-the-fated-villain/"><img src="https://www.asurascans.com/wp-content/uploads/2021/11/fatedvillain-2.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
 </div>
 <div class="info-left">
 <div class="title">
 <div class="rating">
 <div class="vote">
 <div class="site-vote">
-<span class="fa fa-star"><span>8.7</span></span>
+<span class="fa fa-star"><span>9.9</span></span>
 </div>
 </div>
 </div>
-<span class="ellipsis"><a href="https://www.asurascans.com/comics/1649969363-the-tutorial-is-too-hard/">The Tutorial is Too Hard</a></span>
-<span class="release-year">Manhwa</span>
+<span class="ellipsis"><a href="https://www.asurascans.com/comics/i-am-the-fated-villain/">I Am the Fated Villain</a></span>
+<span class="release-year">Manhua</span>
 </div>
 <div class="extras">
-<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/game/" rel="tag">Game</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></div>
+<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/cultivation/" rel="tag">Cultivation</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/isekai/" rel="tag">Isekai</a>, <a href="https://www.asurascans.com/genres/martial-arts/" rel="tag">Martial Arts</a>, <a href="https://www.asurascans.com/genres/system/" rel="tag">System</a>, <a href="https://www.asurascans.com/genres/villain/" rel="tag">Villain</a></div>
 </div>
 <div class="excerpt">
-<span class="title">Summary</span><p class="story"><p>Gandara&#8217;s fusion fantasy novel, &#8216;The Tutorial is Too Hard&#8217;, is now here as a webtoon. One day, amidst a boring life, an invitation message appears before my eyes. [Would you&#8230;</p>
+<span class="title">Summary</span><p class="story"><p>Immediately after Gu Changge realized he had transgressed into a fantasy world, the world&#8217;s protagonist, and fortune&#8217;s chosen, vowed to take revenge on him. Envied by all, he not only&#8230;</p>
 </p>
 </div>
 <div class="cast">
 <span class="director"><strong>Status:</strong> Ongoing</span>
 <span class="actor"><strong>Author:</strong> </span>
-</div>
-</div>
-</div>
-</div>
-<div class="slide-item full">
-<div class="slide-bg">
-<img src=https://www.asurascans.com/wp-content/uploads/2022/06/IObtainedaMythicItemCover04.png /> </div>
-<div class="slide-shadow"></div>
-<div class="slide-content">
-<div class="poster" style="position:relative">
-<a href="https://www.asurascans.com/manga/i-obtained-a-mythic-item/"><img src="https://www.asurascans.com/wp-content/uploads/2022/06/IObtainedaMythicItemCover04.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
-</div>
-<div class="info-left">
-<div class="title">
-<div class="rating">
-<div class="vote">
-<div class="site-vote">
-<span class="fa fa-star"><span>9.8</span></span>
-</div>
-</div>
-</div>
-<span class="ellipsis"><a href="https://www.asurascans.com/manga/i-obtained-a-mythic-item/">I Obtained a Mythic Item</a></span>
-<span class="release-year">Manhwa</span>
-</div>
-<div class="extras">
-<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/revenge/" rel="tag">Revenge</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></div>
- </div>
-<div class="excerpt">
-<span class="title">Summary</span><p class="story"><p>D-Rank non-combat raider becomes a great enemy of god that will save the world with the strongest restoration item.</p>
-</p>
-</div>
-<div class="cast">
-<span class="director"><strong>Status:</strong> Ongoing</span>
-<span class="actor"><strong>Author:</strong> Jung SeonYul</span>
 </div>
 </div>
 </div>
@@ -443,7 +409,7 @@ input[name="rcp_submit_registration"] {
 <span class="fa fa-star"><span>9.9</span></span>
 </div>
 </div>
-</div>
+ </div>
 <span class="ellipsis"><a href="https://www.asurascans.com/comics/101-duke-pendragon/">Duke Pendragon</a></span>
 <span class="release-year">Manhwa</span>
 </div>
@@ -463,63 +429,63 @@ input[name="rcp_submit_registration"] {
 </div>
 <div class="slide-item full">
 <div class="slide-bg">
-<img src=https://www.asurascans.com/wp-content/uploads/2021/10/DisasterheroCover01.png /> </div>
+<img src=https://www.asurascans.com/wp-content/uploads/2022/02/bitchassmofo.jpg /> </div>
 <div class="slide-shadow"></div>
 <div class="slide-content">
 <div class="poster" style="position:relative">
-<a href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/"><img src="https://www.asurascans.com/wp-content/uploads/2021/10/DisasterheroCover01.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
+<a href="https://www.asurascans.com/comics/my-civil-servant-life-reborn-in-the-strange-world/"><img src="https://www.asurascans.com/wp-content/uploads/2022/02/bitchassmofo-379x512.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
 </div>
 <div class="info-left">
 <div class="title">
 <div class="rating">
 <div class="vote">
 <div class="site-vote">
-<span class="fa fa-star"><span>9.9</span></span>
+<span class="fa fa-star"><span>9.0</span></span>
 </div>
 </div>
 </div>
-<span class="ellipsis"><a href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/">Return of the Disaster-Class Hero</a></span>
+<span class="ellipsis"><a href="https://www.asurascans.com/comics/my-civil-servant-life-reborn-in-the-strange-world/">My Civil Servant Life Reborn in the Strange World</a></span>
 <span class="release-year">Manhwa</span>
 </div>
 <div class="extras">
-<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/magic/" rel="tag">Magic</a>, <a href="https://www.asurascans.com/genres/returner/" rel="tag">Returner</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></div>
+<div class="extra-category"><a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/overpowered/" rel="tag">Overpowered</a>, <a href="https://www.asurascans.com/genres/reincarnation/" rel="tag">Reincarnation</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></div>
 </div>
 <div class="excerpt">
-<span class="title">Summary</span><p class="story"><p>I was the greatest hero on Earth. &#8220;But he&#8217;s dead. How could the guy we&#8217;ve killed come back?&#8221; &#8220;I dunno. But if he can come back, just let him.&#8221; I&#8230;</p>
+<span class="title">Summary</span><p class="story"><p>He was on his way to buy some beer to celebrate his acceptance as a civil servant when he was suddenly banged down and isekai’d by truck-kun. Reincarnated as Denburg&#8230;</p>
 </p>
 </div>
 <div class="cast">
 <span class="director"><strong>Status:</strong> Ongoing</span>
-<span class="actor"><strong>Author:</strong> SAN.G (산지직송)</span>
+<span class="actor"><strong>Author:</strong> 일계</span>
 </div>
 </div>
 </div>
 </div>
 <div class="slide-item full">
 <div class="slide-bg">
-<img src=https://www.asurascans.com/wp-content/uploads/2021/02/Villain_to_Kill_Title_Cover_-_Barak_-_1.jpg /> </div>
+<img src=https://www.asurascans.com/wp-content/uploads/2021/09/resource-8.jpg /> </div>
 <div class="slide-shadow"></div>
 <div class="slide-content">
 <div class="poster" style="position:relative">
-<a href="https://www.asurascans.com/comics/1649969363-villain-to-kill/"><img src="https://www.asurascans.com/wp-content/uploads/2021/02/Villain_to_Kill_Title_Cover_-_Barak_-_1-207x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
+<a href="https://www.asurascans.com/comics/sss-class-gacha-hunter/"><img src="https://www.asurascans.com/wp-content/uploads/2021/09/resource-8.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
 </div>
 <div class="info-left">
 <div class="title">
 <div class="rating">
 <div class="vote">
 <div class="site-vote">
-<span class="fa fa-star"><span>9.2</span></span>
+<span class="fa fa-star"><span>9.5</span></span>
 </div>
 </div>
 </div>
-<span class="ellipsis"><a href="https://www.asurascans.com/comics/1649969363-villain-to-kill/">Villain To Kill</a></span>
+<span class="ellipsis"><a href="https://www.asurascans.com/comics/sss-class-gacha-hunter/">SSS-Class Gacha Hunter</a></span>
 <span class="release-year">Manhwa</span>
 </div>
 <div class="extras">
-<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/hero/" rel="tag">Hero</a>, <a href="https://www.asurascans.com/genres/rebirth/" rel="tag">Rebirth</a></div>
+<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a></div>
 </div>
 <div class="excerpt">
-<span class="title">Summary</span><p class="story"><p>After being accused of murdering a colleague, Cassian Lee came to his death. The moment he thought it was all over, his soul was suddenly possessed by a boy&#8217;s body&#8230;</p>
+<span class="title">Summary</span><p class="story"><p>On the worst day of my life, I received a miracle as a present from the ‘real universe’. &nbsp; &nbsp;</p>
 </p>
 </div>
 <div class="cast">
@@ -531,34 +497,68 @@ input[name="rcp_submit_registration"] {
 </div>
 <div class="slide-item full">
 <div class="slide-bg">
-<img src=https://www.asurascans.com/wp-content/uploads/2021/07/Crazy_Demon_Cover.jpg /> </div>
+<img src=https://www.asurascans.com/wp-content/uploads/2021/02/the_second_coming_of_gluttony.jpg /> </div>
 <div class="slide-shadow"></div>
 <div class="slide-content">
 <div class="poster" style="position:relative">
-<a href="https://www.asurascans.com/comics/1649969363-the-return-of-the-crazy-demon/"><img src="https://www.asurascans.com/wp-content/uploads/2021/07/Crazy_Demon_Cover-207x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
+<a href="https://www.asurascans.com/comics/1649969363-the-second-coming-of-gluttony/"><img src="https://www.asurascans.com/wp-content/uploads/2021/02/the_second_coming_of_gluttony-222x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
 </div>
 <div class="info-left">
 <div class="title">
 <div class="rating">
 <div class="vote">
 <div class="site-vote">
-<span class="fa fa-star"><span>9.7</span></span>
+<span class="fa fa-star"><span>9.2</span></span>
 </div>
 </div>
 </div>
-<span class="ellipsis"><a href="https://www.asurascans.com/comics/1649969363-the-return-of-the-crazy-demon/">The Return of the Crazy Demon</a></span>
+<span class="ellipsis"><a href="https://www.asurascans.com/comics/1649969363-the-second-coming-of-gluttony/">The Second Coming of Gluttony</a></span>
 <span class="release-year">Manhwa</span>
 </div>
 <div class="extras">
-<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/demon/" rel="tag">Demon</a>, <a href="https://www.asurascans.com/genres/martial-arts/" rel="tag">Martial Arts</a>, <a href="https://www.asurascans.com/genres/reincarnation/" rel="tag">Reincarnation</a></div>
+<div class="extra-category"><a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/drama/" rel="tag">Drama</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/harem/" rel="tag">Harem</a>, <a href="https://www.asurascans.com/genres/mature/" rel="tag">Mature</a>, <a href="https://www.asurascans.com/genres/seinen/" rel="tag">Seinen</a>, <a href="https://www.asurascans.com/genres/supernatural/" rel="tag">Supernatural</a></div>
 </div>
 <div class="excerpt">
-<span class="title">Summary</span><p class="story"><p>Yi Zaha. The crazy demon crazy for martial arts. While he was running away after stealing the heavenly pearl of the Demon Cult Leader, he fell off a cliff. After&#8230;</p>
+<span class="title">Summary</span><p class="story"><p>He was an addict, a loser, a despicable human being. But, one fleeting dream that may not have been a dream at all reawakens his once-lost senses. Possessing a very&#8230;</p>
 </p>
 </div>
 <div class="cast">
 <span class="director"><strong>Status:</strong> Ongoing</span>
-<span class="actor"><strong>Author:</strong> Jinseong Yu</span>
+<span class="actor"><strong>Author:</strong> Ro Yu-jin</span>
+</div>
+</div>
+</div>
+</div>
+<div class="slide-item full">
+<div class="slide-bg">
+<img src=https://www.asurascans.com/wp-content/uploads/2021/04/princee.jpg /> </div>
+<div class="slide-shadow"></div>
+<div class="slide-content">
+<div class="poster" style="position:relative">
+<a href="https://www.asurascans.com/comics/1649969363-i-shall-live-as-a-prince/"><img src="https://www.asurascans.com/wp-content/uploads/2021/04/princee-222x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /></a>
+</div>
+<div class="info-left">
+<div class="title">
+<div class="rating">
+<div class="vote">
+<div class="site-vote">
+<span class="fa fa-star"><span>9.8</span></span>
+</div>
+</div>
+</div>
+<span class="ellipsis"><a href="https://www.asurascans.com/comics/1649969363-i-shall-live-as-a-prince/">I Shall Live As a Prince</a></span>
+<span class="release-year">Manhwa</span>
+</div>
+<div class="extras">
+<div class="extra-category"><a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/historical/" rel="tag">Historical</a>, <a href="https://www.asurascans.com/genres/isekai/" rel="tag">Isekai</a></div>
+</div>
+<div class="excerpt">
+<span class="title">Summary</span><p class="story"><p>Lee Hyun Ho, an ordinary man who was looking for a job in Korea, has been reincarnated into a prince from the Joseon dynasty. But unfortunately, he was reincarnated into&#8230;</p>
+</p>
+</div>
+<div class="cast">
+<span class="director"><strong>Status:</strong> Completed</span>
+<span class="actor"><strong>Author:</strong> </span>
 </div>
 </div>
 </div>
@@ -607,31 +607,6 @@ input[name="rcp_submit_registration"] {
 <div class="listupd">
 <div class="bs">
 <div class="bsx">
-<a href="https://www.asurascans.com/comics/king-of-the-mound/" title="King of the Mound">
-<div class="limit">
-<div class="ply"></div>
-<span class="type Manhwa">Manhwa</span> <img src="https://www.asurascans.com/wp-content/uploads/2022/07/resource.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </div>
-<div class="bigor">
-<div class="tt">
-King of the Mound </div>
-<div class="adds">
-<div class="epxs">Chapter 20</div>
-<div class="rt">
-<div class="rating">
-<div class="rating-prc">
-<div class="rtp">
-<div class="rtb"><span style="width:80%"></span></div>
-</div>
-</div>
-<div class="numscore">8</div>
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div><div class="bs">
-<div class="bsx">
 <a href="https://www.asurascans.com/comics/1649969363-return-of-the-mount-hua-sect/" title="Return of the Mount Hua Sect">
 <div class="limit">
 <div class="ply"></div>
@@ -649,6 +624,31 @@ Return of the Mount Hua Sect </div>
 </div>
 </div>
 <div class="numscore">10</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div><div class="bs">
+<div class="bsx">
+<a href="https://www.asurascans.com/comics/reincarnated-escort-warrior/" title="Reincarnated Escort Warrior">
+<div class="limit">
+<div class="ply"></div>
+<span class="type Manhwa">Manhwa</span> <img src="https://www.asurascans.com/wp-content/uploads/2022/07/resource-1.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </div>
+<div class="bigor">
+<div class="tt">
+Reincarnated Escort Warrior </div>
+<div class="adds">
+<div class="epxs">Chapter 5</div>
+<div class="rt">
+<div class="rating">
+<div class="rating-prc">
+<div class="rtp">
+<div class="rtb"><span style="width:97%"></span></div>
+</div>
+</div>
+<div class="numscore">9.7</div>
 </div>
 </div>
 </div>
@@ -707,15 +707,15 @@ Return of the Disaster-Class Hero </div>
 </div>
 </div><div class="bs">
 <div class="bsx">
-<a href="https://www.asurascans.com/manga/damn-reincarnation/" title="Damn Reincarnation">
+<a href="https://www.asurascans.com/comics/1649969363-solo-max-level-newbie/" title="Solo Max-Level Newbie">
 <div class="limit">
 <div class="ply"></div>
-<span class="type Manhwa">Manhwa</span> <img src="https://www.asurascans.com/wp-content/uploads/2022/06/Damn_ReincarnationCover003.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </div>
+<span class="type Manhwa">Manhwa</span> <img src="https://www.asurascans.com/wp-content/uploads/2021/07/solomaxlevelnewbie.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </div>
 <div class="bigor">
 <div class="tt">
-Damn Reincarnation </div>
+Solo Max-Level Newbie </div>
 <div class="adds">
-<div class="epxs">Chapter 25</div>
+<div class="epxs">Chapter 58 - Psychiatric Ward (1)</div>
 <div class="rt">
 <div class="rating">
 <div class="rating-prc">
@@ -738,112 +738,13 @@ Damn Reincarnation </div>
 <div class="utao styletwo">
 <div class="uta">
 <div class="imgu">
-<a rel="103867" class="series" href="https://www.asurascans.com/manga/sword-fanatic-wanders-through-the-night/" title="Sword Fanatic Wanders Through The Night"><img src="https://www.asurascans.com/wp-content/uploads/2022/06/swordfanaticCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+<a rel="52313" class="series" href="https://www.asurascans.com/comics/1649969363-solo-max-level-newbie/" title="Solo Max-Level Newbie"><img src="https://www.asurascans.com/wp-content/uploads/2021/07/solomaxlevelnewbie.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
 </div>
 <div class="luf">
-<a class="series" href="https://www.asurascans.com/manga/sword-fanatic-wanders-through-the-night/" title="Sword Fanatic Wanders Through The Night">
-<h4>Sword Fanatic Wanders Through The Night</h4>
+<a class="series" href="https://www.asurascans.com/comics/1649969363-solo-max-level-newbie/" title="Solo Max-Level Newbie">
+<h4>Solo Max-Level Newbie</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/sword-fanatic-wanders-through-the-night-chapter-14/">Chapter 14</a><span>35 mins ago</span></li><li><a href="https://www.asurascans.com/sword-fanatic-wanders-through-the-night-chapter-13/">Chapter 13</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/sword-fanatic-wanders-through-the-night-chapter-12/">Chapter 12</a><span>2 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="115735" class="series" href="https://www.asurascans.com/comics/reincarnated-escort-warrior/" title="Reincarnated Escort Warrior"><img src="https://www.asurascans.com/wp-content/uploads/2022/07/resource-1.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/reincarnated-escort-warrior/" title="Reincarnated Escort Warrior">
-<h4>Reincarnated Escort Warrior</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/reincarnated-escort-warrior-chapter-5/">Chapter 5</a><span>1 hour ago</span></li><li><a href="https://www.asurascans.com/reincarnated-escort-warrior-chapter-4/">Chapter 4</a><span>2 hours ago</span></li><li><a href="https://www.asurascans.com/reincarnated-escort-warrior-chapter-3/">Chapter 3</a><span>2 hours ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="56078" class="series" href="https://www.asurascans.com/comics/1649969363-the-challenger/" title="The Challenger"><img src="https://www.asurascans.com/wp-content/uploads/2021/09/Title-Cover-1.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/1649969363-the-challenger/" title="The Challenger">
-<h4>The Challenger</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-challenger-chapter-48/">Chapter 48</a><span>4 hours ago</span></li><li><a href="https://www.asurascans.com/the-challenger-chapter-47/">Chapter 47</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-challenger-chapter-46/">Chapter 46</a><span>2 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="90395" class="series" href="https://www.asurascans.com/comics/trash-of-the-counts-family/" title="Trash of the Count’s Family"><img src="https://www.asurascans.com/wp-content/uploads/2022/04/trash.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/trash-of-the-counts-family/" title="Trash of the Count’s Family">
-<h4>Trash of the Count’s Family</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/trash-of-the-counts-family-chapter-91/">Chapter 91</a><span>5 hours ago</span></li><li><a href="https://www.asurascans.com/trash-of-the-counts-family-chapter-90/">Chapter 90</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/trash-of-the-counts-family-chapter-89/">Chapter 89</a><span>3 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="115339" class="series" href="https://www.asurascans.com/comics/king-of-the-mound/" title="King of the Mound"><img src="https://www.asurascans.com/wp-content/uploads/2022/07/resource.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/king-of-the-mound/" title="King of the Mound">
-<h4>King of the Mound</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/king-of-the-mound-chapter-20/">Chapter 20</a><span>5 hours ago</span></li><li><a href="https://www.asurascans.com/king-of-the-mound-chapter-19/">Chapter 19</a><span>5 hours ago</span></li><li><a href="https://www.asurascans.com/king-of-the-mound-chapter-18/">Chapter 18</a><span>5 hours ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="112859" class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" title="Reaper of the Drifting Moon"><img src="https://www.asurascans.com/wp-content/uploads/2022/07/ReaperMoonCover02.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" title="Reaper of the Drifting Moon">
-<h4>Reaper of the Drifting Moon</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/reaper-of-the-drifting-moon-chapter-22/">Chapter 22</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/reaper-of-the-drifting-moon-chapter-21/">Chapter 21</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/reaper-of-the-drifting-moon-chapter-20/">Chapter 20</a><span>2 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="61390" class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/" title="Return of the Disaster-Class Hero"><img src="https://www.asurascans.com/wp-content/uploads/2021/10/DisasterheroCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/" title="Return of the Disaster-Class Hero">
-<h4>Return of the Disaster-Class Hero</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-disaster-class-hero-chapter-45/">Chapter 45</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/return-of-the-disaster-class-hero-chapter-44/">Chapter 44</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/return-of-the-disaster-class-hero-chapter-43-2/">Chapter 43</a><span>2 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="107248" class="series" href="https://www.asurascans.com/manga/damn-reincarnation/" title="Damn Reincarnation"><img src="https://www.asurascans.com/wp-content/uploads/2022/06/Damn_ReincarnationCover003.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/manga/damn-reincarnation/" title="Damn Reincarnation">
-<h4>Damn Reincarnation</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/damn-reincarnation-chapter-25/">Chapter 25</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/damn-reincarnation-chapter-24/">Chapter 24</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/damn-reincarnation-chapter-23/">Chapter 23</a><span>2 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="101932" class="series" href="https://www.asurascans.com/manga/chronicles-of-the-martial-gods-return/" title="Chronicles Of The Martial God&#8217;s Return"><img src="https://www.asurascans.com/wp-content/uploads/2022/05/martialreturnCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/manga/chronicles-of-the-martial-gods-return/" title="Chronicles Of The Martial God&#8217;s Return">
-<h4>Chronicles Of The Martial God&#8217;s Return</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/chronicles-of-the-martial-gods-return-chapter-28/">Chapter 28</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/chronicles-of-the-martial-gods-return-chapter-27-2/">Chapter 27</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/chronicles-of-the-martial-gods-return-chapter-26/">Chapter 26</a><span>2 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="76306" class="series" href="https://www.asurascans.com/comics/the-world-after-the-end/" title="The World After The End"><img src="https://www.asurascans.com/wp-content/uploads/2022/02/the-world-after-the-end-cover.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/the-world-after-the-end/" title="The World After The End">
-<h4>The World After The End</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-world-after-the-end-chapter-32/">Chapter 32</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/the-world-after-the-end-chapter-31/">Chapter 31</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-world-after-the-end-chapter-30/">Chapter 30</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/solo-max-level-newbie-chapter-chapter-58/">Chapter 58 - Psychiatric Ward (1)</a><span>31 mins ago</span></li><li><a href="https://www.asurascans.com/solo-max-level-newbie-chapter-chapter-57-great-magic-library/">Chapter 57 - Great Magic Library</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/solo-max-level-newbie-chapter-56-mother-of-the-dead-pendariel-3/">Chapter 56 - Mother of the Dead, 'Pendariel' (3)</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -854,7 +755,161 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/carnivorous-hunter/" title="Carnivorous Hunter">
 <h4>Carnivorous Hunter</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/carnivorous-hunter-chapter-25/">Chapter 25</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/carnivorous-hunter-chapter-24/">Chapter 24</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/carnivorous-hunter-chapter-23/">Chapter 23</a><span>1 week ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/carnivorous-hunter-chapter-26/">Chapter 26</a><span>40 mins ago</span></li><li><a href="https://www.asurascans.com/carnivorous-hunter-chapter-25/">Chapter 25</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/carnivorous-hunter-chapter-24/">Chapter 24</a><span>3 days ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="92384" class="series" href="https://www.asurascans.com/comics/the-live/" title="The Live"><img src="https://www.asurascans.com/wp-content/uploads/2022/04/thelive.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/the-live/" title="The Live">
+<h4>The Live</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-live-chapter-110/">Chapter 110</a><span>52 mins ago</span></li><li><a href="https://www.asurascans.com/the-live-chapter-109/">Chapter 109</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-live-chapter-108/">Chapter 108</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="42113" class="series" href="https://www.asurascans.com/comics/1649969363-the-constellation-that-returned-from-hell/" title="The Constellation That Returned From Hell"><img src="https://www.asurascans.com/wp-content/uploads/2021/04/kapkaw-copy.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/1649969363-the-constellation-that-returned-from-hell/" title="The Constellation That Returned From Hell">
+<h4>The Constellation That Returned From Hell</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-constellation-that-returned-from-hell-chapter-88/">Chapter 88</a><span>10 hours ago</span></li><li><a href="https://www.asurascans.com/the-constellation-that-returned-from-hell-chapter-87/">Chapter 87</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-constellation-that-returned-from-hell-chapter-86/">Chapter 86</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="51664" class="series" href="https://www.asurascans.com/comics/20-i-reincarnated-as-the-crazed-heir/" title="I Reincarnated As The Crazed Heir"><img src="https://www.asurascans.com/wp-content/uploads/2021/07/Title-Cover-kopya.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/20-i-reincarnated-as-the-crazed-heir/" title="I Reincarnated As The Crazed Heir">
+<h4>I Reincarnated As The Crazed Heir</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/i-reincarnated-as-the-crazed-heir-chapter-57/">Chapter 57 - Palace Meet (2)</a><span>10 hours ago</span></li><li><a href="https://www.asurascans.com/i-reincarnated-as-the-crazed-heir-chapter-56/">Chapter 56 - Palace Meet (1)</a><span>10 hours ago</span></li><li><a href="https://www.asurascans.com/i-reincarnated-as-the-crazed-heir-chapter-55-5/">Chapter 55.5</a><span>3 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="35376" class="series" href="https://www.asurascans.com/comics/1649969363-the-tutorial-tower-of-the-advanced-player/" title="The Tutorial Tower of the Advanced Player"><img src="https://www.asurascans.com/wp-content/uploads/2021/02/TutorialAdvancedCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/1649969363-the-tutorial-tower-of-the-advanced-player/" title="The Tutorial Tower of the Advanced Player">
+<h4>The Tutorial Tower of the Advanced Player</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-tutorial-tower-of-the-advanced-player-chapter-122/">Chapter 122</a><span>17 hours ago</span></li><li><a href="https://www.asurascans.com/the-tutorial-tower-of-the-advanced-player-chapter-121/">Chapter 121</a><span>17 hours ago</span></li><li><a href="https://www.asurascans.com/the-tutorial-tower-of-the-advanced-player-chapter-120/">Chapter 120</a><span>3 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="103867" class="series" href="https://www.asurascans.com/manga/sword-fanatic-wanders-through-the-night/" title="Sword Fanatic Wanders Through The Night"><img src="https://www.asurascans.com/wp-content/uploads/2022/06/swordfanaticCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/manga/sword-fanatic-wanders-through-the-night/" title="Sword Fanatic Wanders Through The Night">
+<h4>Sword Fanatic Wanders Through The Night</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/sword-fanatic-wanders-through-the-night-chapter-14/">Chapter 14</a><span>19 hours ago</span></li><li><a href="https://www.asurascans.com/sword-fanatic-wanders-through-the-night-chapter-13/">Chapter 13</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/sword-fanatic-wanders-through-the-night-chapter-12/">Chapter 12</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="115735" class="series" href="https://www.asurascans.com/comics/reincarnated-escort-warrior/" title="Reincarnated Escort Warrior"><img src="https://www.asurascans.com/wp-content/uploads/2022/07/resource-1.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/reincarnated-escort-warrior/" title="Reincarnated Escort Warrior">
+<h4>Reincarnated Escort Warrior</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/reincarnated-escort-warrior-chapter-5/">Chapter 5</a><span>20 hours ago</span></li><li><a href="https://www.asurascans.com/reincarnated-escort-warrior-chapter-4/">Chapter 4</a><span>20 hours ago</span></li><li><a href="https://www.asurascans.com/reincarnated-escort-warrior-chapter-3/">Chapter 3</a><span>21 hours ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="56078" class="series" href="https://www.asurascans.com/comics/1649969363-the-challenger/" title="The Challenger"><img src="https://www.asurascans.com/wp-content/uploads/2021/09/Title-Cover-1.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/1649969363-the-challenger/" title="The Challenger">
+<h4>The Challenger</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-challenger-chapter-48/">Chapter 48</a><span>23 hours ago</span></li><li><a href="https://www.asurascans.com/the-challenger-chapter-47/">Chapter 47</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-challenger-chapter-46/">Chapter 46</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="90395" class="series" href="https://www.asurascans.com/comics/trash-of-the-counts-family/" title="Trash of the Count’s Family"><img src="https://www.asurascans.com/wp-content/uploads/2022/04/trash.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/trash-of-the-counts-family/" title="Trash of the Count’s Family">
+<h4>Trash of the Count’s Family</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/trash-of-the-counts-family-chapter-91/">Chapter 91</a><span>23 hours ago</span></li><li><a href="https://www.asurascans.com/trash-of-the-counts-family-chapter-90/">Chapter 90</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/trash-of-the-counts-family-chapter-89/">Chapter 89</a><span>3 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="115339" class="series" href="https://www.asurascans.com/comics/king-of-the-mound/" title="King of the Mound"><img src="https://www.asurascans.com/wp-content/uploads/2022/07/resource.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/king-of-the-mound/" title="King of the Mound">
+<h4>King of the Mound</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/king-of-the-mound-chapter-20/">Chapter 20</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/king-of-the-mound-chapter-19/">Chapter 19</a><span>1 day ago</span></li><li><a href="https://www.asurascans.com/king-of-the-mound-chapter-18/">Chapter 18</a><span>1 day ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="112859" class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" title="Reaper of the Drifting Moon"><img src="https://www.asurascans.com/wp-content/uploads/2022/07/ReaperMoonCover02.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" title="Reaper of the Drifting Moon">
+<h4>Reaper of the Drifting Moon</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/reaper-of-the-drifting-moon-chapter-22/">Chapter 22</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/reaper-of-the-drifting-moon-chapter-21/">Chapter 21</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/reaper-of-the-drifting-moon-chapter-20/">Chapter 20</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="61390" class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/" title="Return of the Disaster-Class Hero"><img src="https://www.asurascans.com/wp-content/uploads/2021/10/DisasterheroCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/" title="Return of the Disaster-Class Hero">
+<h4>Return of the Disaster-Class Hero</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-disaster-class-hero-chapter-45/">Chapter 45</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/return-of-the-disaster-class-hero-chapter-44/">Chapter 44</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/return-of-the-disaster-class-hero-chapter-43-2/">Chapter 43</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="107248" class="series" href="https://www.asurascans.com/manga/damn-reincarnation/" title="Damn Reincarnation"><img src="https://www.asurascans.com/wp-content/uploads/2022/06/Damn_ReincarnationCover003.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/manga/damn-reincarnation/" title="Damn Reincarnation">
+<h4>Damn Reincarnation</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/damn-reincarnation-chapter-25/">Chapter 25</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/damn-reincarnation-chapter-24/">Chapter 24</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/damn-reincarnation-chapter-23/">Chapter 23</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="101932" class="series" href="https://www.asurascans.com/manga/chronicles-of-the-martial-gods-return/" title="Chronicles Of The Martial God&#8217;s Return"><img src="https://www.asurascans.com/wp-content/uploads/2022/05/martialreturnCover01.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/manga/chronicles-of-the-martial-gods-return/" title="Chronicles Of The Martial God&#8217;s Return">
+<h4>Chronicles Of The Martial God&#8217;s Return</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/chronicles-of-the-martial-gods-return-chapter-28/">Chapter 28</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/chronicles-of-the-martial-gods-return-chapter-27-2/">Chapter 27</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/chronicles-of-the-martial-gods-return-chapter-26/">Chapter 26</a><span>2 weeks ago</span></li></ul> </div>
+</div>
+</div><div class="utao styletwo">
+<div class="uta">
+<div class="imgu">
+<a rel="76306" class="series" href="https://www.asurascans.com/comics/the-world-after-the-end/" title="The World After The End"><img src="https://www.asurascans.com/wp-content/uploads/2022/02/the-world-after-the-end-cover.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
+</div>
+<div class="luf">
+<a class="series" href="https://www.asurascans.com/comics/the-world-after-the-end/" title="The World After The End">
+<h4>The World After The End</h4>
+</a>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-world-after-the-end-chapter-32/">Chapter 32</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/the-world-after-the-end-chapter-31/">Chapter 31</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-world-after-the-end-chapter-30/">Chapter 30</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -865,7 +920,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-the-lords-coins-arent-decreasing/" title="The Lord&#8217;s Coins Aren&#8217;t Decreasing?!">
 <h4>The Lord&#8217;s Coins Aren&#8217;t Decreasing?!</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-lords-coins-arent-decreasing-chapter-72-5/">Chapter 72.5</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/the-lords-coins-arent-decreasing-chapter-72/">Chapter 72</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/the-lords-coins-arent-decreasing-chapter-71/">Chapter 71</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-lords-coins-arent-decreasing-chapter-72-5/">Chapter 72.5</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/the-lords-coins-arent-decreasing-chapter-72/">Chapter 72</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/the-lords-coins-arent-decreasing-chapter-71/">Chapter 71</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -876,7 +931,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-talent-swallowing-magician/" title="Talent-Swallowing Magician">
 <h4>Talent-Swallowing Magician</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/talent-swallowing-magician-chapter-38-5/">Chapter 38.5</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/talent-swallowing-magician-chapter-38/">Chapter 38</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/talent-swallowing-magician-chapter-37/">Chapter 37</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/talent-swallowing-magician-chapter-38-5/">Chapter 38.5</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/talent-swallowing-magician-chapter-38/">Chapter 38</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/talent-swallowing-magician-chapter-37/">Chapter 37</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -887,7 +942,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/legendary-youngest-son-of-the-marquis-house-manhwa/" title="Legendary Youngest Son of the Marquis House">
 <h4>Legendary Youngest Son of the Marquis House</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/legendary-youngest-son-of-the-marquis-house-chapter-39/">Chapter 39</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/legendary-youngest-son-of-the-marquis-house-chapter-38/">Chapter 38</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/legendary-youngest-son-of-the-marquis-house-chapter-37/">Chapter 37</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/legendary-youngest-son-of-the-marquis-house-chapter-39/">Chapter 39</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/legendary-youngest-son-of-the-marquis-house-chapter-38/">Chapter 38</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/legendary-youngest-son-of-the-marquis-house-chapter-37/">Chapter 37</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -898,7 +953,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/overpowered-sword/" title="Overpowered Sword">
 <h4>Overpowered Sword</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/overpowered-sword-chapter-27/">Chapter 27</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/overpowered-sword-chapter-26/">Chapter 26</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/overpowered-sword-chapter-25/">Chapter 25</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/overpowered-sword-chapter-27/">Chapter 27</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/overpowered-sword-chapter-26/">Chapter 26</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/overpowered-sword-chapter-25/">Chapter 25</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -909,7 +964,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-regressor-instruction-manual/" title="Regressor Instruction Manual">
 <h4>Regressor Instruction Manual</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/regressor-instruction-manual-chapter-52/">Chapter 52</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/regressor-instruction-manual-chapter-51/">Chapter 51 {S2 Start}</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/regressor-instruction-manual-chapter-50-5/">Chapter 50.5</a><span>1 month ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/regressor-instruction-manual-chapter-52/">Chapter 52</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/regressor-instruction-manual-chapter-51/">Chapter 51 {S2 Start}</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/regressor-instruction-manual-chapter-50-5/">Chapter 50.5</a><span>1 month ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -920,7 +975,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-heavenly-demon-instructor/" title="Heavenly Demon Instructor">
 <h4>Heavenly Demon Instructor</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/heavenly-demon-instructor-chapter-54/">Chapter 54</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-demon-instructor-chapter-53/">Chapter 53</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/heavenly-demon-instructor-chapter-52/">Chapter 52</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/heavenly-demon-instructor-chapter-54/">Chapter 54</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-demon-instructor-chapter-53/">Chapter 53</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/heavenly-demon-instructor-chapter-52/">Chapter 52</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -931,7 +986,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/101-duke-pendragon/" title="Duke Pendragon">
 <h4>Duke Pendragon</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/duke-pendragon-chapter-46/">Chapter 46</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/duke-pendragon-chapter-45/">Chapter 45</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/duke-pendragon-chapter-44/">Chapter 44 {S2 Start}</a><span>1 week ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/duke-pendragon-chapter-46/">Chapter 46</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/duke-pendragon-chapter-45/">Chapter 45</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/duke-pendragon-chapter-44/">Chapter 44 {S2 Start}</a><span>1 week ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -942,7 +997,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/how-to-live-as-a-villain/" title="How To Live As a Villain">
 <h4>How To Live As a Villain</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/how-to-live-as-a-villain-chapter-53/">Chapter 53</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/how-to-live-as-a-villain-chapter-52/">Chapter 52</a><span>3 weeks ago</span></li><li><a href="https://www.asurascans.com/how-to-live-as-a-villain-chapter-51/">Chapter 51</a><span>4 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/how-to-live-as-a-villain-chapter-53/">Chapter 53</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/how-to-live-as-a-villain-chapter-52/">Chapter 52</a><span>3 weeks ago</span></li><li><a href="https://www.asurascans.com/how-to-live-as-a-villain-chapter-51/">Chapter 51</a><span>4 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -953,7 +1008,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/your-talent-is-mine/" title="Your Talent is Mine">
 <h4>Your Talent is Mine</h4>
 </a>
-<ul class="Manhua"><li><a href="https://www.asurascans.com/your-talent-is-mine-chapter-37/">Chapter 37</a><span>2 days ago</span></li><li><a href="https://www.asurascans.com/your-talent-is-mine-chapter-36/">Chapter 36</a><span>4 weeks ago</span></li><li><a href="https://www.asurascans.com/your-talent-is-mine-chapter-35/">Chapter 35</a><span>1 month ago</span></li></ul> </div>
+<ul class="Manhua"><li><a href="https://www.asurascans.com/your-talent-is-mine-chapter-37/">Chapter 37</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/your-talent-is-mine-chapter-36/">Chapter 36</a><span>4 weeks ago</span></li><li><a href="https://www.asurascans.com/your-talent-is-mine-chapter-35/">Chapter 35</a><span>1 month ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -964,7 +1019,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/101-the-s-classes-that-i-raised/" title="The S-Classes That I Raised">
 <h4>The S-Classes That I Raised</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-s-classes-that-i-raised-chapter-45/">Chapter 45</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/the-s-classes-that-i-raised-chapter-44/">Chapter 44</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-s-classes-that-i-raised-chapter-43/">Chapter 43</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-s-classes-that-i-raised-chapter-45/">Chapter 45</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/the-s-classes-that-i-raised-chapter-44/">Chapter 44</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-s-classes-that-i-raised-chapter-43/">Chapter 43</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -975,7 +1030,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-shattered-constellation/" title="Return Of The Shattered Constellation">
 <h4>Return Of The Shattered Constellation</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-shattered-constellation-chapter-39/">Chapter 39</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/return-of-the-shattered-constellation-chapter-38/">Chapter 38</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/return-of-the-shattered-constellation-chapter-37/">Chapter 37</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-shattered-constellation-chapter-39/">Chapter 39</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/return-of-the-shattered-constellation-chapter-38/">Chapter 38</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/return-of-the-shattered-constellation-chapter-37/">Chapter 37</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -986,7 +1041,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-the-max-level-hero-has-returned/" title="The Max Level Hero has Returned!">
 <h4>The Max Level Hero has Returned!</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-max-level-hero-has-returned-chapter-95/">Chapter 95</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/the-max-level-hero-has-returned-chapter-94/">Chapter 94</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-max-level-hero-has-returned-chapter-93/">Chapter 93</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-max-level-hero-has-returned-chapter-95/">Chapter 95</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/the-max-level-hero-has-returned-chapter-94/">Chapter 94</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-max-level-hero-has-returned-chapter-93/">Chapter 93</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -997,7 +1052,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/the-novels-extra-remake/" title="The Novel’s Extra (Remake)">
 <h4>The Novel’s Extra (Remake)</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-novels-extra-chapter-24/">Chapter 24</a><span>3 days ago</span></li><li><a href="https://www.asurascans.com/the-novels-extra-chapter-23/">Chapter 23</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/the-novels-extra-chapter-22/">Chapter 22</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-novels-extra-chapter-24/">Chapter 24</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/the-novels-extra-chapter-23/">Chapter 23</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-novels-extra-chapter-22/">Chapter 22</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1008,7 +1063,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/the-newbie-is-too-strong/" title="The Newbie is Too Strong">
 <h4>The Newbie is Too Strong</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-newbie-is-too-strong-chapter-26/">Chapter 26</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/the-newbie-is-too-strong-chapter-25/">Chapter 25</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-newbie-is-too-strong-chapter-24/">Chapter 24</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-newbie-is-too-strong-chapter-26/">Chapter 26</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/the-newbie-is-too-strong-chapter-25/">Chapter 25</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-newbie-is-too-strong-chapter-24/">Chapter 24</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1019,7 +1074,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/sleeping-ranker/" title="Sleeping Ranker">
 <h4>Sleeping Ranker</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/sleeping-ranker-chapter-38/">Chapter 38</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/sleeping-ranker-chapter-37/">Chapter 37</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/sleeping-ranker-chapter-36/">Chapter 36</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/sleeping-ranker-chapter-38/">Chapter 38</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/sleeping-ranker-chapter-37/">Chapter 37</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/sleeping-ranker-chapter-36/">Chapter 36</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1030,7 +1085,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-death-is-the-only-ending-for-the-villainess/" title="Death Is the Only Ending for the Villainess">
 <h4>Death Is the Only Ending for the Villainess</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/death-is-the-only-ending-for-the-villainess-chapter-92/">Chapter 92</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/death-is-the-only-ending-for-the-villainess-chapter-91/">Chapter 91</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/death-is-the-only-ending-for-the-villainess-chapter-90/">Chapter 90</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/death-is-the-only-ending-for-the-villainess-chapter-92/">Chapter 92</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/death-is-the-only-ending-for-the-villainess-chapter-91/">Chapter 91</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/death-is-the-only-ending-for-the-villainess-chapter-90/">Chapter 90</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1041,7 +1096,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-legend-of-asura-the-venom-dragon/" title="Legend of Asura – The Venom Dragon">
 <h4>Legend of Asura – The Venom Dragon</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/legend-of-asura-the-venom-dragon-chapter-98/">Chapter 98</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/legend-of-asura-the-venom-dragon-chapter-97/">Chapter 97</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/legend-of-asura-the-venom-dragon-chapter-96/">Chapter 96</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/legend-of-asura-the-venom-dragon-chapter-98/">Chapter 98</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/legend-of-asura-the-venom-dragon-chapter-97/">Chapter 97</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/legend-of-asura-the-venom-dragon-chapter-96/">Chapter 96</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1052,7 +1107,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-heavenly-martial-god/" title="Heavenly Martial God">
 <h4>Heavenly Martial God</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/heavenly-martial-god-chapter-64-5/">Chapter 64.5</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-martial-god-chapter-64-s1-end/">Chapter 64 - S1 END</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-martial-god-chapter-63/">Chapter 63</a><span>1 week ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/heavenly-martial-god-chapter-64-5/">Chapter 64.5</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-martial-god-chapter-64-s1-end/">Chapter 64 - S1 END</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-martial-god-chapter-63/">Chapter 63</a><span>1 week ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1063,7 +1118,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/heavenly-swords-grand-saga/" title="Heavenly Sword&#8217;s Grand Saga">
 <h4>Heavenly Sword&#8217;s Grand Saga</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/heavenly-swords-grand-saga-chapter-24/">Chapter 24</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-swords-grand-saga-chapter-23/">Chapter 23</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/heavenly-swords-grand-saga-chapter-22/">Chapter 22</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/heavenly-swords-grand-saga-chapter-24/">Chapter 24</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/heavenly-swords-grand-saga-chapter-23/">Chapter 23</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/heavenly-swords-grand-saga-chapter-22/">Chapter 22</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1074,7 +1129,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/overbearing-tyrant/" title="Overbearing Tyrant">
 <h4>Overbearing Tyrant</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/overbearing-tyrant-chapter-30/">Chapter 30</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/overbearing-tyrant-chapter-29/">Chapter 29</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/overbearing-tyrant-chapter-28/">Chapter 28</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/overbearing-tyrant-chapter-30/">Chapter 30</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/overbearing-tyrant-chapter-29/">Chapter 29</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/overbearing-tyrant-chapter-28/">Chapter 28</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1085,8 +1140,8 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/transmigrating-to-the-otherworld-once-more/" title="Transmigrating to the Otherworld Once More">
 <h4>Transmigrating to the Otherworld Once More</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/transmigrating-to-the-otherworld-once-more-chapter-19/">Chapter 19</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/transmigrating-to-the-otherworld-once-more-chapter-18/">Chapter 18</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/transmigrating-to-the-otherworld-once-more-chapter-17/">Chapter 17</a><span>3 weeks ago</span></li></ul> </div>
-</div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/transmigrating-to-the-otherworld-once-more-chapter-19/">Chapter 19</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/transmigrating-to-the-otherworld-once-more-chapter-18/">Chapter 18</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/transmigrating-to-the-otherworld-once-more-chapter-17/">Chapter 17</a><span>3 weeks ago</span></li></ul> </div>
+ </div>
 </div><div class="utao styletwo">
 <div class="uta">
 <div class="imgu">
@@ -1096,7 +1151,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/sss-class-gacha-hunter/" title="SSS-Class Gacha Hunter">
 <h4>SSS-Class Gacha Hunter</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/sss-class-gacha-hunter-chapter-42/">Chapter 42</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/sss-class-gacha-hunter-chapter-41/">Chapter 41</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/sss-class-gacha-hunter-chapter-40-s1-end/">Chapter 40 (S1 End)</a><span>5 months ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/sss-class-gacha-hunter-chapter-42/">Chapter 42</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/sss-class-gacha-hunter-chapter-41/">Chapter 41</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/sss-class-gacha-hunter-chapter-40-s1-end/">Chapter 40 (S1 End)</a><span>5 months ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1107,7 +1162,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/absolute-sword-sense/" title="Absolute Sword Sense">
 <h4>Absolute Sword Sense</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/absolute-sword-sense-chapter-11/">Chapter 11</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/absolute-sword-sense-chapter-10/">Chapter 10</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/absolute-sword-sense-chapter-9/">Chapter 9</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/absolute-sword-sense-chapter-11/">Chapter 11</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/absolute-sword-sense-chapter-10/">Chapter 10</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/absolute-sword-sense-chapter-9/">Chapter 9</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1118,7 +1173,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-player-who-cant-level-up/" title="Player Who Can&#8217;t Level Up">
 <h4>Player Who Can&#8217;t Level Up</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/player-who-cant-level-up-chapter-72/">Chapter 72</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/player-who-cant-level-up-chapter-71/">Chapter 71</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/player-who-cant-level-up-chapter-70/">Chapter 70</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/player-who-cant-level-up-chapter-72/">Chapter 72</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/player-who-cant-level-up-chapter-71/">Chapter 71</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/player-who-cant-level-up-chapter-70/">Chapter 70</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1129,7 +1184,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/manga/i-obtained-a-mythic-item/" title="I Obtained a Mythic Item">
 <h4>I Obtained a Mythic Item</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/i-obtained-a-mythic-item-chapter-13/">Chapter 13</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/i-obtained-a-mythic-item-chapter-12/">Chapter 12</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/i-obtained-a-mythic-item-chapter-11/">Chapter 11</a><span>2 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/i-obtained-a-mythic-item-chapter-13/">Chapter 13</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/i-obtained-a-mythic-item-chapter-12/">Chapter 12</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/i-obtained-a-mythic-item-chapter-11/">Chapter 11</a><span>2 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1140,7 +1195,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-the-tutorial-is-too-hard/" title="The Tutorial is Too Hard">
 <h4>The Tutorial is Too Hard</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-tutorial-is-too-hard-chapter-72/">Chapter 72</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/the-tutorial-is-too-hard-chapter-71/">Chapter 71</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-tutorial-is-too-hard-chapter-70/">Chapter 70</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-tutorial-is-too-hard-chapter-72/">Chapter 72</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/the-tutorial-is-too-hard-chapter-71/">Chapter 71</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-tutorial-is-too-hard-chapter-70/">Chapter 70</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1151,7 +1206,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-8th-class-magician/" title="Return of the 8th Class Magician">
 <h4>Return of the 8th Class Magician</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-8th-class-magician-chapter-63/">Chapter 63</a><span>4 days ago</span></li><li><a href="https://www.asurascans.com/return-of-the-8th-class-magician-chapter-62/">Chapter 62</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/return-of-the-8th-class-magician-chapter-61/">Chapter 61</a><span>4 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-8th-class-magician-chapter-63/">Chapter 63</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/return-of-the-8th-class-magician-chapter-62/">Chapter 62</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/return-of-the-8th-class-magician-chapter-61/">Chapter 61</a><span>4 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1173,7 +1228,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/367-reincarnation-of-the-suicidal-battle-god/" title="Reincarnation of the Suicidal Battle God">
 <h4>Reincarnation of the Suicidal Battle God</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/reincarnation-of-the-suicidal-battle-god-chapter-58/">Chapter 58</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/reincarnation-of-the-suicidal-battle-god-chapter-57/">Chapter 57</a><span>1 week ago</span></li><li><a href="https://www.asurascans.com/reincarnation-of-the-suicidal-battle-god-chapter-56/">Chapter 56</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/reincarnation-of-the-suicidal-battle-god-chapter-58/">Chapter 58</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/reincarnation-of-the-suicidal-battle-god-chapter-57/">Chapter 57</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/reincarnation-of-the-suicidal-battle-god-chapter-56/">Chapter 56</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1184,7 +1239,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-the-heavenly-demon-cant-live-a-normal-life/" title="The Heavenly Demon Can&#8217;t Live a Normal Life">
 <h4>The Heavenly Demon Can&#8217;t Live a Normal Life</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-heavenly-demon-cant-live-a-normal-life-chapter-36-warrior-battle/">Chapter 36 - Warrior Battle</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/the-heavenly-demon-cant-live-a-normal-life-chapter-35-hero-of-laurence/">Chapter 35 - Hero of Laurence</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-heavenly-demon-cant-live-a-normal-life-chapter-34/">Chapter 34 - Heavenly Demon Sword Technique</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-heavenly-demon-cant-live-a-normal-life-chapter-36-warrior-battle/">Chapter 36 - Warrior Battle</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/the-heavenly-demon-cant-live-a-normal-life-chapter-35-hero-of-laurence/">Chapter 35 - Hero of Laurence</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/the-heavenly-demon-cant-live-a-normal-life-chapter-34/">Chapter 34 - Heavenly Demon Sword Technique</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1195,7 +1250,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-i-grow-stronger-by-eating/" title="I Grow Stronger By Eating!">
 <h4>I Grow Stronger By Eating!</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/i-grow-stronger-by-eating-chapter-66/">Chapter 66</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/i-grow-stronger-by-eating-chapter-65/">Chapter 65</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/i-grow-stronger-by-eating-chapter-64/">Chapter 64</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/i-grow-stronger-by-eating-chapter-66/">Chapter 66</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/i-grow-stronger-by-eating-chapter-65/">Chapter 65</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/i-grow-stronger-by-eating-chapter-64/">Chapter 64</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1206,7 +1261,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/the-game-that-i-came-from/" title="The Game That I Came From">
 <h4>The Game That I Came From</h4>
 </a>
-<ul class="Manhua"><li><a href="https://www.asurascans.com/the-game-that-i-came-from-chapter-110/">Chapter 110</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/the-game-that-i-came-from-chapter-109/">Chapter 109</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/the-game-that-i-came-from-chapter-108/">Chapter 108</a><span>1 week ago</span></li></ul> </div>
+<ul class="Manhua"><li><a href="https://www.asurascans.com/the-game-that-i-came-from-chapter-110/">Chapter 110</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/the-game-that-i-came-from-chapter-109/">Chapter 109</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/the-game-that-i-came-from-chapter-108/">Chapter 108</a><span>1 week ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1217,7 +1272,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-reformation-of-the-deadbeat-noble/" title="Reformation of the Deadbeat Noble">
 <h4>Reformation of the Deadbeat Noble</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/reformation-of-the-deadbeat-noble-chapter-58-a-self-unaware-genius/">Chapter 58 - A Self-Unaware Genius</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/reformation-of-the-deadbeat-noble-chapter-57/">Chapter 57 - Heartfelt Consolation</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/reformation-of-the-deadbeat-noble-chapter-56/">Chapter 56 – Reunion</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/reformation-of-the-deadbeat-noble-chapter-58-a-self-unaware-genius/">Chapter 58 - A Self-Unaware Genius</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/reformation-of-the-deadbeat-noble-chapter-57/">Chapter 57 - Heartfelt Consolation</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/reformation-of-the-deadbeat-noble-chapter-56/">Chapter 56 – Reunion</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div><div class="utao styletwo">
 <div class="uta">
@@ -1228,62 +1283,7 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-worn-and-torn-newbie/" title="Worn and Torn Newbie">
 <h4>Worn and Torn Newbie</h4>
 </a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/worn-and-torn-newbie-chapter-102/">Chapter 102</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/worn-and-torn-newbie-chapter-101/">Chapter 101</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/worn-and-torn-newbie-chapter-100/">Chapter 100</a><span>3 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="33590" class="series" href="https://www.asurascans.com/comics/1649969363-doctors-rebirth/" title="Doctor’s Rebirth"><img src="https://www.asurascans.com/wp-content/uploads/2021/01/doctors-rebirth-cover.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/1649969363-doctors-rebirth/" title="Doctor’s Rebirth">
-<h4>Doctor’s Rebirth</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/doctors-rebirth-chapter-91/">Chapter 91</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/doctors-rebirth-chapter-90/">Chapter 90</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/doctors-rebirth-chapter-89/">Chapter 89</a><span>3 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="57703" class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-unrivaled-spear-knight/" title="Return of The Unrivaled Spear Knight"><img src="https://www.asurascans.com/wp-content/uploads/2022/05/cover9.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> <span class="hot">H</span> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-unrivaled-spear-knight/" title="Return of The Unrivaled Spear Knight">
-<h4>Return of The Unrivaled Spear Knight</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/return-of-the-unrivaled-spear-knight-chapter-54/">Chapter 54</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/return-of-the-unrivaled-spear-knight-chapter-53/">Chapter 53</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/return-of-the-unrivaled-spear-knight-chapter-52/">Chapter 52</a><span>3 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="102937" class="series" href="https://www.asurascans.com/manga/academys-undercover-professor/" title="Academy’s Undercover Professor"><img src="https://www.asurascans.com/wp-content/uploads/2022/06/Academys_Undercover_ProfessorCover_copy.png" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/manga/academys-undercover-professor/" title="Academy’s Undercover Professor">
-<h4>Academy’s Undercover Professor</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/academys-undercover-professor-chapter-15/">Chapter 15</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/academys-undercover-professor-chapter-14/">Chapter 14</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/academys-undercover-professor-chapter-13/">Chapter 13</a><span>3 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="79451" class="series" href="https://www.asurascans.com/comics/the-hero-returns/" title="The Hero Returns"><img src="https://www.asurascans.com/wp-content/uploads/2022/03/hero-returns.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/the-hero-returns/" title="The Hero Returns">
-<h4>The Hero Returns</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/the-hero-returns-chapter-36/">Chapter 36</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/the-hero-returns-chapter-35/">Chapter 35</a><span>3 weeks ago</span></li><li><a href="https://www.asurascans.com/the-hero-returns-chapter-34/">Chapter 34</a><span>4 weeks ago</span></li></ul> </div>
-</div>
-</div><div class="utao styletwo">
-<div class="uta">
-<div class="imgu">
-<a rel="85881" class="series" href="https://www.asurascans.com/comics/barbarian-quest/" title="Barbarian Quest"><img src="https://www.asurascans.com/wp-content/uploads/2022/04/BarbQuest_hElookkindadumbaf-1.jpg" class="ts-post-image wp-post-image attachment-post-thumbnail size-post-thumbnail" loading="lazy" /> </a>
-</div>
-<div class="luf">
-<a class="series" href="https://www.asurascans.com/comics/barbarian-quest/" title="Barbarian Quest">
-<h4>Barbarian Quest</h4>
-</a>
-<ul class="Manhwa"><li><a href="https://www.asurascans.com/barbarian-quest-chapter-35/">Chapter 35</a><span>5 days ago</span></li><li><a href="https://www.asurascans.com/barbarian-quest-chapter-34/">Chapter 34</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/barbarian-quest-chapter-33/">Chapter 33</a><span>3 weeks ago</span></li></ul> </div>
+<ul class="Manhwa"><li><a href="https://www.asurascans.com/worn-and-torn-newbie-chapter-102/">Chapter 102</a><span>6 days ago</span></li><li><a href="https://www.asurascans.com/worn-and-torn-newbie-chapter-101/">Chapter 101</a><span>2 weeks ago</span></li><li><a href="https://www.asurascans.com/worn-and-torn-newbie-chapter-100/">Chapter 100</a><span>3 weeks ago</span></li></ul> </div>
 </div>
 </div> <div class="hpage">
 <a href="https://www.asurascans.com/page/2" class="r">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
@@ -1334,6 +1334,28 @@ Damn Reincarnation </div>
 <li>
 <div class="ctr">2</div>
 <div class="imgseries">
+<a class="series" href="https://www.asurascans.com/comics/367-reincarnation-of-the-suicidal-battle-god/" rel="49050">
+<img src="https://www.asurascans.com/wp-content/uploads/2021/06/sogdobogdo.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
+</div>
+<div class="leftseries">
+<h2>
+<a class="series" href="https://www.asurascans.com/comics/367-reincarnation-of-the-suicidal-battle-god/" rel="49050">Reincarnation of the Suicidal Battle God</a>
+</h2>
+<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/overpowered/" rel="tag">Overpowered</a>, <a href="https://www.asurascans.com/genres/rebirth/" rel="tag">Rebirth</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></span> <div class="rt">
+<div class="rating">
+<div class="rating-prc">
+<div class="rtp">
+<div class="rtb"><span style="width:99%"></span></div>
+</div>
+</div>
+<div class="numscore">9.9</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="ctr">3</div>
+<div class="imgseries">
 <a class="series" href="https://www.asurascans.com/manga/damn-reincarnation/" rel="107248">
 <img src="https://www.asurascans.com/wp-content/uploads/2022/06/Damn_ReincarnationCover003.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
 </div>
@@ -1354,7 +1376,7 @@ Damn Reincarnation </div>
 </div>
 </li>
 <li>
-<div class="ctr">3</div>
+<div class="ctr">4</div>
 <div class="imgseries">
 <a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/" rel="61390">
 <img src="https://www.asurascans.com/wp-content/uploads/2021/10/DisasterheroCover01.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
@@ -1376,7 +1398,7 @@ Damn Reincarnation </div>
 </div>
 </li>
 <li>
-<div class="ctr">4</div>
+<div class="ctr">5</div>
 <div class="imgseries">
 <a class="series" href="https://www.asurascans.com/comics/1649969363-player-who-cant-level-up/" rel="38049">
 <img src="https://www.asurascans.com/wp-content/uploads/2021/02/Player_That_Cant_Level_Up_Title_Card_-_Barak_kopya.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
@@ -1386,28 +1408,6 @@ Damn Reincarnation </div>
 <a class="series" href="https://www.asurascans.com/comics/1649969363-player-who-cant-level-up/" rel="38049">Player Who Can&#039;t Level Up</a>
 </h2>
 <span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/mystery/" rel="tag">Mystery</a></span> <div class="rt">
-<div class="rating">
-<div class="rating-prc">
-<div class="rtp">
-<div class="rtb"><span style="width:99%"></span></div>
-</div>
-</div>
-<div class="numscore">9.9</div>
-</div>
-</div>
-</div>
-</li>
-<li>
-<div class="ctr">5</div>
-<div class="imgseries">
-<a class="series" href="https://www.asurascans.com/comics/367-reincarnation-of-the-suicidal-battle-god/" rel="49050">
-<img src="https://www.asurascans.com/wp-content/uploads/2021/06/sogdobogdo.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
-</div>
-<div class="leftseries">
-<h2>
-<a class="series" href="https://www.asurascans.com/comics/367-reincarnation-of-the-suicidal-battle-god/" rel="49050">Reincarnation of the Suicidal Battle God</a>
-</h2>
-<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/overpowered/" rel="tag">Overpowered</a>, <a href="https://www.asurascans.com/genres/rebirth/" rel="tag">Rebirth</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></span> <div class="rt">
 <div class="rating">
 <div class="rating-prc">
 <div class="rtp">
@@ -1488,14 +1488,14 @@ Damn Reincarnation </div>
 <li>
 <div class="ctr">9</div>
 <div class="imgseries">
-<a class="series" href="https://www.asurascans.com/comics/legendary-youngest-son-of-the-marquis-house-manhwa/" rel="80948">
-<img src="https://www.asurascans.com/wp-content/uploads/2022/03/legendarymarquis.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
+<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-8th-class-magician/" rel="49502">
+<img src="https://www.asurascans.com/wp-content/uploads/2021/07/8thclass.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
 </div>
 <div class="leftseries">
 <h2>
-<a class="series" href="https://www.asurascans.com/comics/legendary-youngest-son-of-the-marquis-house-manhwa/" rel="80948">Legendary Youngest Son of the Marquis House</a>
+<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-8th-class-magician/" rel="49502">Return of the 8th Class Magician</a>
 </h2>
-<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/rebirth/" rel="tag">Rebirth</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></span> <div class="rt">
+<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/genius/" rel="tag">Genius</a>, <a href="https://www.asurascans.com/genres/reincarnation/" rel="tag">Reincarnation</a>, <a href="https://www.asurascans.com/genres/revenge/" rel="tag">Revenge</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></span> <div class="rt">
 <div class="rating">
 <div class="rating-prc">
 <div class="rtp">
@@ -1510,14 +1510,14 @@ Damn Reincarnation </div>
 <li>
 <div class="ctr">10</div>
 <div class="imgseries">
-<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-8th-class-magician/" rel="49502">
-<img src="https://www.asurascans.com/wp-content/uploads/2021/07/8thclass.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
+<a class="series" href="https://www.asurascans.com/comics/legendary-youngest-son-of-the-marquis-house-manhwa/" rel="80948">
+<img src="https://www.asurascans.com/wp-content/uploads/2022/03/legendarymarquis.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
 </div>
 <div class="leftseries">
 <h2>
-<a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-8th-class-magician/" rel="49502">Return of the 8th Class Magician</a>
+<a class="series" href="https://www.asurascans.com/comics/legendary-youngest-son-of-the-marquis-house-manhwa/" rel="80948">Legendary Youngest Son of the Marquis House</a>
 </h2>
-<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/genius/" rel="tag">Genius</a>, <a href="https://www.asurascans.com/genres/reincarnation/" rel="tag">Reincarnation</a>, <a href="https://www.asurascans.com/genres/revenge/" rel="tag">Revenge</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></span> <div class="rt">
+<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/rebirth/" rel="tag">Rebirth</a>, <a href="https://www.asurascans.com/genres/shounen/" rel="tag">Shounen</a></span> <div class="rt">
 <div class="rating">
 <div class="rating-prc">
 <div class="rtp">
@@ -1558,6 +1558,28 @@ Damn Reincarnation </div>
 <li>
 <div class="ctr">2</div>
 <div class="imgseries">
+<a class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" rel="112859">
+<img src="https://www.asurascans.com/wp-content/uploads/2022/07/ReaperMoonCover02.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
+</div>
+<div class="leftseries">
+<h2>
+<a class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" rel="112859">Reaper of the Drifting Moon</a>
+</h2>
+<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/genius-mc/" rel="tag">Genius MC</a>, <a href="https://www.asurascans.com/genres/martial-arts/" rel="tag">Martial Arts</a>, <a href="https://www.asurascans.com/genres/murim/" rel="tag">Murim</a></span> <div class="rt">
+<div class="rating">
+<div class="rating-prc">
+<div class="rtp">
+<div class="rtb"><span style="width:99%"></span></div>
+</div>
+</div>
+<div class="numscore">9.9</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="ctr">3</div>
+<div class="imgseries">
 <a class="series" href="https://www.asurascans.com/manga/heavenly-swords-grand-saga/" rel="109273">
 <img src="https://www.asurascans.com/wp-content/uploads/2022/06/resource-6-1.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
 </div>
@@ -1578,7 +1600,7 @@ Damn Reincarnation </div>
 </div>
 </li>
 <li>
-<div class="ctr">3</div>
+<div class="ctr">4</div>
 <div class="imgseries">
 <a class="series" href="https://www.asurascans.com/manga/i-became-a-renowned-familys-sword-prodigy/" rel="107734">
 <img src="https://www.asurascans.com/wp-content/uploads/2022/06/swordprodigyCover02.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
@@ -1595,28 +1617,6 @@ Damn Reincarnation </div>
 </div>
 </div>
 <div class="numscore">8.8</div>
-</div>
-</div>
-</div>
-</li>
-<li>
-<div class="ctr">4</div>
-<div class="imgseries">
-<a class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" rel="112859">
-<img src="https://www.asurascans.com/wp-content/uploads/2022/07/ReaperMoonCover02.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
-</div>
-<div class="leftseries">
-<h2>
-<a class="series" href="https://www.asurascans.com/manga/reaper-of-the-drifting-moon/" rel="112859">Reaper of the Drifting Moon</a>
-</h2>
-<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/genius-mc/" rel="tag">Genius MC</a>, <a href="https://www.asurascans.com/genres/martial-arts/" rel="tag">Martial Arts</a>, <a href="https://www.asurascans.com/genres/murim/" rel="tag">Murim</a></span> <div class="rt">
-<div class="rating">
-<div class="rating-prc">
-<div class="rtp">
-<div class="rtb"><span style="width:99%"></span></div>
-</div>
-</div>
-<div class="numscore">9.9</div>
 </div>
 </div>
 </div>
@@ -1690,28 +1690,6 @@ Damn Reincarnation </div>
 <li>
 <div class="ctr">8</div>
 <div class="imgseries">
-<a class="series" href="https://www.asurascans.com/manga/carnivorous-hunter/" rel="110474">
-<img src="https://www.asurascans.com/wp-content/uploads/2022/07/CarniHunterColor02.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
-</div>
-<div class="leftseries">
-<h2>
-<a class="series" href="https://www.asurascans.com/manga/carnivorous-hunter/" rel="110474">Carnivorous Hunter</a>
-</h2>
-<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/mature/" rel="tag">Mature</a>, <a href="https://www.asurascans.com/genres/seinen/" rel="tag">Seinen</a>, <a href="https://www.asurascans.com/genres/supernatural/" rel="tag">Supernatural</a></span> <div class="rt">
-<div class="rating">
-<div class="rating-prc">
-<div class="rtp">
-<div class="rtb"><span style="width:94%"></span></div>
-</div>
-</div>
-<div class="numscore">9.4</div>
-</div>
-</div>
-</div>
-</li>
-<li>
-<div class="ctr">9</div>
-<div class="imgseries">
 <a class="series" href="https://www.asurascans.com/comics/1649969363-return-of-the-disaster-class-hero/" rel="61390">
 <img src="https://www.asurascans.com/wp-content/uploads/2021/10/DisasterheroCover01.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
 </div>
@@ -1732,9 +1710,31 @@ Damn Reincarnation </div>
 </div>
 </li>
 <li>
+<div class="ctr">9</div>
+<div class="imgseries">
+<a class="series" href="https://www.asurascans.com/manga/carnivorous-hunter/" rel="110474">
+<img src="https://www.asurascans.com/wp-content/uploads/2022/07/CarniHunterColor02.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
+</div>
+<div class="leftseries">
+<h2>
+<a class="series" href="https://www.asurascans.com/manga/carnivorous-hunter/" rel="110474">Carnivorous Hunter</a>
+</h2>
+<span><b>Genres</b>: <a href="https://www.asurascans.com/genres/action/" rel="tag">Action</a>, <a href="https://www.asurascans.com/genres/adventure/" rel="tag">Adventure</a>, <a href="https://www.asurascans.com/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://www.asurascans.com/genres/mature/" rel="tag">Mature</a>, <a href="https://www.asurascans.com/genres/seinen/" rel="tag">Seinen</a>, <a href="https://www.asurascans.com/genres/supernatural/" rel="tag">Supernatural</a></span> <div class="rt">
+<div class="rating">
+<div class="rating-prc">
+<div class="rtp">
+<div class="rtb"><span style="width:94%"></span></div>
+</div>
+</div>
+<div class="numscore">9.4</div>
+</div>
+</div>
+</div>
+</li>
+<li>
 <div class="ctr">10</div>
 <div class="imgseries">
-<a class="series" href="https://www.asurascans.com/comics/1649969363-player-who-cant-level-up/" rel="38049">
+ <a class="series" href="https://www.asurascans.com/comics/1649969363-player-who-cant-level-up/" rel="38049">
 <img src="https://www.asurascans.com/wp-content/uploads/2021/02/Player_That_Cant_Level_Up_Title_Card_-_Barak_kopya.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
 </div>
 <div class="leftseries">
@@ -1937,7 +1937,7 @@ Damn Reincarnation </div>
 <div class="ctr">9</div>
 <div class="imgseries">
 <a class="series" href="https://www.asurascans.com/comics/1649969363-worn-and-torn-newbie/" rel="28414">
-<img src="https://www.asurascans.com/wp-content/uploads/2020/11/cover-worn.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" /> </a>
+<img src="https://www.asurascans.com/wp-content/uploads/2020/11/cover-worn.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" />  </a>
 </div>
 <div class="leftseries">
 <h2>
@@ -1980,7 +1980,7 @@ Damn Reincarnation </div>
 </ul>
 </div>
 </div>
-</div><script>ts_popular_widget.run(1659034801);</script>
+</div><script>ts_popular_widget.run(1659102207);</script>
 </div></div>
 </div>
 <div id="footer">
@@ -1992,7 +1992,7 @@ Damn Reincarnation </div>
 <div class="copyright marx">
 <div class="footer-logo"><img src="https://www.asurascans.com/wp-content/uploads/2021/03/Group_1.png" title="" alt=""></div>
 <div class="txt">
-<p>Any business-related queries or advertising, please contact us at <b><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="48293b3d3a293b2b292624293c2127263b082f25292124662b2725">[email&#160;protected]</a></b></p>
+<p>Any business-related queries or advertising, please contact us at <b><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="afcedcdaddcedccccec1c3cedbc6c0c1dcefc8c2cec6c381ccc0c2">[email&#160;protected]</a></b></p>
 </div>
 </div>
 </div>
@@ -2165,24 +2165,24 @@ n&&(n="");null==p&&(p="");null!=f&&e.each(function(){var d=a(this).closest("div.
 m)return k=!0,!1}),t){case "B":k&&(c=!1);break;case "W":k||(c=!1)}a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});h=a(this).prev(".ai-debug-bar");h.find(".ai-debug-name.ai-ip-country").text(q);h.find(".ai-debug-name.ai-ip-status").text(c?ai_front.visible:ai_front.hidden);c?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(h=b64d(a(this).data("code")),0!=a(this).closest("head").length?(a(this).after(h),
 a(this).remove()):a(this).append(h),a(this).attr("data-code",""),ai_process_element(this))):(a(this).hide(),d.length&&(d.removeAttr("data-ai").removeClass("ai-track"),d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(d.removeClass("ai-list-block"),d.removeClass("ai-list-block-filter"),d.prev().hasClass("ai-debug-info")&&d.prev().remove())):d[0].hasAttribute("style")&&-1==
 d.attr("style").indexOf("height:")&&d.hide()));d.removeClass("ai-list-block-ip")})}}ai_process_ip_addresses=function(e){e=null==e?a("div.ai-ip-data, meta.ai-ip-data"):e.filter(".ai-ip-data");if(e.length)if("undefined"!=typeof ai_ip_data)v(e);else if("undefined"==typeof ai_ip_data_requested){ai_ip_data_requested=!0;var c="/wp-admin/admin-ajax.php?action=ai_ajax&ip-data=ip-address-country-city",f=u("ai-debug-ip-address");null!=f&&(c+="&ai-debug-ip-address="+f);f=u("ai-debug-country");null!=
-f&&(c+="&ai-debug-country="+f);a.ajax({url:c,type:"post",data:{ai_check:"4c89a67238",ai_version:(new Date).getTime()+"-"+Math.round(1E5*Math.random())},async:!0}).done(function(g){ai_ip_data=g;if(""==g){var l="Ajax request returned empty data, geo-targeting disabled";console.error(l);"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,c,0])}else try{JSON.parse(g)}catch(n){l="Ajax call returned invalid data, geo-targeting disabled",console.error(l,g),"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,
+f&&(c+="&ai-debug-country="+f);a.ajax({url:c,type:"post",data:{ai_check:"8f91a1689b",ai_version:(new Date).getTime()+"-"+Math.round(1E5*Math.random())},async:!0}).done(function(g){ai_ip_data=g;if(""==g){var l="Ajax request returned empty data, geo-targeting disabled";console.error(l);"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,c,0])}else try{JSON.parse(g)}catch(n){l="Ajax call returned invalid data, geo-targeting disabled",console.error(l,g),"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,
 c,0])}e=a("div.ai-ip-data, meta.ai-ip-data");e.length&&v(e)}).fail(function(g,l,n){a("div.ai-ip-data").each(function(){a(this).css({display:"none",visibility:"",position:"",width:"",height:"","z-index":""}).removeClass("ai-ip-data").hide()})})}};a(document).ready(function(e){setTimeout(function(){ai_process_ip_addresses()},5)})});
 function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a);"function"==typeof ai_process_impressions&&
 1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5)};
-ai_run_749572302652 = function(){
+ai_run_525406306806 = function(){
 ai_document_write=document.write;document.write=function(a){"interactive"==document.readyState?(console.error("document.write called after page load: ",a),"undefined"!=typeof ai_js_errors&&ai_js_errors.push(["document.write called after page load",a,0])):ai_document_write.call(document,a)};
 ai_insert ('before', 'body > div:eq(1) > div:eq(0)', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTk0IGFpLXZpZXdwb3J0LTEgYWktdmlld3BvcnQtMicgc3R5bGU9J21hcmdpbjogOHB4IGF1dG87IHRleHQtYWxpZ246IGNlbnRlcjsgZGlzcGxheTogYmxvY2s7IGNsZWFyOiBib3RoOyc+CjxwdWJndXJ1IGRhdGEtcGctYWQ9ImFzX2xiX2F0Zl9kZXNrIiA+PC9wdWJndXJ1Pgo8L2Rpdj4K'));
 ai_insert ('after', '1649969469-return-of-the-shattered-constellation-chapter-1', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTkyJyBzdHlsZT0nbWFyZ2luOiA4cHggMDsgY2xlYXI6IGJvdGg7Jz4KPHB1Ymd1cnUgZGF0YS1wZy1hZD0iYXNfc2lkZWJhcl9yaWdodF9kZXNrIiA+PC9wdWJndXJ1PjwvZGl2Pgo='));
 ai_insert ('after', 'div#content > div:eq(1) > div:eq(0) > div:eq(0), div.slidtop', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTkxJyBzdHlsZT0nbWFyZ2luOiA4cHggYXV0bzsgdGV4dC1hbGlnbjogY2VudGVyOyBkaXNwbGF5OiBibG9jazsgY2xlYXI6IGJvdGg7Jz4KPHB1Ymd1cnUgZGF0YS1wZy1hZD0iYXNfbGJfYnRmX2Rlc2siID48L3B1Ymd1cnU+PC9kaXY+Cg=='));
 };
-if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) ai_run_749572302652 (); else document.addEventListener ('DOMContentLoaded', ai_run_749572302652);
+if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) ai_run_525406306806 (); else document.addEventListener ('DOMContentLoaded', ai_run_525406306806);
 ai_js_code = true;
 }
 function ai_wait_for_jquery(){function b(f,c){var a=document.createElement("script");a.src=f;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery&&window.jQuery.fn?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://www.asurascans.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1",function(){b("https://www.asurascans.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=6.0.1",
 null)}),30>ai_jquery_waiting_counter&&setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
 
 </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"731fdcd72e1f1bc8","token":"223792a433224495835de5bdac62d34c","version":"2022.6.0","si":100}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"73264b025ec28e84","token":"223792a433224495835de5bdac62d34c","version":"2022.6.0","si":100}' crossorigin="anonymous"></script>
 </body>
 <script>
 document.querySelectorAll('a').forEach(link => {

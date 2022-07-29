@@ -1,15 +1,8 @@
 <?php
-// connect to db
-include "partials/_dbconnect.php";
-include "functions.php";
 
 // get webtoons file content
 $file_name = 'www.asurascans.com';
 $content = open_file($file_name);
-
-
-// get regular expressions
-include "regex.php";
 
 
 if (preg_match_all($regex6, $content, $matches)) {
@@ -30,14 +23,19 @@ if (preg_match_all($regex6, $content, $matches)) {
     $stmt2 = $conn->prepare("INSERT INTO `chapters` (`c_no`, `c_link`, `w_id`) VALUES (?, ?, ?)");
     $stmt2->bind_param("dss", $chapter_no, $chapter_link, $webtoon_id);
 
+    // update w_link, w_last_mod
+    $stmt4 = $conn->prepare("UPDATE webtoons SET w_link = ?, last_mod = CURRENT_TIMESTAMP WHERE w_id = ?");
+    $stmt4->bind_param("si", $webtoon_link, $webtoon_id);
 
     // ===================================================
     for ($i = count($matches[0]) - 1; $i > -1; $i--) {
         $chapter_link = $matches[1][$i];
-        $webtoon_title = $matches[2][$i];
-        $chapter_no = $matches[4][$i];
+        $webtoon_link = $matches[2][$i];
+        $webtoon_title = $matches[3][$i];
+        $chapter_no = $matches[5][$i];
 
-        $webtoon_title = "%" . str_replace("-", "%", $webtoon_title) . "%"; //  making title searchable in links
+        $search = ["-", "chapter"];
+        $webtoon_title = "%" . str_replace($search, "%", $webtoon_title) . "%"; //  making title searchable in links
 
         // fetch current w_id
         $stmt->execute();
@@ -46,25 +44,28 @@ if (preg_match_all($regex6, $content, $matches)) {
         $webtoon_id = $row['w_id'];
 
 
-        // fetch last c_no of webtoon
-        $stmt1->execute();
-        $result = $stmt1->get_result();
-        $row = $result->fetch_assoc();
-        $c_no = isset($row['c_no']) ? $row['c_no'] : 0;
+        if ($webtoon_id) {
+            // fetch last c_no of webtoon
+            $stmt1->execute();
+            $result = $stmt1->get_result();
+            $row = $result->fetch_assoc();
+            $c_no = isset($row['c_no']) ? $row['c_no'] : 0;
 
-        if ($c_no < $chapter_no) {
+            if ($c_no < $chapter_no) {
 
-            $webtoon_title = $matches[2][$i];
+                $webtoon_title = $matches[2][$i];
 
-            // insert chapters into db
-            $result = $stmt2->execute(); // insert chapter into db            
-            
-            if ($result) {
-                echo "Inserted Chapter : $webtoon_title";
-                echo "<br>";
-            } else {
-                echo "Failed to Insert Chapter : $webtoon_title || " . mysqli_error($conn);
-                echo "<br>";
+                // insert chapters into db
+                $result = $stmt2->execute(); // insert chapter into db            
+
+                if ($result) {
+                    echo "Inserted Chapter : $webtoon_title";
+                    echo "<br>";
+                    $stmt4->execute(); // update webtoon last_mod
+                } else {
+                    echo "Failed to Insert Chapter : $webtoon_title || " . mysqli_error($conn);
+                    echo "<br>";
+                }
             }
         }
     }

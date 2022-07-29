@@ -18,7 +18,7 @@
         <h2 class="text-center">Latest Comics</h2>
         <hr>
         <!--  -->
-        <div class="post-listing row row-cols-6">
+        <div class="post-listing row row-cols-2 row-cols-md-4 row-cols-lg-6">
             <!--  -->
             <?php
             include "webtoon_grid.php";
