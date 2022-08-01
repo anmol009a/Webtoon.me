@@ -1,5 +1,6 @@
 <?php
-require_once "partials/_dbconnect.php";
+require_once __DIR__ . "/partials/_dbconnect.php";
+require_once __DIR__ . "/functions.php";
 
 // insert parserHub project into db
 $stmt = $conn->prepare("INSERT INTO parser_hub (`p_title`, `p_token`, `run_token`, `run_status`) VALUES (?,?,?,?)");
@@ -21,7 +22,6 @@ use Parsehub\Parsehub;
 $api_key = "tGxzjnY4_xe_";
 $parsehub = new Parsehub($api_key);
 
-require_once "functions.php";
 
 
 

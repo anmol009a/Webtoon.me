@@ -122,3 +122,10 @@ function deleteRun($api_key, $run_token)
     $delete_run = $parsehub->deleteProjectRun($run_token);
     // var_dump($delete_run);
 }
+
+
+function insertWebtoons()
+{
+    require_once __DIR__ . "/webtoon_scrapper/webtoon_scrapper.php";
+    require_once __DIR__ . "/webtoon_scrapper/add_webtoon_details.php";
+}
