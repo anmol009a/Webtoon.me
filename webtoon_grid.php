@@ -41,32 +41,31 @@ while ($row = mysqli_fetch_assoc($result)) {
     // fetching chapter details
     $stmt->execute();
     $result2 = $stmt->get_result();
-    if ($result2) {
-        for ($i = 0; $i < 2; $i++) {
-            $row2 = $result2->fetch_assoc();
-            if ($row2) {
+    for ($i = 0; $i < 2; $i++) {
+        $row2 = $result2->fetch_assoc();
+        if ($row2) {
 
-                $chapter_no[$i] = $row2['c_no'];
-                $chapter_link[$i] = $row2['c_link'];
+            $chapter_name[$i] = isset($row2['c_name']) ? $row2['c_name'] : $row2['c_no'];
+            $chapter_link[$i] = $row2['c_link'];
 
-                // ---------------------------------------------------------------------------------
-                $c_posted_on[$i] = new DateTime($row2['c_posted_on'], new DateTimeZone('Asia/Kolkata'));  // convert the string to a date variable
-                $current_date = new DATETIME("now", new DateTimeZone('Asia/Kolkata'));  // Current Date
+            // ---------------------------------------------------------------------------------
+            $c_posted_on[$i] = new DateTime($row2['c_posted_on'], new DateTimeZone('Asia/Kolkata'));  // convert the string to a date variable
+            $current_date = new DATETIME("now", new DateTimeZone('Asia/Kolkata'));  // Current Date
 
-                $interval[$i] = post_date_format($current_date, $c_posted_on[$i]);
+            $interval[$i] = post_date_format($current_date, $c_posted_on[$i]);
 
-                echo '
+            echo '
                 <div class="chapter-item mt-2">
                     <span>
                         <a href="' . $chapter_link[$i] . '" target="_blank">
-                            <button type="button" class="btn btn-outline-dark chapter-btn">Chapter ' . $chapter_no[$i] . '</button>
+                            <button type="button" class="btn btn-outline-dark chapter-btn">' . $chapter_name[$i] . '</button>
                         </a>
                     </span>
                     <span class="post-on">' . $interval[$i] . '</span>
                 </div>';
-            }
         }
     }
+
 
     echo '
             </div>
