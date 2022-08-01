@@ -126,6 +126,7 @@ function deleteRun($api_key, $run_token)
 
 function insertWebtoons()
 {
-    require_once __DIR__ . "/webtoon_scrapper/webtoon_scrapper.php";
-    require_once __DIR__ . "/webtoon_scrapper/add_webtoon_details.php";
+    // $dir = "C://xampp//htdocs//Webtoon.me";
+    require_once DIR . "/webtoon_scrapper/webtoon_scrapper.php";
+    require_once DIR . "/webtoon_scrapper/add_webtoon_details.php";
 }

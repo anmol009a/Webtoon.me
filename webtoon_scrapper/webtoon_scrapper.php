@@ -1,6 +1,6 @@
 <?php
-require_once __DIR__ . "/partials/_dbconnect.php";
-require_once __DIR__ . "/functions.php";
+require_once DIR . "/partials/_dbconnect.php";
+require_once DIR . "/functions.php";
 
 // insert parserHub project into db
 $stmt = $conn->prepare("INSERT INTO parser_hub (`p_title`, `p_token`, `run_token`, `run_status`) VALUES (?,?,?,?)");
@@ -14,7 +14,7 @@ $stmt1->bind_param("sss", $run_token, $run_status, $project_title);
 $stmt2 = $conn->prepare("SELECT run_token, run_status FROM parser_hub WHERE p_title = ?");
 $stmt2->bind_param("s", $project_title);
 
-require_once __DIR__ . '/vendor/autoload.php';
+require_once DIR . '/vendor/autoload.php';
 
 use Parsehub\Parsehub;
 
