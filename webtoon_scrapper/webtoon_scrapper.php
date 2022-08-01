@@ -18,69 +18,11 @@ require_once __DIR__ . '/vendor/autoload.php';
 use Parsehub\Parsehub;
 
 
-function run($api_key, $project_token)
-{
-    // Run a parsehub project:
-    $parsehub = new Parsehub($api_key);
-    $options = array();
-    $run_obj = $parsehub->runProject($project_token, $options);
-    $run_token = $run_obj->run_token;
-    echo "Starting a new Run<br>";
-    echo "Run Token : $run_token";
-    echo "<br>";
-    return $run_token;
-}
-
-function checkRunStatus($api_key, $run_token)
-{
-    // check run status
-    // Get a particular run, Pass the run token:
-    $parsehub = new Parsehub($api_key);
-    $run = $parsehub->getRun($run_token);
-    $run_status = $run->status;
-    echo "Run Status : $run_status";
-    echo "<br>";
-    return $run_status;
-}
-
-function getRunData($api_key, $run_token)
-{
-    // Get data for a particular run, Pass the run token:
-    $parsehub = new Parsehub($api_key);
-    $data = $parsehub->getRunData($run_token);
-    $data =  json_decode($data);    // converts json into array of object
-    $webtoons =  $data->webtoon;    // array of objects
-    // print_r($webtoons);
-    return $webtoons;
-}
-
-function printWebtoons($webtoons)
-{
-    foreach ($webtoons as $webtoon) {
-        $project_title = $webtoon->name;
-        $webtoon_url = $webtoon->url;
-        // $webtoon_cover_url = $webtoon->cover;
-        $webtoon_cover_url = isset($webtoon->cover) ? $webtoon->cover : "";
-        echo "<hr>Webtoon Title : $project_title<br>Webtoon URL : $webtoon_url<br>Webtoon Cover URL : $webtoon_cover_url<br>";
-        if (isset($webtoon->chapter)) {
-            for ($i = 0; $i < count($webtoon->chapter); $i++) {
-                $chapter[$i] = $webtoon->chapter[$i]->name;
-                $chapter_url[$i] = $webtoon->chapter[$i]->url;
-                echo "$chapter[$i] : $chapter_url[$i]<br>";
-            }
-        }
-    }
-}
-
-function deleteRun($api_key, $run_token)
-{
-    $parsehub = new Parsehub($api_key);
-    $delete_run = $parsehub->deleteProjectRun($run_token);
-    // var_dump($delete_run);
-}
-
 $api_key = "tGxzjnY4_xe_";
 $parsehub = new Parsehub($api_key);
+
+require_once "functions.php";
+
 
 
 $projectList = $parsehub->getProjectList();
@@ -120,7 +62,7 @@ for ($i = 0; $i < $total_projects; $i++) {
             $webtoons =   getRunData($api_key, $run_token);    // array of objects
 
             // print webtoon details
-            printWebtoons($webtoons);
+            // printWebtoons($webtoons);
 
             // Delete a parsehub project run
             deleteRun($api_key, $run_token);
