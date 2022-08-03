@@ -4,7 +4,8 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "webtoon_world";
+// $database = "webtoon_world";
+$database = "webtoon_world2";
 
 // Create a connection
 $conn = mysqli_connect($servername, $username, $password, $database);

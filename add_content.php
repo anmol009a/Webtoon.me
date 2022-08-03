@@ -1,12 +1,9 @@
 <?php
-include "partials/_dbconnect.php";
-include "functions.php";
-include "regex.php";    // get regular expressions
+define("DIR","C://xampp//htdocs//Webtoon.me");
+// $dir = "C://xampp//htdocs//Webtoon.me";
 
-// reaperscans
-include "content/add_webtoons.php";    
-include "content/add_chapters.php";    
+// require_once $dir . "/webtoon_scrapper/webtoon_scrapper.php";
+// require_once $dir . "/webtoon_scrapper/add_webtoon_details.php";
+require_once DIR . "/functions.php";
 
-// asurascans
-include "content/a_s_add_webtoons.php";    
-include "content/a_s_add_chapters.php";    
+insertWebtoons();
