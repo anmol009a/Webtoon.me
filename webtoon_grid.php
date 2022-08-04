@@ -1,6 +1,7 @@
 <?php
-include "partials/_dbconnect.php";
-include "functions.php";
+$dir = "C://xampp//htdocs//Webtoon.me//";
+include $dir . "partials/_dbconnect.php";
+include $dir . "functions.php";
 
 
 // fetching webtoon record if exits with w_id

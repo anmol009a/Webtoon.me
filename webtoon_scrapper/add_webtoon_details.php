@@ -8,7 +8,7 @@
 $stmt5 = $conn->prepare("UPDATE `webtoons` SET `last_mod` = CURRENT_TIMESTAMP WHERE `webtoons`.`w_id` = ?");
 $stmt5->bind_param("i", $webtoon_id);
 
-$stmt4 = $conn->prepare("SELECT w_id FROM webtoons WHERE w_title = ?");
+$stmt4 = $conn->prepare("SELECT w_id, cover_url FROM webtoon_details WHERE w_title = ?");
 $stmt4->bind_param("s", $webtoon_title);
 
 // insert webtoon into db
@@ -54,13 +54,22 @@ foreach ($webtoons as $webtoon) {
         echo "<br>";
 
         $webtoon_id = $row['w_id']; // fetch w_id 
+        $cover_url = $row['cover_url']; // fetch cover_url 
 
         try {
             // update cover details
-            $result = $stmt11->execute();
-            if ($result) {
-                echo "Updated cover details : " . $webtoon_cover_url;
-                echo "<br>";
+            if ($cover_url) {
+                $result = $stmt11->execute();
+                if ($result) {
+                    echo "Updated cover details : " . $webtoon_cover_url;
+                    echo "<br>";
+                }
+            }else{
+                $result = $stmt3->execute();    // insert cover details
+                if ($result) {
+                    echo "Inserted cover details : " . $webtoon_cover_url;
+                    echo "<br>";
+                }
             }
 
             if (isset($webtoon->chapter)) {

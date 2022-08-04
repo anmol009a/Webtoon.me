@@ -29,7 +29,7 @@
                         <a class="nav-link disabled">Disabled</a>
                     </li>
                 </ul>
-                <form class="d-flex" role="search">
+                <form action="search_results.php" class="d-flex" role="search" target="_blank">
                     <input class="form-control me-2" type="search" name="s" placeholder="Search" aria-label="Search">
                     <button class="btn btn-outline-success" type="submit">Search</button>
                 </form>
