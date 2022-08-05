@@ -4,7 +4,7 @@
 <head>
     <?php
     include "partials/_header.php";
-    ?>    
+    ?>
 </head>
 
 <body>
@@ -12,7 +12,7 @@
     <?php
     include "partials/_navbar.php";
     ?>
-    
+
     <!-- Latest Comics -->
     <div class="container pt-2">
         <h2 class="text-center">Latest Comics</h2>
@@ -24,6 +24,9 @@
             include "webtoon_grid.php";
             ?>
         </div>
+
+        <button id="load-more-btn" type="submit" value=""></button>
+
     </div>
 
     <?php include "partials/_footer.php"; ?>

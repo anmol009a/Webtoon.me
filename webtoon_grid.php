@@ -9,8 +9,16 @@ $stmt = $conn->prepare("SELECT * FROM `chapters` WHERE `w_id`= ? ORDER BY `c_no`
 $stmt->bind_param("i", $webtoon_id);
 
 
+// pagination
+$offset = isset($_GET['p']) ? $_GET['p'] * 30 : 0;
+if ($offset) {
+    $sql = "SELECT w_id, w_title, w_link, cover_path from `webtoon_details` ORDER BY `last_mod` DESC LIMIT 30 OFFSET $offset";
+} else {
+    $sql = "SELECT w_id, w_title, w_link, cover_path from `webtoon_details` ORDER BY `last_mod` DESC LIMIT 30";
+}
+
+
 // $sql = "SELECT * FROM `webtoons`";
-$sql = "SELECT w_id, w_title, w_link, cover_path from `webtoon_details` ORDER BY `last_mod` DESC LIMIT 30";
 $result = mysqli_query($conn, $sql);
 
 
