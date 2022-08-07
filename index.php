@@ -25,7 +25,7 @@
             ?>
         </div>
 
-        <button id="load-more-btn" type="submit" value=""></button>
+        <a href="index.php" id="load-more-btn" class="btn btn-outline-dark" type="submit" name="p" value="1">Load More</a>
 
     </div>
 
