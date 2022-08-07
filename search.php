@@ -1,22 +1,25 @@
 <?php
-include "partials/_dbconnect.php";
 
-$noresults = true;
+$dir = "C://xampp//htdocs//Webtoon.me//";
+include $dir . "partials/_dbconnect.php";
+include $dir . "functions.php";
 
-$searchString = $_GET['s'];
+$no_results = true;
+
+$search_string = $_GET['s'];
 
 $website_url = 'https://www.webtoon.xyz/read/';
 
 
-$sql = "SELECT * FROM `webtoons` WHERE `title` LIKE '%$searchString%' ORDER BY `lastUpdated` DESC LIMIT 6";
+$sql = "SELECT * FROM `webtoons` WHERE `w_title` LIKE '%$search_string%' ORDER BY `last_mod` LIMIT 6";
 $result = mysqli_query($conn, $sql);
 
 echo '<ul class="list-group">';
 while ($row = mysqli_fetch_assoc($result)) {
-    $webtoon_title = $row['title'];
     $noresults = false;
+    $webtoon_title = $row['w_title'];
+    $webtoon_url = $row['w_link'];
 
-    $webtoon_url = $website_url . str_replace(" ", "-", $webtoon_title) . '/';
 
 
     // Display the search result

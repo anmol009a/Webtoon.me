@@ -1,142 +1,106 @@
 <?php
-include 'partials/_dbconnect.php';
+$dir = "C://xampp//htdocs//Webtoon.me//";
+include $dir . 'partials/_dbconnect.php';
+include $dir . 'functions.php';
 ?>
 
 <!doctype html>
 <html lang="en">
 
 <head>
-    <?php include 'partials/_header.php'; ?>
+    <?php include $dir . 'partials/_header.php'; ?>
 </head>
 
-<body class="bg-dark text-light">
+<body>
 
     <!-- Navbar -->
-    <?php include 'partials/_navbar.php'; ?>
+    <?php include $dir . 'partials/_navbar.php'; ?>
 
-    <div class="container my-3">
-
-        <h3>Search Results</h3>
+    <!-- Search Results -->
+    <div class="container pt-2">
+        <h2 class="text-center">Search Results</h2>
         <hr>
-
         <!--  -->
-        <!-- webtoons grid -->
-        <div id="webtoon-container" class="row row-cols-2  row-cols-md-4 row-cols-xl-4">
+        <div class="post-listing row row-cols-2 row-cols-md-4 row-cols-lg-6">
             <?php
+            $searchString = $_GET['s'];
             $noresults = true;
 
-            $searchString = $_GET['s'];
-            // echo $searchString;
+            // fetching webtoon record if exits with w_id
+            $stmt = $conn->prepare("SELECT * FROM `chapters` WHERE `w_id`= ? ORDER BY `c_no` DESC LIMIT 2");
+            $stmt->bind_param("i", $webtoon_id);
 
-            $website_url = 'https://www.webtoon.xyz/read/';
 
-
-            $sql = "SELECT * FROM `webtoons` WHERE `title` LIKE '%$searchString%' ORDER BY `lastUpdated` DESC LIMIT 20";
+            $sql = "SELECT * FROM `webtoon_details` WHERE `w_title` LIKE '%$searchString%' ORDER BY `last_mod` DESC LIMIT 30";
             $result = mysqli_query($conn, $sql);
-
-            // ==========================================================
-            // reading img files in a directory
-            $webtoon_cover_dir = 'C:\xampp\htdocs\webtoonworld.xyz\img\cover\\';
-            $webtoon_covers = scandir($webtoon_cover_dir); // produces an array of files
-
-            $webtoon_cover_dir = 'img/cover/';
-            // img sizes
-            $webtoon_cover_sizes = ['-209x300.jpg', '-208x300.jpg', '-193x278.jpg', '-175x238.jpg', '-125x180.jpg', '-110x150.jpg',  '-110x150.jpg'];
-
-            $website_url = 'https://www.webtoon.xyz/read/';
 
             // loop to print webtoons
             while ($row = mysqli_fetch_assoc($result)) {
-                $webtoon_title = $row['title'];
-                // slicing title if too large
-                // if (strlen($webtoon_title) > 30) {
-                //     $webtoon_title = substr($webtoon_title, 0, 32) . '...';
-                // }
+                $webtoon_id = $row['w_id'];
+                $webtoon_title = $row['w_title'];
+                $webtoon_link = $row['w_link'];
+                $cover_path = $row['cover_path'];
 
-                // 
-                $webtoon_chapter1 = (int)$row['chapters'];
-                $webtoon_chapter2 = $webtoon_chapter1 - 1;
 
-                // 
-                $webtoon_url = $website_url . str_replace(" ", "-", $webtoon_title) . '/';
-                $webtoon_chapter_url = $webtoon_url . 'chapter-';
+                // code to display webtoons
+                echo '
+                    <div class="post-item-details col mb-5">
+                        <div class="container-post-img">
+                            <a href="' . $webtoon_link . '" target="_blank" title="' . $webtoon_title . '">
+                                <img class="post-img" src="' . $cover_path . '" alt="' . $webtoon_title . '">
+                            </a>
+                        </div>
+                        <div class="post-details">
+                            <div class="container-post-title mt-2">
+                                <h5 class="post-title">
+                                    <a href="' . $webtoon_link . '" target="_blank">' . $webtoon_title . '
+                                    </a>
+                                </h5>
+                            </div>
+                        <div class="chapter-list">';
 
-                if (isset($row['webtoon_url'])) {
-                    $webtoon_url = $row['webtoon_url'];
-                    // $webtoon_chapter1 = $row['chapter1'];
-                    // $webtoon_chapter2 = $row['chapter2'];
-                }
+                // fetching chapter details
+                $stmt->execute();
+                $result2 = $stmt->get_result();
+                for ($i = 0; $i < 2; $i++) {
+                    $row2 = $result2->fetch_assoc();
+                    if ($row2) {
 
-                $webtoon_cover_title = str_replace(" ", "-", $webtoon_title);
-                $webtoon_cover_source = $webtoon_cover_dir . $webtoon_cover_title . '-175x238.jpg';
+                        $chapter_name[$i] = isset($row2['c_name']) ? $row2['c_name'] : $row2['c_no'];
+                        $chapter_link[$i] = $row2['c_link'];
 
-                $k = 0;
-                while ($k < count($webtoon_cover_sizes)) {
+                        // ---------------------------------------------------------------------------------
+                        $c_posted_on[$i] = new DateTime($row2['c_posted_on'], new DateTimeZone('Asia/Kolkata'));  // convert the string to a date variable
+                        $current_date = new DATETIME("now", new DateTimeZone('Asia/Kolkata'));  // Current Date
 
-                    if (in_array($webtoon_cover_title . $webtoon_cover_sizes[$k], $webtoon_covers, 0)) {
-                        $webtoon_cover_source = $webtoon_cover_dir . $webtoon_cover_title . $webtoon_cover_sizes[$k];
-                        $k = count($webtoon_cover_sizes);
+                        $interval[$i] = post_date_format($current_date, $c_posted_on[$i]);
+
+                        echo '
+                            <div class="chapter-item mt-2">
+                                <span>
+                                    <a href="' . $chapter_link[$i] . '" target="_blank">
+                                        <button type="button" class="btn btn-outline-dark chapter-btn">' . $chapter_name[$i] . '</button>
+                                    </a>
+                                </span>
+                                <span class="post-on">' . $interval[$i] . '</span>
+                            </div>';
                     }
-                    $k++;
                 }
 
-                // ---------------------------------------------------------------------------------
-                // DATE-TIME
-                // DateTime.$lastUpdated = DateTime.Parse($row['lastUpdatd']);  ||| not works
 
-                $lastUpdated = new DateTime($row['lastUpdated']);       // Last Updated || convert the string to a date variable
-                $currentDate = new DATETIME(date("Y-m-d H:i:s"));     // Current Date
-
-                $interval = $lastUpdated->diff($currentDate);   // Calculate the difference
-                $interval = $interval->format('%a'); // +2 days  || very imp: this converts $interval of object type into string;
-
-                // $chaptersUpdated = $row['chaptersUpdated']; // no of chapters updated
-
-                if ($interval < 7) {
-
-                    echo '<div class="col">
-        <div class="webtoon-card">
-    <a href="' . $webtoon_url . '" target="_blank"><img src="' . $webtoon_cover_source . '" class="card-img-top img-fluid" style="width: 160px; border-radius: 3px;" alt="..."></a>        <div class="card-body p-0">
-        <h5 class="card-title fs-6 ms-1 py-2 fw-bold"><a href="' . $webtoon_url . '" class="text-decoration-none text-reset" target="_blank">' . $webtoon_title . '</a></h5>
-        <a href="' . $webtoon_chapter_url . $webtoon_chapter1 . '/" class="btn btn-sm btn-outline-secondary btn-chapter mb-1" target="_blank">Chapter ' . $webtoon_chapter1 . '</a><span class="badge bg-danger ms-2 new-badge">New</span>
-        <a href="' . $webtoon_chapter_url . $webtoon_chapter2 . '/" class="btn btn-sm btn-outline-secondary btn-chapter mb-1" target="_blank">Chapter ' . $webtoon_chapter2 . '</a><span class="badge bg-danger ms-2 new-badge">New</span>
+                echo '
+            </div>
         </div>
-        </div>
-        </div>';
-                } elseif ($interval < 7) {
-
-                    echo '<div class="col">
-        <div class="webtoon-card">
-    <a href="' . $webtoon_url . '" target="_blank"><img src="' . $webtoon_cover_source . '" class="card-img-top img-fluid" style="width: 160px; border-radius: 3px;" alt="..."></a>        <div class="card-body p-0">
-        <h5 class="card-title fs-6 ms-1 py-2 fw-bold"><a href="' . $webtoon_url . '" class="text-decoration-none text-reset" target="_blank">' . $webtoon_title . '</a></h5>
-        <a href="' . $webtoon_chapter_url . $webtoon_chapter1 . '/" class="btn btn-sm btn-outline-secondary btn-chapter mb-1" target="_blank">Chapter ' . $webtoon_chapter1 . '</a><span class="badge bg-danger ms-2 new-badge">New</span>
-        <a href="' . $webtoon_chapter_url . $webtoon_chapter2 . '/" class="btn btn-sm btn-outline-secondary btn-chapter mb-1" target="_blank">Chapter ' . $webtoon_chapter2 . '</a>
-        </div>
-        </div>
-        </div>';
-                } else {
-                    echo '<div class="col">
-        <div class="webtoon-card">
-    <a href="' . $webtoon_url . '" target="_blank"><img src="' . $webtoon_cover_source . '" class="card-img-top img-fluid" style="width: 160px; border-radius: 3px;" alt="..."></a>        <div class="card-body p-0">
-        <h5 class="card-title fs-6 ms-1 py-2 fw-bold"><a href="' . $webtoon_url . '" class="text-decoration-none text-reset" target="_blank">' . $webtoon_title . '</a></h5>
-        <a href="' . $webtoon_chapter_url . $webtoon_chapter1 . '/" class="btn btn-sm btn-outline-secondary btn-chapter mb-1" target="_blank">Chapter ' . $webtoon_chapter1 . '</a>
-        <a href="' . $webtoon_chapter_url . $webtoon_chapter2 . '/" class="btn btn-sm btn-outline-secondary btn-chapter mb-1" target="_blank">Chapter ' . $webtoon_chapter2 . '</a>
-        </div>
-        </div>
-        </div>';
-                }
+    </div>';
             }
+            mysqli_close($conn);
             ?>
         </div>
-
     </div>
-
     <!-- footer -->
     <?php include 'partials/_footer.php'; ?>
-
     <!-- JAVASCRIPT -->
     <?php include 'js/_bootstrap_script.php'; ?>
-
 </body>
 
 </html>
