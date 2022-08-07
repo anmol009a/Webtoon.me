@@ -9,7 +9,7 @@
 <body>
     <a href="add_content.php" target="_blank">Add Content</a>
     <br>
-    <a href="handle_cover.php" target="_blank">Download Covers</a>
+    <a href="webtoon_scrapper/handle_cover.php" target="_blank">Download Covers</a>
     <!-- <a href=""></a> -->
 </body>
 </html>

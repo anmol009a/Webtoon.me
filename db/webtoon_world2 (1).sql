@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 03, 2022 at 04:32 PM
+-- Generation Time: Aug 06, 2022 at 11:03 AM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `chapters` (
-  `c_name` varchar(25) NOT NULL,
+  `c_name` varchar(40) NOT NULL,
   `c_no` int(3) UNSIGNED NOT NULL,
   `c_link` varchar(150) NOT NULL,
   `w_id` int(10) UNSIGNED NOT NULL,
@@ -97,8 +97,9 @@ CREATE TABLE `webtoon_details` (
 `w_id` int(11) unsigned
 ,`w_title` varchar(100)
 ,`w_link` varchar(150)
-,`cover_path` varchar(100)
 ,`last_mod` timestamp
+,`cover_url` varchar(150)
+,`cover_path` varchar(100)
 );
 
 -- --------------------------------------------------------
@@ -117,7 +118,7 @@ CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW 
 --
 DROP TABLE IF EXISTS `webtoon_details`;
 
-CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `webtoon_details`  AS SELECT `webtoons`.`w_id` AS `w_id`, `webtoons`.`w_title` AS `w_title`, `webtoons`.`w_link` AS `w_link`, `covers`.`cover_path` AS `cover_path`, `webtoons`.`last_mod` AS `last_mod` FROM (`webtoons` left join `covers` on(`webtoons`.`w_id` = `covers`.`w_id`))  ;
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `webtoon_details`  AS SELECT `webtoons`.`w_id` AS `w_id`, `webtoons`.`w_title` AS `w_title`, `webtoons`.`w_link` AS `w_link`, `webtoons`.`last_mod` AS `last_mod`, `covers`.`cover_url` AS `cover_url`, `covers`.`cover_path` AS `cover_path` FROM (`webtoons` left join `covers` on(`webtoons`.`w_id` = `covers`.`w_id`))  ;
 
 --
 -- Indexes for dumped tables
