@@ -1,4 +1,5 @@
 img/
+/img/*
 reaperscans.com
 latest-comic
 demo/
