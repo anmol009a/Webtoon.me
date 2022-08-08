@@ -171,7 +171,10 @@
 >>>>>>> front-end
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of e17a986 (first commit)
 [2022-08-07 16:10:57] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"t1Z8TsDsLF8E","project_token":"tTzz7jy-ke4a"}} []
 [2022-08-07 16:11:03] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"t-nbucLVouOi","project_token":"te5OjTswyTb7"}} []
 [2022-08-07 16:18:38] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token t1Z8TsDsLF8E [] []
@@ -184,6 +187,7 @@
 [2022-08-07 16:23:15] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"txbkLgSX4Avv","project_token":"te5OjTswyTb7"}} []
 [2022-08-07 16:27:01] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tsMLOb3uEQYf [] []
 [2022-08-07 16:27:08] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token txbkLgSX4Avv [] []
+<<<<<<< HEAD
 =======
 >>>>>>> e17a986429bf3142b4e2eb305c32907016122624
 [2022-08-05 10:32:53] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tVpMKr2fns0L [] []
@@ -207,3 +211,5 @@
 =======
 >>>>>>> c26a61fb62209f32ad786886cdb880fafbb515dc
 >>>>>>> e17a986429bf3142b4e2eb305c32907016122624
+=======
+>>>>>>> parent of e17a986 (first commit)
