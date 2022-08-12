@@ -21,7 +21,7 @@ while ($row = mysqli_fetch_assoc($result)) {
         $img_ext = '/\.(jpg|jpeg|png|webp)/';
         preg_match($img_ext, $cover_url, $matches);
         $img_ext = $matches[0];
-        $img_path = "img/" . $webtoon_id . $img_ext;
+        $img_path = $dir . "img/" . $webtoon_id . $img_ext;
 
         echo "<hr>";
         echo "Webtoon ID : $webtoon_id<br>";

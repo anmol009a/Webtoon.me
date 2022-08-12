@@ -4,7 +4,7 @@
 
 // fetch webtoon_id with webtoon title
 
-// update w_cover path
+// update last_mod
 $stmt5 = $conn->prepare("UPDATE `webtoons` SET `last_mod` = CURRENT_TIMESTAMP WHERE `webtoons`.`w_id` = ?");
 $stmt5->bind_param("i", $webtoon_id);
 
@@ -25,7 +25,7 @@ $stmt3->bind_param("si", $webtoon_cover_url, $webtoon_id);
 
 // update chapters
 $stmt9 = $conn->prepare("UPDATE `chapters` SET `c_name` = ?, c_no = ?, c_link = ? WHERE `w_id` = ? AND c_no = ?");
-$stmt9->bind_param("sdsid", $chapter_name, $chapter_no, $chapter_url, $webtoon_id,$c_no);
+$stmt9->bind_param("sdsid", $chapter_name, $chapter_no, $chapter_url, $webtoon_id, $c_no);
 
 // update covers
 $stmt11 = $conn->prepare("UPDATE covers SET `cover_url` = ? WHERE `w_id` = ?");
@@ -76,6 +76,8 @@ foreach ($webtoons as $webtoon) {
 
             if (isset($webtoon->chapter)) {
 
+                $chapter_updated = false;
+
                 for ($i = 0; $i < count($webtoon->chapter); $i++) {
                     $chapter_name = $webtoon->chapter[$i]->name;
                     preg_match('/[\d.]{1,4}/', $chapter_name, $matches);
@@ -97,30 +99,29 @@ foreach ($webtoons as $webtoon) {
                         $result = $stmt12->execute();
                         $result = $stmt12->get_result();
                         $row = $result->fetch_assoc();
-                        $c_no = $row['c_no'];
+                        $c_no = isset($row['c_no']) ? $row['c_no'] : false;
 
-                        if ($c_no < $chapter_no - 1) {
-                            $result = $stmt9->execute(); // update chapter into db
-                            if ($result) {
-                                echo "Updated Chapter : $chapter_name";
-                                echo "<br>";
-                                if ($stmt5->execute()) {
-                                    echo "Upadted Last_mod : $webtoon_title";
-                                    echo "<br>";
-                                }
-                            }
-                        } else {
+                        if (!$c_no) {
                             $result = $stmt2->execute(); // insert chapter into db
                             if ($result) {
                                 echo "Inserted Chapter : $chapter_name";
                                 echo "<br>";
-                                if ($stmt5->execute()) {
-                                    echo "Upadted Last_mod : $webtoon_title";
-                                    echo "<br>";
-                                }
+                                $chapter_updated = true;
+                            }
+                        } elseif ($c_no < $chapter_no - 1) {
+                            $result = $stmt9->execute(); // update chapter into db
+                            if ($result) {
+                                echo "Updated Chapter : $chapter_name";
+                                echo "<br>";
+                                $chapter_updated = true;
                             }
                         }
                     }
+                }
+                if ($chapter_updated) {
+                    $stmt5->execute();
+                    echo "Upadted Last_mod : $webtoon_title";
+                    echo "<br>";
                 }
             }
         } catch (Exception $e) {
