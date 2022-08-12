@@ -1,5 +1,0 @@
-img/
-reaperscans.com
-latest-comic
-demo/
-www.reaperscans.com
