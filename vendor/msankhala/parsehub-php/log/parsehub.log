@@ -169,6 +169,27 @@
 [2022-08-04 17:02:34] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"tr5P8fg4nJXu","project_token":"te5OjTswyTb7"}} []
 [2022-08-04 17:03:51] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tCPTT5nemBsf [] []
 >>>>>>> front-end
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of e17a986 (first commit)
+[2022-08-07 16:10:57] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"t1Z8TsDsLF8E","project_token":"tTzz7jy-ke4a"}} []
+[2022-08-07 16:11:03] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"t-nbucLVouOi","project_token":"te5OjTswyTb7"}} []
+[2022-08-07 16:18:38] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token t1Z8TsDsLF8E [] []
+[2022-08-07 16:18:46] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token t-nbucLVouOi [] []
+[2022-08-07 16:18:58] ParsehubLogger.INFO: Project already running on parsehub with same values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"ta-pfnd_8D3b"}} []
+[2022-08-07 16:19:03] ParsehubLogger.INFO: Project already running on parsehub with same values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"tYVGZJhnCbZQ"}} []
+[2022-08-07 16:22:27] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token ta-pfnd_8D3b [] []
+[2022-08-07 16:22:35] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tYVGZJhnCbZQ [] []
+[2022-08-07 16:23:09] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"tsMLOb3uEQYf","project_token":"tTzz7jy-ke4a"}} []
+[2022-08-07 16:23:15] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"txbkLgSX4Avv","project_token":"te5OjTswyTb7"}} []
+[2022-08-07 16:27:01] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tsMLOb3uEQYf [] []
+[2022-08-07 16:27:08] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token txbkLgSX4Avv [] []
+<<<<<<< HEAD
+=======
+>>>>>>> e17a986429bf3142b4e2eb305c32907016122624
 [2022-08-05 10:32:53] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tVpMKr2fns0L [] []
 [2022-08-05 10:32:57] ParsehubLogger.INFO: Project run deleted successfully on parsehub of run_token tE0jER9R5Lfp [] []
 [2022-08-05 15:08:28] ParsehubLogger.INFO: Project run successfully on parsehub with values:  {"context":{"start_url":"","keywords":[],"send_email":0,"run_token":"tvJiP583s3-v","project_token":"tTzz7jy-ke4a"}} []

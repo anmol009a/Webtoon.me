@@ -1,7 +1,7 @@
 <?php
-$dir = "C://xampp//htdocs//Webtoon.me//";
-require_once $dir . "/partials/_dbconnect.php";
-require_once $dir . "/functions.php";
+require_once "partials/_dbconnect.php";
+require_once "functions.php";
+
 
 // update covers
 $stmt12  = $conn->prepare("UPDATE covers SET `cover_path` = ? WHERE `w_id` = ?");
