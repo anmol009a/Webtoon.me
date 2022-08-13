@@ -27,8 +27,8 @@ function post_date_format($baseObject, $targetObject)
 
 function save_img($img_url, $img_name, $img_path)
 {
-    $dir = "C://xampp//htdocs//Webtoon.me//";
-    if (file_put_contents($dir. $img_path, file_get_contents($img_url))) { //check if img link works
+
+    if (file_put_contents(DIR . $img_path, file_get_contents($img_url))) { //check if img link works
         // Function to write image into file
         // storing img
         echo "Img Saved! : $img_name";
@@ -95,7 +95,7 @@ function getRunData($api_key, $run_token)
     $data = $parsehub->getRunData($run_token);
     $data =  json_decode($data);    // converts json into array of object
     // print_r($data);
-    $webtoons =  isset($data) ? $data->webtoon : array();    // array of objects
+    $webtoons =  isset($data) ? $data->webtoon : NULL;    // array of objects
     return $webtoons;
 }
 
@@ -122,13 +122,4 @@ function deleteRun($api_key, $run_token)
     $parsehub = new Parsehub($api_key);
     $delete_run = $parsehub->deleteProjectRun($run_token);
     // var_dump($delete_run);
-}
-
-
-function insertWebtoons()
-{
-    // $dir = "C://xampp//htdocs//Webtoon.me";
-    require_once DIR . "/webtoon_scrapper/webtoon_scrapper.php";
-    require_once DIR . "/webtoon_scrapper/add_webtoon_details.php";
-    require_once DIR . "/webtoon_scrapper/handle_cover.php";
 }
