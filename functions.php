@@ -27,7 +27,8 @@ function post_date_format($baseObject, $targetObject)
 
 function save_img($img_url, $img_name, $img_path)
 {
-    if (file_put_contents($img_path, file_get_contents($img_url))) { //check if img link works
+    $dir = "C://xampp//htdocs//Webtoon.me//";
+    if (file_put_contents($dir. $img_path, file_get_contents($img_url))) { //check if img link works
         // Function to write image into file
         // storing img
         echo "Img Saved! : $img_name";

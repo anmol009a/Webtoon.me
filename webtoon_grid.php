@@ -70,7 +70,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                             <button type="button" class="btn btn-outline-dark chapter-btn">' . $chapter_name[$i] . '</button>
                         </a>
                     </span>
-                    <span class="post-on">' . $interval[$i] . '</span>
+                    <span class="post-on d-block">' . $interval[$i] . '</span>
                 </div>';
         }
     }

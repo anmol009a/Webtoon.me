@@ -18,7 +18,7 @@ while ($row = mysqli_fetch_assoc($result)) {
 
     if ($cover_url) {
 
-        $img_ext = '/\.(jpg|jpeg|png|webp)/';
+        $img_ext = '/\.(jpg|jpeg|png|webp|gif)/';
         preg_match($img_ext, $cover_url, $matches);
         $img_ext = $matches[0];
         $img_path = "img/" . $webtoon_id . $img_ext;
