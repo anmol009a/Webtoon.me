@@ -1,7 +1,7 @@
 <?php
-$dir = "C://xampp//htdocs//Webtoon.me//";
-include $dir . "partials/_dbconnect.php";
-include $dir . "functions.php";
+define("DIR", __DIR__ . "/");
+include DIR . "partials/_dbconnect.php";
+include DIR . "functions.php";
 
 
 // fetching webtoon record if exits with w_id
@@ -54,7 +54,8 @@ while ($row = mysqli_fetch_assoc($result)) {
         $row2 = $result2->fetch_assoc();
         if ($row2) {
 
-            $chapter_name[$i] = isset($row2['c_name']) ? $row2['c_name'] : $row2['c_no'];
+            // $chapter_name[$i] = isset($row2['c_name']) ? $row2['c_name'] : $row2['c_no'];
+            $chapter_no[$i] = "Chapter " . $row2['c_no'];
             $chapter_link[$i] = $row2['c_link'];
 
             // ---------------------------------------------------------------------------------
@@ -67,7 +68,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                 <div class="chapter-item mt-2">
                     <span>
                         <a href="' . $chapter_link[$i] . '" target="_blank">
-                            <button type="button" class="btn btn-outline-dark chapter-btn">' . $chapter_name[$i] . '</button>
+                            <button type="button" class="btn btn-outline-dark chapter-btn overflow-hidden">' . $chapter_no[$i] . '</button>
                         </a>
                     </span>
                     <span class="post-on d-block">' . $interval[$i] . '</span>
