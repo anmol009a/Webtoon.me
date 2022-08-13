@@ -1,6 +1,6 @@
 <?php
-require_once DIR . "/partials/_dbconnect.php";
-require_once DIR . "/functions.php";
+require_once DIR . "partials/_dbconnect.php";
+require_once DIR . "functions.php";
 
 // insert parserHub project into db
 $stmt = $conn->prepare("INSERT INTO parser_hub (`p_title`, `p_token`, `run_token`, `run_status`) VALUES (?,?,?,?)");
@@ -14,17 +14,16 @@ $stmt1->bind_param("sss", $run_token, $run_status, $project_title);
 $stmt2 = $conn->prepare("SELECT run_token, run_status FROM parser_hub WHERE p_title = ?");
 $stmt2->bind_param("s", $project_title);
 
-require_once DIR . '/vendor/autoload.php';
+require_once DIR . 'vendor/autoload.php';
 
 use Parsehub\Parsehub;
 
 
+// declaring api key
 $api_key = "tGxzjnY4_xe_";
 $parsehub = new Parsehub($api_key);
 
-
-
-
+// fetching projects
 $projectList = $parsehub->getProjectList();
 $projectList =  json_encode((array)$projectList);
 $projectList =  json_decode($projectList);
@@ -36,6 +35,7 @@ echo "<br>";
 echo "Project Details";
 echo "<br>";
 
+$webtoons = array();   // intializing var for webtoon data
 for ($i = 0; $i < $total_projects; $i++) {
     $project_title = $projects[$i]->title;
     $project_token = $projects[$i]->token;
@@ -46,7 +46,7 @@ for ($i = 0; $i < $total_projects; $i++) {
     echo "<hr>";
 
     // fetch project record with project title
-    $stmt2->execute();
+    $stmt2->execute() or die($stmt2->error);
     $result = $stmt2->get_result();
     $row = $result->fetch_assoc();
     if ($row) {
@@ -74,7 +74,7 @@ for ($i = 0; $i < $total_projects; $i++) {
             $run_status = checkRunStatus($api_key, $run_token);
 
             // update run_token into DB
-            $result = $stmt1->execute(); // insert project into db
+            $result = $stmt1->execute() or die($stmt1->error);  // insert project into db
             if ($result) {
                 echo "Updated project: " . $project_title;
                 echo "<br>";
@@ -93,9 +93,9 @@ for ($i = 0; $i < $total_projects; $i++) {
         $run_status = checkRunStatus($api_key, $run_token);
 
         // insert project into DB
-        $result = $stmt->execute(); // insert project into db
+        $result = $stmt->execute() or die($stmt->error); // insert project into db
         if ($result) {
-            echo "Updated project: " . $project_title;
+            echo "Inserted project: " . $project_title;
             echo "<br>";
         } else {
             echo "Failed to Update project : $project_title || " . mysqli_error($conn);

@@ -4,3 +4,4 @@ demo/
 
 # ignore ALL .log files
 *.log
+1.php
