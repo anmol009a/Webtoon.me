@@ -1,8 +1,6 @@
-1.php
 /vendor
-/img
-/webtoon_crud_php
-/webtoon_parser_php
-/demo
-token.txt
-temp.php
+counter.txt
+config.php
+config2.php
+test.php
+webtoon_world.rar

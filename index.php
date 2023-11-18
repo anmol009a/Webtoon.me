@@ -1,6 +1,6 @@
 <?php
-session_start();
-
+require_once 'visit_counter.php';
+require_once 'config.php';
 ?>
 
 <!doctype html>
@@ -8,50 +8,56 @@ session_start();
 
 <head>
     <?php
-    include "partials/_header.php";
+    include "component/header.php";
     ?>
-    <title>Webtoon World</title>
+    <title>
+        <?= WEBSITE_TITLE ?>
+    </title>
+
 </head>
 
 <body>
     <!-- Navbar -->
     <?php
-    include "partials/_navbar.php";
+    include "component/navbar.php";
     ?>
 
     <!-- about us -->
     <section class="container pt-5">
-        <h2>Welcome to WebtoonWorld!</h2>
-        <?php
-        if (isset($_SESSION['loggedin'])) {
-            echo "<p>You are logged in as <b>";
-            echo $_SESSION['username'] . ".</b></p>";
-        }
-        ?>
-
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore maxime nobis expedita omnis facere aperiam consequuntur, excepturi, modi, porro natus hic amet odit facilis quasi labore alias! Sunt vero quisquam, laborum eum molestiae nemo in neque adipisci, suscipit maiores repellendus veritatis. Nisi reprehenderit officia ipsum facilis voluptatem ratione, quaerat praesentium!</p>
+        <h2>Welcome to <?= WEBSITE_TITLE ?></h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore maxime nobis expedita omnis facere
+            aperiam consequuntur, excepturi, modi, porro natus hic amet odit facilis quasi labore alias! Sunt vero
+            quisquam, laborum eum molestiae nemo in neque adipisci, suscipit maiores repellendus veritatis. Nisi
+            reprehenderit officia ipsum facilis voluptatem ratione, quaerat praesentium!
+        </p>
     </section>
+
+    <?php
+
+    require_once 'config.php';
+    require_once __DIR__ . '/vendor/autoload.php';
+
+    use Anmol\Webtoon\Crud\WebtoonCrud;
+
+    // create an object of WebtoonCrud Class
+    $db = new WebtoonCrud(DB_SERVER_NAME, DB_USER_NAME, DB_PASSWORD, DB_NAME);
+    $webtoons = $db->getWebtoons();
+    ?>
     <!-- Latest Comics -->
-    <div class="container pt-2">
-        <h2 class="text-center">Latest Comics</h2>
+    <div class="container">
+        <h2>Latest Webtoons</h2>
         <hr>
-        <!--  -->
-        <div id="post-listing" class="row row-cols-2 row-cols-md-3 row-cols-lg-6">
-            <!--  -->
-            <?php
-            include "webtoon_grid.php";
-            ?>
-        </div>
-
-        <button id="load-more-btn" class="btn btn-dark w-100" type="button">Load More</button>
-
+        <?php
+        foreach ($webtoons as $webtoon)
+            include './component/webtoon.php';
+        ?>
     </div>
 
+    <?php include "component/scroll_to_top_btn.php"; ?>
+
     <!-- footer -->
-    <?php include "partials/_footer.php"; ?>
+    <?php include "component/footer.php"; ?>
 </body>
 
-<script src="js/script.js"></script>
-<script src="js/add_to_favourite.js"></script>
 
 </html>

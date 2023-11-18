@@ -1,24 +1,28 @@
 {
-  "name": "anmol/webtoon",
+  "name": "anmol/webcomics",
+  "type": "project",
+  "require": {
+    "msankhala/parsehub-php": "dev-master"
+  },
+  "require-dev": {
+    "msankhala/parsehub-php": "dev-master",
+    "phpunit/phpunit": "10"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/anmol009a/parsehub-php"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Anmol\\Webtoon\\": "src/"
+    }
+  },
   "authors": [
     {
       "name": "Anmol Sharma",
       "email": "anmolsharma009a@gmail.com"
     }
-  ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/anmol009a/WebtoonCrud"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/anmol009a/WebtoonParser"
-    }
-  ],
-  "require": {
-    "anmol/webtoon-crud": "dev-master",
-    "anmol/webtoon-parser": "dev-master"
-  },
-  "minimum-stability": "dev"
+  ]
 }

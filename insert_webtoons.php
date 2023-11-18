@@ -1,31 +1,39 @@
 <?php
 
 require_once __DIR__ . '/vendor/autoload.php';
+require_once 'config.php';
 
-use Anmol\WebtoonParser\WebtoonParser;
-use Anmol\WebtoonCrud\WebtoonCrud;
+use Anmol\Webtoon\Crud\WebtoonCrud;
+use Anmol\Webtoon\Parser\WebtoonParser;
 
 
 // create an object of WebtoonParser Class
-const api_key = 'tGxzjnY4_xe_';
-$api = new WebtoonParser(api_key);
+$webtoonParser = new WebtoonParser(API_KEY);
 
-//  fetch all webtoon runs data
-$webtoon_data = $api->get_all_webtoon_run_data();
+// get last ready run
+$last_ready_run = $webtoonParser->getProject(PROJECT_TOKEN)->last_ready_run;
 
-// delete webtoon runs
-$api->delete_all_webtoon_run();
+// check if run ready
+if (!isset($last_ready_run))
+    die("No run ready.");
+
+//  fetch webtoon run data
+$webtoon_data = $webtoonParser->getLastReadyRunData(PROJECT_TOKEN);
+
+// delete webtoon run
+$webtoonParser->deleteProjectRun($last_ready_run->run_token);
+
+// check if webtoon data present
+if (!isset($webtoon_data->webtoons))
+    die("No Data.");
 
 // start new webtoon runs
-$api->run_all_webtoon_projects();
-
-// connect to db
-require_once './partials/_dbconnect.php';
+$webtoonParser->runProject(PROJECT_TOKEN);
 
 // create an object of WebtoonCrud Class
-$db = new WebtoonCrud($conn);
+$db = new WebtoonCrud(DB_SERVER_NAME, DB_USER_NAME, DB_PASSWORD, DB_NAME);
 
 // insert or update webtoon data
-$db->insert_webtoons_data($webtoon_data);
+$db->insertAllWebtoonData($webtoon_data->webtoons);
 
-echo "end";
+echo "insert end";
