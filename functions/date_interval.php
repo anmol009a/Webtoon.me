@@ -1,13 +1,13 @@
 <?php
 
-function post_date_format($baseObject, $targetObject)
+function post_date_format(DateTime $baseObject, DateTime $targetObject):string
 {
     $interval = date_diff($baseObject, $targetObject);    // Calculate the difference
 
     // interval format decider
     if ($interval->format('%d') > 8) {    // if days > 8, print date
         $interval = date_format($targetObject, "M d, Y");
-    } elseif ($interval->format('%d') < 8) {    // calculate days
+    } elseif ($interval->format('%d') > 0 ) {    // calculate days
         $interval = $interval->format('%d days ago');
         echo "<br>";
     } elseif ($interval->format('%h')) {    // calculate hours

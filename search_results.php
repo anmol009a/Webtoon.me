@@ -1,20 +1,14 @@
-<?php
-$dir = "C://xampp//htdocs//Webtoon.me//";
-include $dir . 'partials/_dbconnect.php';
-include $dir . 'functions.php';
-?>
-
 <!doctype html>
 <html lang="en">
 
 <head>
-    <?php include $dir . 'partials/_header.php'; ?>
+    <?php include './partials/_header.php'; ?>
 </head>
 
 <body>
 
     <!-- Navbar -->
-    <?php include $dir . 'partials/_navbar.php'; ?>
+    <?php include './partials/_navbar.php'; ?>
 
     <!-- Search Results -->
     <div class="container pt-2">
@@ -23,84 +17,81 @@ include $dir . 'functions.php';
         <!--  -->
         <div class="post-listing row row-cols-2 row-cols-md-4 row-cols-lg-6">
             <?php
+            require_once './partials/_dbconnect.php';
+            include_once './webtoon_crud_php/src/WebtoonCrud.php';
+            include_once './functions.php';
+
+            use WebtoonCrud\WebtoonCrud;
+
             $searchString = $_GET['s'];
-            $noresults = true;
 
-            // fetching webtoon record if exits with w_id
-            $stmt = $conn->prepare("SELECT * FROM `chapters` WHERE `w_id`= ? ORDER BY `c_no` DESC LIMIT 2");
-            $stmt->bind_param("i", $webtoon_id);
+            // initialize crud operations
+            $webtoon_crud = new WebtoonCrud($conn);
 
-
-            $sql = "SELECT * FROM `webtoon_details` WHERE `w_title` LIKE '%$searchString%' ORDER BY `last_mod` DESC LIMIT 30";
-            $result = mysqli_query($conn, $sql);
-
-            // loop to print webtoons
-            while ($row = mysqli_fetch_assoc($result)) {
-                $webtoon_id = $row['w_id'];
-                $webtoon_title = $row['w_title'];
-                $webtoon_link = $row['w_link'];
-                $cover_path = $row['cover_path'];
+            // get webtoons data with 2 chapters
+            $webtoons = $webtoon_crud->search_webtoon($searchString, 30);
 
 
-                // code to display webtoons
-                echo '
+            if (isset($webtoons[0])) {
+                // loop to print webtoons
+                foreach ($webtoons as $webtoon) {
+                    $webtoon_id     =   $webtoon->id;
+                    $webtoon_title  =   $webtoon->title;
+                    $webtoon_url    =   $webtoon->url;
+                    $cover_url      =   $webtoon->cover_url;
+                    $chapters       =   $webtoon->chapters;
+
+                    // code to display webtoons
+                    echo '
                     <div class="post-item-details col mb-5">
                         <div class="container-post-img">
-                            <a href="' . $webtoon_link . '" target="_blank" title="' . $webtoon_title . '">
-                                <img class="post-img" src="' . $cover_path . '" alt="' . $webtoon_title . '">
+                            <a href="' . $webtoon_url . '" target="_blank" title="' . $webtoon_title . '">
+                                <img class="post-img" src="' . $cover_url . '" alt="' . $webtoon_title . '">
                             </a>
                         </div>
                         <div class="post-details">
                             <div class="container-post-title mt-2">
                                 <h5 class="post-title">
-                                    <a href="' . $webtoon_link . '" target="_blank">' . $webtoon_title . '
+                                    <a href="' . $webtoon_url . '" target="_blank">' . $webtoon_title . '
                                     </a>
                                 </h5>
                             </div>
-                        <div class="chapter-list">';
+                            <div class="chapter-list">';
 
-                // fetching chapter details
-                $stmt->execute();
-                $result2 = $stmt->get_result();
-                for ($i = 0; $i < 2; $i++) {
-                    $row2 = $result2->fetch_assoc();
-                    if ($row2) {
-
-                        $chapter_name[$i] = isset($row2['c_name']) ? $row2['c_name'] : $row2['c_no'];
-                        $chapter_link[$i] = $row2['c_link'];
-
+                    foreach ($chapters as $chapter) {
                         // ---------------------------------------------------------------------------------
-                        $c_posted_on[$i] = new DateTime($row2['c_posted_on'], new DateTimeZone('Asia/Kolkata'));  // convert the string to a date variable
-                        $current_date = new DATETIME("now", new DateTimeZone('Asia/Kolkata'));  // Current Date
+                        $chapter_created_at = new DateTime($chapter->created_at);  // convert the string to a date variable
+                        $current_date = new DATETIME("now");  // Current Date
 
-                        $interval[$i] = post_date_format($current_date, $c_posted_on[$i]);
+                        $interval = post_date_format($current_date, $chapter_created_at);
 
                         echo '
-                            <div class="chapter-item mt-2">
-                                <span>
-                                    <a href="' . $chapter_link[$i] . '" target="_blank">
-                                        <button type="button" class="btn btn-outline-dark chapter-btn">' . $chapter_name[$i] . '</button>
-                                    </a>
-                                </span>
-                                <span class="post-on">' . $interval[$i] . '</span>
-                            </div>';
+                                <div class="chapter-item mt-2">
+                                    <span>
+                                        <a href="' . $chapter->url . '" target="_blank">
+                                            <button type="button" class="btn btn-outline-dark chapter-btn overflow-hidden">Chapter' . $chapter->number . '</button>
+                                        </a>
+                                    </span>
+                                    <span class="post-on d-block">' .  $interval . '</span>
+                                </div>';
                     }
+
+                    echo '
+                            </div>
+                        </div>
+                    </div>';
                 }
-
-
-                echo '
-            </div>
-        </div>
-    </div>';
+            } else {
+                echo "No Webtoons found for '$searchString'";
             }
-            mysqli_close($conn);
             ?>
         </div>
     </div>
+    
     <!-- footer -->
-    <?php include 'partials/_footer.php'; ?>
+    <?php include './partials/_footer.php'; ?>
     <!-- JAVASCRIPT -->
-    <?php include 'js/_bootstrap_script.php'; ?>
+    <?php include './js/_bootstrap_script.php'; ?>
 </body>
 
 </html>

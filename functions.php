@@ -1,9 +1,5 @@
 <?php
 
-require_once __DIR__ . '/vendor/autoload.php';
-
-use Parsehub\Parsehub;
-
 
 function post_date_format($baseObject, $targetObject)
 {
@@ -28,7 +24,7 @@ function post_date_format($baseObject, $targetObject)
 function save_img($img_url, $img_name, $img_path)
 {
 
-    if (file_put_contents(DIR . $img_path, file_get_contents($img_url))) { //check if img link works
+    if (file_put_contents($img_path, file_get_contents($img_url))) { //check if img link works
         // Function to write image into file
         // storing img
         echo "Img Saved! : $img_name";

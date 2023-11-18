@@ -1,7 +1,8 @@
-# ignore ALL files in ANY directory named temp
-img/
-demo/
-
-# ignore ALL .log files
-*.log
 1.php
+/vendor
+/img
+/webtoon_crud_php
+/webtoon_parser_php
+/demo
+token.txt
+temp.php

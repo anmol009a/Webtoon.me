@@ -1,0 +1,24 @@
+{
+  "name": "anmol/webtoon",
+  "authors": [
+    {
+      "name": "Anmol Sharma",
+      "email": "anmolsharma009a@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/anmol009a/WebtoonCrud"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/anmol009a/WebtoonParser"
+    }
+  ],
+  "require": {
+    "anmol/webtoon-crud": "dev-master",
+    "anmol/webtoon-parser": "dev-master"
+  },
+  "minimum-stability": "dev"
+}

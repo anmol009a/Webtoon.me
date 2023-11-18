@@ -1,84 +1,78 @@
 <?php
-define("DIR", __DIR__ . "/");
-include DIR . "partials/_dbconnect.php";
-include DIR . "functions.php";
+// set timezone
+date_default_timezone_set("Asia/Kolkata");
 
+require_once __DIR__ . '/vendor/autoload.php';
 
-// fetching webtoon record if exits with w_id
-$stmt = $conn->prepare("SELECT * FROM `chapters` WHERE `w_id`= ? ORDER BY `c_no` DESC LIMIT 2");
-$stmt->bind_param("i", $webtoon_id);
+use Anmol\WebtoonCrud\WebtoonCrud;
 
+include './functions.php';
+
+// connect to db
+include './partials/_dbconnect.php';
 
 // pagination
 $offset = isset($_GET['p']) ? $_GET['p'] * 30 : 0;
-if ($offset) {
-    $sql = "SELECT w_id, w_title, w_link, cover_path from `webtoon_details` ORDER BY `last_mod` DESC LIMIT 30 OFFSET $offset";
-} else {
-    $sql = "SELECT w_id, w_title, w_link, cover_path from `webtoon_details` ORDER BY `last_mod` DESC LIMIT 30";
-}
 
+// initialize crud operations
+$webtoon_crud = new WebtoonCrud($conn);
 
-// $sql = "SELECT * FROM `webtoons`";
-$result = mysqli_query($conn, $sql);
-
+// get webtoons data with 2 chapters
+$webtoons = $webtoon_crud->get_webtoons(30, $offset);
 
 // loop to print webtoons
-while ($row = mysqli_fetch_assoc($result)) {
-    $webtoon_id = $row['w_id'];
-    $webtoon_title = $row['w_title'];
-    $webtoon_link = $row['w_link'];
-    $cover_path = $row['cover_path'];
-
+foreach ($webtoons as $webtoon) {
+    $webtoon_id     =   $webtoon->id;
+    $webtoon_title  =   $webtoon->title;
+    $webtoon_url    =   $webtoon->url;
+    $cover_url      =   $webtoon->cover_url;
 
     // code to display webtoons
     echo '
-    <div class="post-item-details col mb-5">
-        <div class="container-post-img">
-            <a href="' . $webtoon_link . '" target="_blank" title="' . $webtoon_title . '">
-                <img class="post-img" src="' . $cover_path . '" alt="' . $webtoon_title . '">
-            </a>
-        </div>
-        <div class="post-details">
-            <div class="container-post-title mt-2">
-                <h5 class="post-title">
-                    <a href="' . $webtoon_link . '" target="_blank">' . $webtoon_title . '
-                    </a>
-                </h5>
+        <div id="w-' . $webtoon->id . '" class="post-item-details col mb-5">
+            <div class="container-post-img">';
+    if (isset($_SESSION['loggedin'])) {
+        echo '
+                <button id="btn-' . $webtoon->id . '" onclick="addToFavourite(this.id)" type="button" class="badge bg-success position-absolute">Fav</button>';
+    }
+
+    echo '
+                <a href="' . $webtoon->url . '" target="_blank" title="' . $webtoon->title . '">
+                        <img class="post-img" src="' . $cover_url . '" alt="' . $webtoon->title . '">
+                </a>
             </div>
-        <div class="chapter-list">';
-
-    // fetching chapter details
-    $stmt->execute();
-    $result2 = $stmt->get_result();
-    for ($i = 0; $i < 2; $i++) {
-        $row2 = $result2->fetch_assoc();
-        if ($row2) {
-
-            // $chapter_name[$i] = isset($row2['c_name']) ? $row2['c_name'] : $row2['c_no'];
-            $chapter_no[$i] = "Chapter " . $row2['c_no'];
-            $chapter_link[$i] = $row2['c_link'];
-
-            // ---------------------------------------------------------------------------------
-            $c_posted_on[$i] = new DateTime($row2['c_posted_on'], new DateTimeZone('Asia/Kolkata'));  // convert the string to a date variable
-            $current_date = new DATETIME("now", new DateTimeZone('Asia/Kolkata'));  // Current Date
-
-            $interval[$i] = post_date_format($current_date, $c_posted_on[$i]);
-
-            echo '
-                <div class="chapter-item mt-2">
-                    <span>
-                        <a href="' . $chapter_link[$i] . '" target="_blank">
-                            <button type="button" class="btn btn-outline-dark chapter-btn overflow-hidden">' . $chapter_no[$i] . '</button>
+            <div class="post-details">
+                <div class="container-post-title mt-2">
+                    <h5 class="post-title">
+                        <a href="' . $webtoon->url . '" target="_blank">' . $webtoon->title . '
                         </a>
-                    </span>
-                    <span class="post-on d-block">' . $interval[$i] . '</span>
-                </div>';
-        }
+                    </h5>
+                </div>
+                <div class="chapter-list">';
+
+
+    foreach ($webtoon->chapters as $chapter) {
+        // ---------------------------------------------------------------------------------
+        // to-do - correctly dislay time
+        $chapter_created_at = new DateTime($chapter->created_at);  // convert the string to a date variable
+        $current_date = new DATETIME("now");  // Current Date
+
+        $interval = post_date_format($current_date, $chapter_created_at);
+
+        echo '
+                    <div class="chapter-item mt-2">
+                        <span>
+                            <a href="' . $chapter->url . '" target="_blank">
+                                <button type="button" class="btn btn-outline-dark chapter-btn overflow-hidden">Chapter ' . $chapter->number . '</button>
+                            </a>
+                        </span>
+                        <span class="post-on d-block">' .  $interval . '</span>
+                    </div>';
     }
 
 
     echo '
+                </div>
             </div>
-        </div>
-    </div>';
+        </div>';
 }
