@@ -120,7 +120,7 @@ class WebtoonCrud extends DatabaseHandler
 	function getWebtoons(int $limit = 30, int $offset = 0): array
 	{
 		// define sql stmt
-		$get_webtoon_sql = "SELECT * FROM webtoon ORDER BY webtoon.updated_at desc;";
+		$get_webtoon_sql = "SELECT * FROM webtoon ORDER BY webtoon.updated_at desc LIMIT $limit;";
 		$get_chapters_sql = "SELECT * FROM webtoon_chapter WHERE webtoon_id = ? ORDER BY webtoon_chapter.number DESC LIMIT 3;";
 
 		// prepare stmt

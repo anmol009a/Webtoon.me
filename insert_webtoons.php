@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 require_once __DIR__ . '/vendor/autoload.php';
 require_once 'config.php';
@@ -36,4 +37,4 @@ $db = new WebtoonCrud(DB_SERVER_NAME, DB_USER_NAME, DB_PASSWORD, DB_NAME);
 // insert or update webtoon data
 $db->insertAllWebtoonData($webtoon_data->webtoons);
 
-echo "insert end";
+print "Insert End";

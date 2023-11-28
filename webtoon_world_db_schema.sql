@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `webtoon`
 --
-
+DROP TABLE IF EXISTS webtoon;
 CREATE TABLE `webtoon` (
   `webtoon_id` bigint(20) UNSIGNED NOT NULL,
   `title` varchar(255) NOT NULL,
@@ -40,11 +40,11 @@ CREATE TABLE `webtoon` (
 --
 -- Table structure for table `webtoon_chapter`
 --
-
+DROP TABLE IF EXISTS webtoon_chapter;
 CREATE TABLE `webtoon_chapter` (
   `chapter_id` bigint(20) UNSIGNED NOT NULL,
   `webtoon_id` bigint(20) UNSIGNED NOT NULL,
-  `title` varchar(255) NOT NULL,
+  `title` varchar(255) DEFAULT NULL,
   `number` decimal(4,1) UNSIGNED NOT NULL,
   `url` varchar(255) NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT current_timestamp(),

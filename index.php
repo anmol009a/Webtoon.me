@@ -1,6 +1,7 @@
 <?php
 require_once 'visit_counter.php';
 require_once 'config.php';
+date_default_timezone_set(TIME_ZONE);
 ?>
 
 <!doctype html>
@@ -8,7 +9,7 @@ require_once 'config.php';
 
 <head>
     <?php
-    include "component/header.php";
+    include "components/header.php";
     ?>
     <title>
         <?= WEBSITE_TITLE ?>
@@ -19,7 +20,7 @@ require_once 'config.php';
 <body>
     <!-- Navbar -->
     <?php
-    include "component/navbar.php";
+    include "components/navbar.php";
     ?>
 
     <!-- about us -->
@@ -32,31 +33,24 @@ require_once 'config.php';
         </p>
     </section>
 
-    <?php
-
-    require_once 'config.php';
-    require_once __DIR__ . '/vendor/autoload.php';
-
-    use Anmol\Webtoon\Crud\WebtoonCrud;
-
-    // create an object of WebtoonCrud Class
-    $db = new WebtoonCrud(DB_SERVER_NAME, DB_USER_NAME, DB_PASSWORD, DB_NAME);
-    $webtoons = $db->getWebtoons();
-    ?>
     <!-- Latest Comics -->
-    <div class="container">
+    <div class="container overflow-hidden pb-5">
         <h2>Latest Webtoons</h2>
         <hr>
-        <?php
-        foreach ($webtoons as $webtoon)
-            include './component/webtoon.php';
-        ?>
+        <?php 
+        require_once __DIR__ . '/vendor/autoload.php';
+        use Anmol\Webtoon\Crud\WebtoonCrud;
+    
+        // create an object of WebtoonCrud Class
+        $db = new WebtoonCrud(DB_SERVER_NAME, DB_USER_NAME, DB_PASSWORD, DB_NAME);
+        $webtoons = $db->getWebtoons();
+        include('components/webtoon_list.php');?>
     </div>
 
-    <?php include "component/scroll_to_top_btn.php"; ?>
+    <?php include "components/scroll_to_top_btn.php"; ?>
 
     <!-- footer -->
-    <?php include "component/footer.php"; ?>
+    <?php include "components/footer.php"; ?>
 </body>
 
 
